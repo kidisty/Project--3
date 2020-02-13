@@ -1,0 +1,720 @@
+num_reviews,piece_count,prod_desc,prod_id,review_difficulty,set_name,star_rating,theme_name
+2.0,277,Catapult into action and take back the eggs from the Piggy Trike!,75823,Average,Bird Island Egg Heist,4.5,Angry Birds™
+2.0,168,Launch a flying attack and rescue the eggs from the Piggy Plane!,75822,Easy,Piggy Plane Attack,5.0,Angry Birds™
+11.0,74,Chase the piggy with lightning-fast Chuck and rescue the eggs!,75821,Easy,Piggy Car Escape,4.3,Angry Birds™
+23.0,1032,Explore the architecture of the United States Capitol Building!,21030,Average,United States Capitol Building,4.6,Architecture
+14.0,744,Recreate the Solomon R. Guggenheim Museum® with LEGO® Architecture!,21035,Challenging,Solomon R. Guggenheim Museum®,4.6,Architecture
+7.0,597,Celebrate Shanghai with this LEGO® Architecture Skyline set!,21039,Average,Shanghai,4.9,Architecture
+37.0,598,Celebrate New York City with this LEGO® Architecture Skyline model!,21028,Average,New York City,4.2,Architecture
+24.0,780,Recreate Buckingham Palace with LEGO® Architecture!,21029,Average,Buckingham Palace,4.7,Architecture
+23.0,468,Celebrate London with this LEGO® Architecture Skyline model!,21034,Average,London,4.7,Architecture
+11.0,444,Celebrate Chicago with this LEGO® Architecture Skyline model!,21033,Average,Chicago,4.8,Architecture
+14.0,386,Experience the grandeur of the Arc de Triomphe!,21036,Average,Arc de Triomphe,4.4,Architecture
+53.0,321,Build your own LEGO® interpretation of the iconic Eiffel Tower!,21019,Average,The Eiffel Tower,4.6,Architecture
+7.0,361,Celebrate Sydney with this LEGO® Architecture Skyline model!,21032,Easy,Sydney,4.6,Architecture
+63.0,847,Bring your LEGO® creations to life!,17101,Average,BOOST Creative Toolbox,3.4,BOOST
+13.0,708,Build a LEGO® BrickHeadz version of yourself!,41597,Average,Go Brick Me,4.8,BrickHeadz
+1.0,234,Train a raptor with LEGO® BrickHeadz™ Owen and Blue!,41614,Easy,Owen & Blue,5.0,BrickHeadz
+1.0,160,Join Mr. Incredible and Frozone for LEGO® BrickHeadz™ crime-fighting fun!,41613,Very Easy,Mr. Incredible & Frozone,5.0,BrickHeadz
+1.0,149,Growl like a Wookiee with a LEGO® BrickHeadz™ construction character featuring Chewbacca!,41609,Very Easy,Chewbacca™,3.0,BrickHeadz
+1.0,141,Be a rogue with a LEGO® BrickHeadz™ construction character featuring Han Solo!,41608,Very Easy,Han Solo™,4.0,BrickHeadz
+3.0,101,Save the universe with LEGO® BrickHeadz Iron Man MK50!,41604,Average,Iron Man MK50,4.7,BrickHeadz
+2.0,105,Feel the power of Infinity with LEGO® BrickHeadz Thanos!,41605,Easy,Thanos,5.0,BrickHeadz
+1.0,113,Be a legendary outlaw with LEGO® BrickHeadz Star-Lord!,41606,Easy,Star-Lord,5.0,BrickHeadz
+1.0,136,Master the skills of a green-skinned assassin with LEGO® BrickHeadz Gamora!,41607,Not Available,Gamora,5.0,BrickHeadz
+2.0,91,Join the Resistance with a LEGO® BrickHeadz construction character featuring Finn!,41485,Easy,Finn,4.5,BrickHeadz
+7.0,140,Say “I love you” with a LEGO® BrickHeadz™ Valentine's Bee!,40270,Easy,Valentine's Bee,4.9,BrickHeadz
+5.0,143,Stand tall with LEGO® BrickHeadz Wonder Woman™!,41599,Easy,Wonder Woman™,5.0,BrickHeadz
+3.0,122,Live life in the fast lane with LEGO® BrickHeadz The Flash™!,41598,Very Easy,The Flash™,4.0,BrickHeadz
+5.0,130,Summon the dark side with a LEGO® BrickHeadz construction character featuring Kylo Ren™!,41603,Easy,Kylo Ren™,5.0,BrickHeadz
+3.0,119,Feel the Force with a LEGO® BrickHeadz construction character featuring Rey!,41602,Easy,Rey,5.0,BrickHeadz
+1.0,135,Dive in with LEGO® BrickHeadz Aquaman™!,41600,Very Easy,Aquaman™,4.0,BrickHeadz
+2.0,108,Get an upgrade with LEGO® BrickHeadz Cyborg™,41601,Easy,Cyborg™,5.0,BrickHeadz
+1.0,240,Travel back to the future with LEGO® BrickHeadz™ Marty McFly and Doc Brown!,41611,Easy,Marty McFly & Doc Brown,5.0,BrickHeadz
+4.0,126,Hop to it with a LEGO® BrickHeadz™ Easter Bunny!,40271,Easy,Easter Bunny,5.0,BrickHeadz
+7.0,102,Unleash your true ninja spirit with LEGO® BrickHeadz Lloyd!,41487,Easy,Lloyd,5.0,BrickHeadz
+5.0,89,Learn the way of the ninja with LEGO® BrickHeadz Master Wu!,41488,Very Easy,Master Wu,4.4,BrickHeadz
+6.0,118,Lead a LEGO® BrickHeadz ghost crew featuring Disney’s Captain Armando Salazar!,41594,Very Easy,Captain Armando Salazar,5.0,BrickHeadz
+3.0,127,Lead the First Order with a LEGO® BrickHeadz construction character featuring Captain Phasma™,41486,Very Easy,Captain Phasma™,4.7,BrickHeadz
+11.0,91,Celebrate THE LEGO® BATMAN MOVIE with a LEGO BrickHeadz Batman!,41585,Very Easy,Batman™,4.9,BrickHeadz
+8.0,96,Stand your ground with your own LEGO® BrickHeadz Iron Man!,41590,Easy,Iron Man,4.9,BrickHeadz
+9.0,109,Treasure your own LEGO® BrickHeadz construction character featuring Disney’s Captain Jack Sparrow!,41593,Easy,Captain Jack Sparrow,4.8,BrickHeadz
+8.0,93,Have a smashing time with LEGO® BrickHeadz The Hulk!,41592,Easy,The Hulk,4.6,BrickHeadz
+10.0,139,Add some Disney fairytale romance with a LEGO® BrickHeadz construction character featuring Belle!,41595,Easy,Belle,4.8,BrickHeadz
+2.0,116,Bring a classic Disney tale to life with a LEGO® BrickHeadz construction character featuring Beast!,41596,Average,Beast,5.0,BrickHeadz
+12.0,151,Show off the evil trickster with LEGO® BrickHeadz The Joker™!,41588,Easy,The Joker™,4.8,BrickHeadz
+4.0,143,Recruit your own elite agent with LEGO® BrickHeadz Black Widow!,41591,Easy,Black Widow,4.8,BrickHeadz
+10.0,101,Showcase the Boy Wonder with LEGO® BrickHeadz Robin™!,41587,Very Easy,Robin™,4.8,BrickHeadz
+9.0,99,Channel Batgirl™ with your own LEGO® BrickHeadz version!,41586,Easy,Batgirl™,4.3,BrickHeadz
+35.0,888,Move heavy goods across LEGO® City with the Cargo Train!,60052,Average,Cargo Train,4.4,City
+45.0,610,Get around LEGO® City fast in the High-speed Passenger Train!,60051,Average,High-speed Passenger Train,4.4,City
+1.0,1250,Haul in fresh supplies at the exploration site!,60162,Average,Jungle Air Drop Helicopter,5.0,City
+3.0,792,Sail the high seas and make a thrilling rescue!,60167,Average,Coast Guard Head Quarters,3.7,City
+6.0,813,Discover the secrets of the jungle with the LEGO® City explorers!,60161,Average,Jungle Exploration Site,4.3,City
+10.0,894,Throw the crooks back in jail after they break out!,60141,Easy,Police Station,4.7,City
+1.0,883,Head to the LEGO® City mine and dig up some gold!,60188,Not Available,Mining Experts Site,5.0,City
+16.0,919,Jump into action and save the hot dog stand… and lunch!,60110,Average,Fire Station,4.6,City
+8.0,663,Stop the crooks from breaking their partner out of jail!,60174,Average,Mountain Police Headquarters,4.6,City
+4.0,740,Load up the truck and deliver the goods!,60169,Average,Cargo Terminal,5.0,City
+9.0,561,Protect the bank and stop the crooks!,60140,Easy,Bulldozer Break-in,3.3,City
+3.0,426,Watch your step while you explore new things in the jungle!,60160,Average,Jungle Mobile Lab,5.0,City
+2.0,303,Fly in and surprise the crooks at their hideout!,60173,Average,Mountain Arrest,4.0,City
+8.0,415,Perform a daring helicopter rescue before the shark gets too close!,60166,Challenging,Heavy-duty Rescue Helicopter,4.4,City
+10.0,374,Stop the crooks before they escape from the mobile jail!,60139,Easy,Mobile Command Center,4.0,City
+16.0,337,"Hop on, there’s so much to see with the LEGO® City bus!",60154,Easy,Bus Station,3.3,City
+1.0,294,Drive in the heavy driller and start digging the cave!,60186,Average,Mining Heavy Driller,5.0,City
+10.0,169,Pack your city with a bunch of new people!,60153,Very Easy,People pack – Fun at the beach,4.1,City
+14.0,294,Help Chase McCain and the police nab the crook!,60138,Average,High-speed Chase,4.2,City
+2.0,347,Race to the rescue on land and sea!,60165,Very Easy,4 x 4 Response Unit,5.0,City
+5.0,378,Defend the mission and dodge a surprise in the jungle!,60159,Easy,Jungle Halftrack Mission,4.8,City
+8.0,257,Call the Fire Response Unit for help!,60108,Average,Fire Response Unit,3.9,City
+7.0,344,"Load up the Pickup & Caravan, it’s time for a vacation!",60182,Easy,Pickup & Caravan,5.0,City
+7.0,310,Haul in the helicopter to handle the heavy lifting!,60183,Easy,Heavy Cargo Transport,4.7,City
+11.0,214,Put out the burning oil barrel!,60107,Easy,Fire Ladder Truck,4.5,City
+4.0,192,Jump the fire and give the crowd a thrilling show!,60180,Average,Monster Truck,5.0,City
+35.0,249,Order a pizza to go!,60150,Easy,Pizza Van,4.9,City
+89.0,24,Get killer curves in your tracks!,7499,Easy,Flexible and Straight Tracks,2.5,City
+12.0,239,Gear up for the big race!,60148,Easy,ATV Race Team,4.8,City
+6.0,190,Transport the mountain snowboarder to the hospital!,60179,Easy,Ambulance Helicopter,3.8,City
+7.0,174,Load the freshly cut logs with the awesome Forest Tractor!,60181,Easy,Forest Tractor,4.4,City
+8.0,144,Catch the crook before he tows the safe away!,60137,Easy,Tow Truck Trouble,4.3,City
+1.0,126,Speed after the crook on an exciting river chase!,60176,Easy,Wild River Escape,5.0,City
+1.0,127,Break up the rocks and discover the treasure inside!,60185,Easy,Mining Power Splitter,5.0,City
+3.0,141,Fly in and save the stranded sailor before he floats away!,60164,Easy,Sea Rescue Plane,4.3,City
+5.0,201,Fly into the jungle and explore the hidden temple!,60158,Average,Jungle Cargo Helicopter,4.4,City
+47.0,8,"Switch tracks – build a bigger, more exciting railway track.",7895,Very Easy,Switching Tracks,4.1,City
+85.0,2,Add roads to your LEGO® town!,7280,Very Easy,Straight & Crossroad Plates,3.5,City
+40.0,2,Roads for your LEGO® layout!,7281,Very Easy,T-Junction & Curved Road Plates,3.9,City
+2.0,87,Wow the crowds in the sleek Airshow Jet!,60177,Easy,Airshow Jet,4.5,City
+12.0,88,Cruise into the jungle and make a big discovery!,60157,Easy,Jungle Starter Set,4.9,City
+4.0,76,Rescue the surfer and be a coast guard hero!,60163,Very Easy,Coast Guard Starter Set,5.0,City
+2.0,88,Arrest the crooks and recover the hidden loot!,60171,Not Available,Mountain Fugitives,5.0,City
+2.0,82,Blow up the rock pile and discover gold!,60184,Very Easy,Mining Team,5.0,City
+1.0,78,Climb in the cockpit and set a new speed record!,60178,Easy,Speed Record Car,5.0,City
+2.0,37,Catch the crook before he escapes with the loot!,60170,Very Easy,Off-Road Chase,4.5,City
+5.0,53,Explore the depths of the jungle and find something amazing!,60156,Easy,Jungle Buggy,3.6,City
+30.0,157,Fill up your city with people!,60134,Very Easy,Fun in the park - City People Pack,4.6,City
+5.0,1277,Help out the volcano explorers and bring in the big equipment!,60125,Average,Volcano Heavy-lift Helicopter,4.6,City
+9.0,824,Get busy with some serious scientific work!,60124,Average,Volcano Exploration Base,4.6,City
+2.0,412,Save the lighthouse and rescue the keeper with the Fire Boat!,60109,Easy,Fire Boat,4.5,City
+2.0,403,Stop the crooks from stealing their car again!,60143,Not Available,Auto Transport Heist,4.0,City
+5.0,200,Keep the crook from escaping his boat ride to prison!,60129,Easy,Police Patrol Boat,3.2,City
+3.0,330,Fly in the exploration gear and fly out the crystals!,60123,Easy,Volcano Supply Helicopter,4.3,City
+4.0,324,Bring out the heavy machinery to do exploring right!,60122,Average,Volcano Crawler,5.0,City
+14.0,301,Take the Ferry to your next adventure!,60119,Easy,Ferry,4.2,City
+8.0,248,Celebrate 24 fun days with the LEGO® City Advent Calendar!,60155,Easy,LEGO® City Advent Calendar,3.8,City
+13.0,157,Load up the Cargo Plane and get ready to fly!,60101,Easy,Airport Cargo Plane,4.6,City
+6.0,175,Head off-road and make the big discoveries!,60121,Easy,Volcano Exploration Truck,4.8,City
+35.0,250,Pack up the gear; it’s time to go camping!,60117,Easy,Van & Caravan,4.6,City
+7.0,138,Catch the crook before she gets away with the safe!,60142,Easy,Money Transporter,4.4,City
+8.0,80,Stop the crooks before they empty the ATM!,60136,Easy,Police Starter Set,4.6,City
+8.0,91,Strap in and jump some ramps!,60146,Easy,Stunt Truck,4.8,City
+7.0,81,Start your engine and race through the dunes!,60145,Very Easy,Buggy,4.9,City
+7.0,83,Explore the volcano and make an exciting discovery!,60120,Easy,Volcano Starter Set,4.3,City
+10.0,81,Help get LEGO® City's mail on the helicopter!,60100,Very Easy,Airport Starter Set,4.9,City
+11.0,90,Save the dockworker and put out the blaze!,60106,Easy,Fire Starter Set,4.1,City
+5.0,47,Chase down the crook with the ATV!,60135,Very Easy,ATV Arrest,4.4,City
+4.0,790,"Create all kinds of buildings with LEGO® bricks, windows and doors!",10698,Easy,LEGO® Large Creative Brick Box,5.0,Classic
+11.0,484,Create your own LEGO® vehicles with LEGO Classic!,10696,Easy,LEGO® Medium Creative Brick Box,4.6,Classic
+2.0,213,Bring along a world of creativity in your own LEGO® Creative Suitcase!,10713,Very Easy,Creative Suitcase,5.0,Classic
+8.0,303,"Get ideas, get creative and get building!",10693,Easy,LEGO® Creative Supplement,4.9,Classic
+7.0,221,Get creative with classic LEGO® bricks in 29 different colors!,10692,Easy,LEGO® Creative Bricks,4.1,Classic
+24.0,1,Add another useful piece to your LEGO® collection with this Gray Baseplate!,10701,Very Easy,Gray Baseplate,4.1,Classic
+6.0,1,Create your own world on a Blue LEGO® Baseplate!,10714,Very Easy,Blue Baseplate,4.7,Classic
+46.0,1,Add another useful piece to your LEGO® collection with this Bright Green Baseplate!,10700,Very Easy,Green Baseplate,2.6,Classic
+8.0,78,Unleash your imagination with the LEGO® Blue Creativity Box!,10706,Very Easy,Blue Creativity Box,4.8,Classic
+5.0,66,Unleash your imagination with the LEGO® Green Creativity Box!,10708,Easy,Green Creativity Box,4.8,Classic
+4.0,55,Unleash your imagination with the LEGO® Red Creativity Box!,10707,Average,Red Creativity Box,4.5,Classic
+3.0,60,Unleash your imagination with the LEGO® Orange Creativity Box!,10709,Easy,Orange Creativity Box,4.7,Classic
+180.0,1,Everyone needs one!,630,Very Easy,Brick Separator,4.8,Classic
+6.0,303,Build whatever your heart desires with LEGO® bricks in 20 different bright colors!,10694,Easy,LEGO® Creative Supplement Bright,4.5,Classic
+24.0,1,Add another useful piece to your LEGO® collection with this Sand Baseplate!,10699,Very Easy,Sand Baseplate,3.6,Classic
+11.0,728,Build and enjoy the delightful 3-in-1 Family Villa!,31069,Average,Modular Family Villa,3.4,Creator 3-in-1
+14.0,670,Get behind the wheel of the awesome 3-in-1 Turbo Track Racer!,31070,Average,Turbo Track Racer,4.5,Creator 3-in-1
+4.0,422,Enjoy awesome activities at the 3-in-1 Modular Skate House!,31081,Average,Modular Skate House,4.8,Creator 3-in-1
+5.0,379,Enjoy seaside fun with the 3-in-1 Sunshine Surfer Van set!,31079,Easy,Sunshine Surfer Van,4.4,Creator 3-in-1
+2.0,374,Hit the slopes with the 3-in-1 Modular Winter Vacation set!,31080,Easy,Modular Winter Vacation,3.5,Creator 3-in-1
+12.0,285,Launch a satellite with the 3-in-1 Space Shuttle Explorer!,31066,Easy,Space Shuttle Explorer,4.2,Creator 3-in-1
+10.0,386,Enjoy eco-friendly adventures with the 3-in-1 Modern Home!,31068,Average,Modular Modern Home,3.8,Creator 3-in-1
+8.0,356,Play all day on a 3-in-1 Poolside Holiday!,31067,Average,Modular Poolside Holiday,4.6,Creator 3-in-1
+9.0,205,Have fun with the cute 3-in-1 Robo Explorer!,31062,Average,Robo Explorer,4.8,Creator 3-in-1
+2.0,241,Blast off from the start line in the 3-in-1 Rocket Rally Car!,31074,Easy,Rocket Rally Car,5.0,Creator 3-in-1
+1.0,200,Thrill the crowds with the 3-in-1 Daredevil Stunt Plane set!,31076,Average,Daredevil Stunt Plane,5.0,Creator 3-in-1
+1.0,225,Head into the wilds with the 3-in-1 Outback Adventures set!,31075,Easy,Outback Adventures,4.0,Creator 3-in-1
+27.0,174,Enjoy roaring adventures with the 3-in-1 Mighty Dinosaurs!,31058,Easy,Mighty Dinosaurs,4.7,Creator 3-in-1
+5.0,223,Create a world of scary 3-in-1 Mythical Creatures!,31073,Easy,Mythical Creatures,4.4,Creator 3-in-1
+6.0,122,Take an open-top drive in the cool 3-in-1 Green Cruiser!,31056,Easy,Green Cruiser,4.5,Creator 3-in-1
+1.0,102,Perform cool maneuvers with the 3-in-1 Air Blazer!,31057,Easy,Air Blazer,4.0,Creator 3-in-1
+1.0,109,Be an eye in the sky with the 3-in-1 Drone Explorer!,31071,Average,Drone Explorer,5.0,Creator 3-in-1
+8.0,222,Get ready for the ultra-cool 3-in-1 Fast Car!,31046,Average,Fast Car,4.6,Creator 3-in-1
+1.0,194,Take the 3-in-1 Sunset Street Bike for high-speed spin!,31059,Average,Sunset Street Bike,5.0,Creator 3-in-1
+15.0,528,Meet the wildlife at the brightly lit Lighthouse Point!,31051,Average,Lighthouse Point,4.7,Creator 3-in-1
+2.0,359,Fly to warmer climes for 3-in-1 Island Adventures!,31064,Average,Island Adventures,4.5,Creator 3-in-1
+9.0,286,Enjoy summer adventures with the 3-in-1 Beach Hut!,31035,Easy,Beach Hut,4.4,Creator 3-in-1
+5.0,275,Enjoy the beach life with the 3-in-1 Beachside Vacation!,31063,Average,Beachside Vacation,4.2,Creator 3-in-1
+4.0,326,Conquer ice and snow with the 3-in-1 Twin Spin Helicopter!,31049,Average,Twin Spin Helicopter,5.0,Creator 3-in-1
+7.0,230,Take a flight in the cool 3-in-1 Propeller Plane!,31047,Average,Propeller Plane,4.9,Creator 3-in-1
+2.0,124,Not Available,31043,Easy,Chopper Transporter,5.0,Creator 3-in-1
+4.0,132,Airlift vital supplies with the awesome 3-in-1 Cargo Heli!,31029,Average,Cargo Heli,4.8,Creator 3-in-1
+43.0,5923,Discover the architectural wonder of the Taj Mahal!,10256,Challenging,Taj Mahal,4.8,Creator Expert
+62.0,2480,Discover a place where music is on the menu!,10260,Challenging,Downtown Diner,4.6,Creator Expert
+51.0,902,Head home for the holidays with the Winter Village Station!,10259,Average,Winter Village Station,3.8,Creator Expert
+99.0,4002,Celebrate ten years of Modular Building with the Assembly Square!,10255,Challenging,Assembly Square,4.8,Creator Expert
+64.0,4163,Build the world’s best-known clock tower!,10253,Challenging,Big Ben,4.6,Creator Expert
+228.0,4295,Build London's famous Tower Bridge!,10214,Challenging,Tower Bridge,4.8,Creator Expert
+53.0,2670,Discover the fairground’s star attraction with the Carousel!,10257,Challenging,Carousel,4.4,Creator Expert
+91.0,2464,Experience the wonderful LEGO® Creator Ferris Wheel!,10247,Challenging,Ferris Wheel,4.9,Creator Expert
+115.0,2382,Make a safe deposit at the Brick Bank!,10251,Challenging,Brick Bank,4.7,Creator Expert
+202.0,2469,Have an unforgettable evening at the amazing Parisian Restaurant!,10243,Challenging,Parisian Restaurant,4.9,Creator Expert
+177.0,2262,Discover hidden clues and surprises at the Detective's Office!,10246,Challenging,Detective’s Office,4.6,Creator Expert
+53.0,1686,All aboard the London Bus!,10258,Average,London Bus,4.6,Creator Expert
+337.0,1334,Road trips will never be the same again with the iconic 1962 Volkswagen T1 Camper Van,10220,Challenging,Volkswagen T1 Camper Van,4.7,Creator Expert
+66.0,1167,Head for the beach with the VW Beetle!,10252,Average,Volkswagen Beetle,4.9,Creator Expert
+134.0,1077,Take this MINI Cooper for a nostalgic drive down memory lane!,10242,Average,MINI Cooper,4.7,Creator Expert
+77.0,734,Climb aboard the magical Winter Holiday Train!,10254,Average,Winter Holiday Train,4.3,Creator Expert
+19.0,3444,Dare to enter The Joker™ Manor!,70922,Challenging,The Joker™ Manor,5.0,THE LEGO® BATMAN MOVIE
+13.0,955,Unleash the Batmobile from The Flying Fox!,76087,Average,Flying Fox: Batmobile Airlift Attack,3.7,DC Comics™ Super Heroes
+6.0,267,"With LEGO® Dimensions™, you're gonna need a bigger imagination!",71171,Average,LEGO® DIMENSIONS™ PLAYSTATION® 4 Starter Pack,4.3,DIMENSIONS™
+9.0,643,Launch a space mission from the Batcave!,70923,Average,The Bat-Space Shuttle,4.8,THE LEGO® BATMAN MOVIE
+6.0,622,Fight for the Mother Box with Batman’s Knightcrawler!,76086,Average,Knightcrawler Tunnel Attack,5.0,DC Comics™ Super Heroes
+5.0,425,Dodge Harley Quinn’s cannonball attacks!,70921,Average,Harley Quinn™ Cannonball Attack,3.2,THE LEGO® BATMAN MOVIE
+5.0,406,Power up for battle against the Lex Luthor™ Mech!,76097,Average,Lex Luthor™ Mech Takedown,4.8,DC Comics™ Super Heroes
+6.0,271,Pursue Reverse Flash™ and grab the Energy Infuser!,76098,Easy,Speed Force Freeze Pursuit,4.8,DC Comics™ Super Heroes
+5.0,267,Party on with Superman™ and friends!,70919,Easy,The Justice League™ Anniversary Party,3.2,THE LEGO® BATMAN MOVIE
+11.0,293,Join Batman™ in a comical food fight!,70920,Average,Egghead™ Mech Food Fight,4.7,THE LEGO® BATMAN MOVIE
+1.0,151,Swoop in with Batman™ and take on the Joker™!,10753,Easy,The Joker™ Batcave Attack,5.0,Juniors
+2.0,198,Bring down Captain Boomerang™ with Batman’s Bat-Dune Buggy!,70918,Not Available,The Bat-Dune Buggy,4.5,THE LEGO® BATMAN MOVIE
+9.0,197,Protect the precious Mother Box from the evil Parademon™!,76085,Easy,Battle of Atlantis,4.2,DC Comics™ Super Heroes
+1.0,199,Help Superman™ bust out of the Kryptonite prison!,76096,Average,Superman™ & Krypto™ Team-Up,5.0,DC Comics™ Super Heroes
+5.0,143,Stand tall with LEGO® BrickHeadz Wonder Woman™!,41599,Easy,Wonder Woman™,5.0,BrickHeadz
+3.0,122,Live life in the fast lane with LEGO® BrickHeadz The Flash™!,41598,Very Easy,The Flash™,4.0,BrickHeadz
+1.0,135,Dive in with LEGO® BrickHeadz Aquaman™!,41600,Very Easy,Aquaman™,4.0,BrickHeadz
+2.0,108,Get an upgrade with LEGO® BrickHeadz Cyborg™,41601,Easy,Cyborg™,5.0,BrickHeadz
+7.0,712,Train your skills and learn how to become a Super Hero!,41232,Average,Super Hero High School,3.9,DC Super Hero Girls
+4.0,206,Recover Batgirl’s ePad from the evil Kryptomite™!,41230,Easy,Batgirl™ Batjet Chase,4.5,DC Super Hero Girls
+2.0,217,Save the super hero café from the evil Kryptomites!,41231,Average,Harley Quinn™ to the rescue,5.0,DC Super Hero Girls
+2.0,145,Rescue Krypto™ from Lashina’s clutches!,41233,Average,Lashina™ Tank,4.0,DC Super Hero Girls
+47.0,2526,Drive the villains out from Batman's Batcave!,76052,Average,Batman™ Classic TV Series – Batcave,4.6,DC Comics™ Super Heroes
+11.0,759,Bite back against Killer Croc™ with the Bat-Tank!,76055,Average,Batman™: Killer Croc™ Sewer Smash,4.3,DC Comics™ Super Heroes
+9.0,563,Help Batman™ rescue the farmer from Scarecrow™ and Killer Moth™!,76054,Easy,Batman™: Scarecrow™ Harvest of Fear,4.6,DC Comics™ Super Heroes
+1.0,351,Help Batgirl™ nab Mad Harriet™ and recover the microchip!,41237,Average,Batgirl™ Secret Bunker,5.0,DC Super Hero Girls
+18.0,306,Intercept the Kryptonite with the armored Batmobile!,76045,Average,Kryptonite Interception,4.6,DC Comics™ Super Heroes
+7.0,286,Help Wonder Woman™ defeat the villainous Ares™!,76075,Easy,Wonder Woman™ Warrior Battle,4.7,DC Comics™ Super Heroes
+8.0,257,Break out Robin™ from Ra's al Ghul's secret headquarters!,76056,Average,Batman™: Rescue from Ra's al Ghul™,4.4,DC Comics™ Super Heroes
+32.0,174,Zoom into orbit and recover Green Lantern’s lantern!,76025,Easy,Green Lantern vs. Sinestro,4.8,DC Comics™ Super Heroes
+2.0,142,Keep the crystals from the evil Kryptomites!,41234,Average,Bumblebee™ Helicopter,4.0,DC Super Hero Girls
+30.0,91,Get set for a Batman™ v Superman™ rooftop duel!,76044,Easy,Clash of the Heroes,4.3,DC Comics™ Super Heroes
+11.0,91,Celebrate THE LEGO® BATMAN MOVIE with a LEGO BrickHeadz Batman!,41585,Very Easy,Batman™,4.9,BrickHeadz
+3.0,93,Stage a Kryptonite clash with Superman™ and Bizarro™!,76068,Easy,Mighty Micros: Superman™ vs. Bizarro™,4.7,DC Comics™ Super Heroes
+12.0,151,Show off the evil trickster with LEGO® BrickHeadz The Joker™!,41588,Easy,The Joker™,4.8,BrickHeadz
+10.0,101,Showcase the Boy Wonder with LEGO® BrickHeadz Robin™!,41587,Very Easy,Robin™,4.8,BrickHeadz
+1.0,83,Fly Batman™ into battle against Killer Moth™!,76069,Easy,Mighty Micros: Batman™ vs. Killer Moth™,5.0,DC Comics™ Super Heroes
+2.0,85,Dive into battle against Doomsday™ with Wonder Woman™!,76070,Easy,Mighty Micros: Wonder Woman™ vs. Doomsday™,5.0,DC Comics™ Super Heroes
+9.0,99,Channel Batgirl™ with your own LEGO® BrickHeadz version!,41586,Easy,Batgirl™,4.3,BrickHeadz
+7.0,712,Train your skills and learn how to become a Super Hero!,41232,Average,Super Hero High School,3.9,DC Super Hero Girls
+4.0,206,Recover Batgirl’s ePad from the evil Kryptomite™!,41230,Easy,Batgirl™ Batjet Chase,4.5,DC Super Hero Girls
+2.0,217,Save the super hero café from the evil Kryptomites!,41231,Average,Harley Quinn™ to the rescue,5.0,DC Super Hero Girls
+2.0,145,Rescue Krypto™ from Lashina’s clutches!,41233,Average,Lashina™ Tank,4.0,DC Super Hero Girls
+1.0,351,Help Batgirl™ nab Mad Harriet™ and recover the microchip!,41237,Average,Batgirl™ Secret Bunker,5.0,DC Super Hero Girls
+2.0,142,Keep the crystals from the evil Kryptomites!,41234,Average,Bumblebee™ Helicopter,4.0,DC Super Hero Girls
+6.0,267,"With LEGO® Dimensions™, you're gonna need a bigger imagination!",71171,Average,LEGO® DIMENSIONS™ PLAYSTATION® 4 Starter Pack,4.3,DIMENSIONS™
+1.0,56,"Save the world before bedtime in the LEGO® DIMENSIONS™ multiverse with Buttercup™, the toughest fighter!",71343,Easy,The Powerpuff Girls™ Fun Pack,5.0,DIMENSIONS™
+1.0,56,It’s showtime! Bring Beetlejuice™ to life in the LEGO® DIMENSIONS™ multiverse for an eerie adventure!,71349,Easy,Beetlejuice™ Fun Pack,5.0,DIMENSIONS™
+2.0,105,Fight off villains with Raven and Beast Boy in the Teen Titans Go!™ Team Pack!,71255,Easy,Teen Titans Go!™ Team Pack,4.0,DIMENSIONS™
+5.0,259,Get spooky with Abby Yates and the Ghostbusters™!,71242,Average,Ghostbusters™ Story Pack,4.2,DIMENSIONS™
+2.0,156,Fight crime with Batgirl™ and Robin™ in THE LEGO® BATMAN MOVIE!,71264,Easy,THE LEGO® BATMAN MOVIE Story Pack,4.5,DIMENSIONS™
+2.0,118,Search for treasure while avoiding the Fratelli family in the Goonies™ Level Pack!,71267,Average,Goonies™ Level Pack,5.0,DIMENSIONS™
+6.0,76,Hang by a thread with Ethan on a Mission: Impossible™ level!,71248,Easy,Mission: Impossible™ Level Pack,4.5,DIMENSIONS™
+2.0,92,Get devious with DC Comics' The Joker™ & Harley Quinn™!,71229,Easy,DC Comics™ Team Pack,4.0,DIMENSIONS™
+11.0,96,Go retro with the LEGO® DIMENSIONS™ Midway Arcade™ Level Pack!,71235,Average,Midway Arcade™ Level Pack,3.2,DIMENSIONS™
+1.0,64,Continue your wizarding adventures in LEGO® DIMENSIONS™ with your very own Harry Potter™ Fun Pack featuring Hermione Granger.,71348,Very Easy,Harry Potter™ Fun Pack,5.0,DIMENSIONS™
+2.0,46,Help stop crime in the LEGO® DIMENSIONS™ multiverse with LEGO® City’s Fun Pack,71266,Average,LEGO® City Fun Pack,5.0,DIMENSIONS™
+7.0,40,Set out on time-traveling adventures with Cyberman™ from Doctor Who!,71238,Easy,Cyberman™ Fun Pack,4.6,DIMENSIONS™
+3.0,39,Keep watch over the multiverse from the shadows with Gollum™ from The Lord of the Rings™!,71218,Easy,LEGO® DIMENSIONS™ Gollum Fun Pack,4.3,DIMENSIONS™
+4.0,59,Team up with LEGO® Chima’s™ Eris to outsmart the competition!,71232,Average,LEGO® DIMENSIONS™ Eris Fun Pack,3.8,DIMENSIONS™
+171.0,4080,Welcome to the magical Disney Castle!,71040,Challenging,The Disney Castle,4.7,Disney™
+52.0,2294,Discover the secrets of the Silent Mary!,71042,Average,Silent Mary,4.5,Disney™
+5.0,701,Spend a day in the snow at Elsa’s Magical Ice Palace!,41148,Average,Elsa's Magical Ice Palace,4.0,Disney™
+3.0,585,Dine and dance at the Dream Castle with Disney Cinderella.,41154,Challenging,Cinderella's Dream Castle,4.3,Disney™
+3.0,380,Sail off to new adventures with Disney Ariel and Eric.,41153,Average,Ariel's Royal Celebration Boat,4.3,Disney™
+3.0,307,Set sail with Moana to restore the heart of Te Fiti!,41150,Easy,Moana’s Ocean Voyage,4.7,Disney™
+3.0,322,Help Disney Aurora turn the spinning wheel in her Fairytale Castle!,41152,Easy,Sleeping Beauty's Fairytale Castle,4.3,Disney™
+4.0,350,Drive off in Cinderella’s beautiful horse-drawn carriage!,41146,Average,Cinderella's Enchanted Evening,4.8,Disney™
+2.0,191,Roll up for a demolition derby at the Disney•Pixar Thunder Hollow Crazy 8 Race!,10744,Average,Thunder Hollow Crazy 8 Race,5.0,Juniors
+2.0,222,Explore the secrets of the sea with Ariel and Flounder.,41145,Average,Ariel and the Magical Spell,5.0,Disney™
+3.0,94,Play in the snow with Anna and Elsa at the ice palace!,10736,Average,Anna & Elsa's Frozen Playground,4.7,Juniors
+2.0,116,Fix Disney•Pixar’s Lightning McQueen for his next exciting race!,10743,Easy,Smokey's Garage,4.5,Juniors
+2.0,95,Smash the speed record with Disney•Pixar’s Lightning McQueen and Sheriff!,10742,Easy,Willy's Butte Speed Training,3.0,Juniors
+1.0,104,"Get in training with Disney Mulan, ready for the challenge ahead!",41151,Average,Mulan's Training Day,5.0,Disney™
+8.0,47,Power on and win with Disney•Pixar’s Lightning McQueen!,10730,Very Easy,Lightning McQueen Speed Launcher,4.0,Juniors
+3.0,62,Take a break at the junkyard with Disney•Pixar’s Mater and his video screen!,10733,Easy,Mater's Junkyard,4.7,Juniors
+1.0,115,Decorate and customize your castle!,40307,Easy,Castle Interior Kit,5.0,Disney™
+1.0,80,Create beautiful mini-doll outfits!,40388,Easy,Mini-Doll Dress-Up Kit,5.0,Disney™
+1.0,75,Pull in to Disney•Pixar’s Guido & Luigi’s Pit Stop for fun and games!,10732,Not Available,Guido and Luigi's Pit Stop,5.0,Juniors
+3.0,59,Help Disney•Pixar’s Cruz Ramirez become the fastest race car around!,10731,Easy,Cruz Ramirez Race Simulator,5.0,Juniors
+6.0,118,Lead a LEGO® BrickHeadz ghost crew featuring Disney’s Captain Armando Salazar!,41594,Very Easy,Captain Armando Salazar,5.0,BrickHeadz
+11.0,174,Help Anna and Kristoff bring summer back to Arendelle!,41066,Easy,Anna & Kristoff’s Sleigh Adventure,4.0,Disney™
+2.0,205,Help Moana find the heart of Te Fiti and fulfill her destiny!,41149,Challenging,Moana’s Island Adventure,4.5,Disney™
+1.0,186,Host a grand ball for all the Palace Pets!,41142,Very Easy,Palace Pets Royal Castle,5.0,Disney™
+2.0,153,Take a break with Anna and her horse on their journey!,41147,Easy,Anna's Snow Adventure,5.0,Disney™
+9.0,109,Treasure your own LEGO® BrickHeadz construction character featuring Disney’s Captain Jack Sparrow!,41593,Easy,Captain Jack Sparrow,4.8,BrickHeadz
+10.0,139,Add some Disney fairytale romance with a LEGO® BrickHeadz construction character featuring Belle!,41595,Easy,Belle,4.8,BrickHeadz
+2.0,116,Bring a classic Disney tale to life with a LEGO® BrickHeadz construction character featuring Beast!,41596,Average,Beast,5.0,BrickHeadz
+1.0,24,See the baby dinosaurs at the Jurassic World Gentle Giants Petting Zoo!,10879,Not Available,Gentle Giants Petting Zoo,5.0,DUPLO®
+22.0,134,Take the rocks down the track with the Deluxe Train Set!,10508,Average,Deluxe Train Set,4.1,DUPLO®
+8.0,163,Go Around the World on LEGO® DUPLO® adventures!,10805,Easy,Around the World,5.0,DUPLO®
+1.0,106,Enjoy a day of family fun at LEGO® DUPLO® Big Fair!,10840,Easy,Big Fair,5.0,DUPLO®
+1.0,67,"Get busy with a bulldozer, tipper truck and posable crane!",10813,Average,Big Construction Site,5.0,DUPLO®
+11.0,52,Hop aboard My First Train Set for beginning builder fun!,10507,Easy,My First Train Set,4.7,DUPLO®
+3.0,28,"Hang out with Lightning McQueen, Mack and Cruz Ramirez!",10846,Easy,Flo's Café,5.0,DUPLO®
+3.0,48,Spend a day at the beach with Mickey Mouse and friends!,10827,Very Easy,Mickey & Friends Beach House,5.0,DUPLO®
+2.0,57,Enjoy a delicious pizza at the LEGO® DUPLO® Pizzeria!,10834,Average,Pizzeria,5.0,DUPLO®
+3.0,28,Help Batman™ use the Batwing to retrieve the stolen treasure back from The Penguin!,10823,Average,Batwing Adventure,4.3,DUPLO®
+1.0,31,Race Lightning McQueen and Jackson Storm for the Piston Cup!,10857,Easy,Piston Cup Race,5.0,DUPLO®
+5.0,45,Build your own holiday season fun with Santa and his sleigh!,10837,Easy,Santa's Winter Holiday,4.2,DUPLO®
+1.0,37,Help Rapunzel groom Maximus and play out life in the tower.,10878,Very Easy,Rapunzel´s Tower,5.0,DUPLO®
+4.0,65,"Learn to discover, build and count with the All-In-One Box of Fun!",10572,Very Easy,LEGO® DUPLO® All-in-One-Box-of-Fun,5.0,DUPLO®
+2.0,26,Rush to save the burning building in the LEGO® DUPLO® Fire Truck!,10592,Very Easy,Fire Truck,5.0,DUPLO®
+4.0,24,Celebrate your birthday with Mickey and Minnie!,10597,Easy,Mickey & Minnie Birthday Parade,4.8,DUPLO®
+6.0,24,Turn the cone to make the carousel spin!,10845,Average,My First Carousel,2.2,DUPLO®
+2.0,39,Play and learn all day long at the LEGO® DUPLO® Preschool!,10833,Average,Preschool,5.0,DUPLO®
+5.0,23,Introduce counting with this easy-to-build train!,10847,Easy,Number Train,5.0,DUPLO®
+6.0,36,Learn to build and create your own fleet of LEGO® DUPLO® vehicles!,10816,Easy,My First Cars and Trucks,5.0,DUPLO®
+2.0,26,"Dig and shovel all day, then drive the rubble away!",10812,Average,Truck & Tracked Excavator,5.0,DUPLO®
+1.0,23,Join in Mater’s video chat with Lightning McQueen!,10856,Easy,Mater´s Shed,5.0,DUPLO®
+1.0,19,Enjoy a tea party with Belle and her extraordinary friends!,10877,Not Available,Belle´s Tea Party,4.0,DUPLO®
+1.0,15,Stop the crook and lock him in the police van!,10809,Easy,Police Patrol,4.0,DUPLO®
+15.0,1,Start creations here!,2304,Easy,LEGO® DUPLO® Green Baseplate,4.0,DUPLO®
+2.0,15,Play all day with the cute LEGO® DUPLO® Family Pets!,10838,Very Easy,Family Pets,5.0,DUPLO®
+1.0,28,Lock up Green Goblin in Spider-Man's amazing Spider Truck!,10608,Average,Spider-Man Spider Truck Adventure,5.0,DUPLO®
+3.0,13,Tune up the motorcycle in Spider-Man's workshop!,10607,Easy,Spider-Man Web-Bike Workshop,3.7,DUPLO®
+2.0,110,Combine the bricks to create your own buildings and stories!,10820,Very Easy,LEGO® DUPLO® Creative Building Basket,3.5,DUPLO®
+2.0,86,Fly through the Jungle and make some animal friends!,10804,Easy,Jungle,4.5,DUPLO®
+2.0,30,Join Sofia the First and ride along in her magical carriage!,10822,Very Easy,Sofia the First Magical Carriage,5.0,DUPLO®
+3.0,29,Head off on your holidays with the LEGO® DUPLO® Airport!,10590,Easy,Airport,5.0,DUPLO®
+3.0,25,Learn about daily routines with this easy-to-build set!,10616,Easy,My First Playhouse,5.0,DUPLO®
+3.0,12,Learn about colors and fruits with this easy-to-build set!,10615,Very Easy,My First Tractor,5.0,DUPLO®
+4.0,13,Look after baby animals from all around the world!,10801,Easy,Baby Animals,5.0,DUPLO®
+1.0,13,"Safety check the LEGO® DUPLO® Little Plane, then head for the skies!",10808,Very Easy,Little Plane,5.0,DUPLO®
+2.0,7,Watch budding builders take flight with this colorful parrot!,10852,Very Easy,My First Bird,5.0,DUPLO®
+2.0,8,Watch little bakers serve up cute LEGO® DUPLO® cakes!,10850,Easy,My First Cakes,5.0,DUPLO®
+1.0,695,Stop the Goblin King’s evil plan and rescue Emily Jones’ sister!,41188,Not Available,Breakout from the Goblin King's Fortress,5.0,Elves
+2.0,646,Rescue the captured Guardian Earth Fox from Noctura’s tower!,41194,Not Available,Noctura's Tower & the Earth Fox Rescue,4.5,Elves
+6.0,460,Heal the baby dragon and transform a goblin from bad to good!,41187,Average,Rosalyn's Healing Hideout,4.3,Elves
+2.0,451,Join forces with Aira and Lumia to protect the Wind Dragon!,41193,Average,Aira & the Song of the Wind Dragon,5.0,Elves
+8.0,339,Search for crystals in the cave with the evil Goblin King!,41183,Average,The Goblin King's Evil Dragon,4.3,Elves
+2.0,360,Free the Guardian Fire Lion from the evil shadow bats’ chain!,41192,Average,Azari & the Fire Lion Capture,4.0,Elves
+2.0,205,Help Naida defend the Guardian Water Turtle from the shadow bat!,41191,Average,Naida & the Water Turtle Ambush,5.0,Elves
+2.0,145,Escape the carnivorous plants with Azari and Firebolt!,41186,Average,Azari & the Goblin Forest Escape,5.0,Elves
+2.0,149,Help Emily Jones find the lost diary page and outwit the shadow bat!,41190,Easy,Emily Jones & the Eagle Getaway,5.0,Elves
+3.0,637,Explore the secret Goblin Village without getting caught!,41185,Average,Magic Rescue from the Goblin Village,5.0,Elves
+3.0,67,Protect the crystals from the goblin thief!,41181,Easy,Naida's Gondola & the Goblin Thief,5.0,Elves
+4.0,226,Protect Sophie Jones from being captured in Elvendale!,41182,Average,The Capture of Sophie Jones,4.5,Elves
+4.0,871,Look after the sick and injured people of Heartlake City!,41318,Average,Heartlake Hospital,4.8,Friends
+8.0,622,Make cakes ready for a party at Stephanie’s House!,41314,Average,Stephanie's House,4.1,Friends
+2.0,603,Jump aboard the luxury Sunshine Catamaran with friends!,41317,Challenging,Sunshine Catamaran,4.5,Friends
+7.0,722,Plot mission after mission together at the Friendship House!,41340,Average,Friendship House,4.1,Friends
+3.0,585,Get into winter sports with friends at the snow resort!,41324,Average,Snow Resort Ski Lift,3.7,Friends
+6.0,589,Enjoy swimming in the sunshine at the Heartlake Summer Pool!,41313,Easy,Heartlake Summer Pool,4.5,Friends
+1.0,460,Show off your sporting prowess at the Sports Arena!,41338,Average,Stephanie's Sports Arena,4.0,Friends
+4.0,402,Stay cozy and warm in the beautiful log cabin!,41323,Average,Snow Resort Chalet,5.0,Friends
+3.0,326,Have fun playing at Heartlake City Playground with Mia and Sienna!,41325,Challenging,Heartlake City Playground,3.7,Friends
+3.0,378,Get inspired with Emma at her favorite Art Café!,41336,Average,Emma's Art Café,2.7,Friends
+2.0,351,Climb up to the tree house and help Mia settle in!,41335,Challenging,Mia's Tree House,5.0,Friends
+2.0,307,Glide across the ice and show off your skills!,41322,Average,Snow Resort Ice Rink,4.5,Friends
+1.0,309,Cruise in style to the hottest beach party in town!,41316,Easy,Andrea's Speedboat Transporter,5.0,Friends
+7.0,289,Enjoy pizza with friends at Heartlake’s Italian restaurant!,41311,Easy,Heartlake Pizzeria,4.1,Friends
+3.0,246,Keep warm with delicious hot chocolate from the van!,41319,Easy,Snow Resort Hot Chocolate Van,4.0,Friends
+1.0,229,Put on a show in the park with Andrea and Pepper!,41334,Average,Andrea's Park Performance,5.0,Friends
+1.0,223,Drive to the rescue in Heartlake City with Olivia and Zobo.,41333,Not Available,Olivia's Mission Vehicle,5.0,Friends
+4.0,186,Get ready for a day of watersports action at the Surf Shop!,41315,Easy,Heartlake Surf Shop,4.5,Friends
+1.0,163,Work on Olivia’s latest invention in her hi-tech bedroom!,41329,Easy,Olivia's Deluxe Bedroom,4.0,Friends
+2.0,67,Join Emma and her cat for a fun party in the park!,10748,Very Easy,Emma's Pet Party,5.0,Juniors
+2.0,95,Stephanie is always on the go… even at home in her bedroom!,41328,Easy,Stephanie's Bedroom,5.0,Friends
+3.0,86,Explore Mia’s bedroom and discover her personality!,41327,Average,Mia's Bedroom,3.0,Friends
+2.0,249,Keep things safe inside this cute buildable hedgehog!,40171,Average,LEGO® Friends Buildable Hedgehog Storage,5.0,Friends
+5.0,286,Look after Heartlake's coolest canines!,41124,Average,Heartlake Puppy Daycare,5.0,Friends
+5.0,176,Head to the Heartlake Party Shop for all your celebration supplies!,41132,Easy,Heartlake Party Shop,2.8,Friends
+8.0,195,Not Available,41128,Average,Amusement Park Space Ride,4.5,Friends
+1.0,62,Train for the big dog show with Sky the puppy!,41303,Not Available,Puppy Playground,5.0,Friends
+17.0,1124,Not Available,41130,Average,Amusement Park Roller Coaster,4.8,Friends
+5.0,774,"Learn to sing, dance and play with friends in Heartlake City!",41134,Easy,Heartlake Performance School,2.8,Friends
+5.0,575,Train for the next big horse show at the Heartlake Riding Club!,41126,Average,Heartlake Riding Club,5.0,Friends
+3.0,328,Stay fit and healthy at the Heartlake Sports Center!,41312,Average,Heartlake Sports Center,4.7,Friends
+18.0,217,Count down to Christmas with LEGO® Friends!,41326,Easy,LEGO® Friends Advent Calendar,2.6,Friends
+1.0,185,Drive the van to send special gifts all around Heartlake City!,41310,Easy,Heartlake Gift Delivery,4.0,Friends
+1.0,145,Arrive at the dog show in style with a puppy limo!,41301,Not Available,Puppy Parade,4.0,Friends
+6.0,174,Not Available,41127,Average,Amusement Park Arcade,4.3,Friends
+1.0,79,Hop on the scooter and zoom off to catch some waves!,41306,Easy,Mia's Beach Scooter,4.0,Friends
+2.0,77,Pamper Emma's cute pet foal at the Foal's Washing Station!,41123,Easy,Foal's Washing Station,5.0,Friends
+1.0,45,Get puppy Lara ready for her big dog show debut!,41302,Easy,Puppy Pampering,5.0,Friends
+130.0,4634,Get ready to bust some ghosts at the Firehouse Headquarters!,75827,Challenging,Firehouse Headquarters,4.8,Ghostbusters™
+24.0,556,Speed after Mayhem with the LEGO® Ghostbusters™ Ecto-1 & 2 vehicles!,75828,Average,Ecto-1 & 2,4.8,Ghostbusters™
+83.0,962,"Designed by fan creator, Jake Sadovich, Idaho, USA.",21313,Average,Ship in a Bottle,4.5,Ideas
+30.0,230,Reimagine Disney’s TRON: Legacy movie scenes with LEGO® bricks!,21314,Easy,TRON: Legacy,4.4,Ideas
+79.0,2049,Prepare for the ultimate fishing trip!,21310,Average,Old Fishing Store,5.0,Ideas
+367.0,1969,Build the first rocket to land people on the Moon!,21309,Challenging,LEGO® NASA Apollo Saturn V,4.9,Ideas
+23.0,496,What time is it? It’s LEGO® Adventure Time™!,21308,Easy,Adventure Time™,3.3,Ideas
+33.0,231,"Build, play and learn from inspiring women of NASA!",21312,Easy,Women of NASA,4.6,Ideas
+51.0,773,Add quirky vehicle style to your shelf or desk!,21307,Average,Caterham Seven 620R,4.1,Ideas
+1.0,266,Race with Disney•Pixar’s Lightning McQueen for the trophy!,10745,Challenging,Florida 500 Final Race,5.0,Juniors
+2.0,191,Roll up for a demolition derby at the Disney•Pixar Thunder Hollow Crazy 8 Race!,10744,Average,Thunder Hollow Crazy 8 Race,5.0,Juniors
+2.0,175,Tear it down and build it again!,10734,Not Available,Demolition Site,5.0,Juniors
+3.0,94,Play in the snow with Anna and Elsa at the ice palace!,10736,Average,Anna & Elsa's Frozen Playground,4.7,Juniors
+1.0,151,Swoop in with Batman™ and take on the Joker™!,10753,Easy,The Joker™ Batcave Attack,5.0,Juniors
+2.0,116,Fix Disney•Pixar’s Lightning McQueen for his next exciting race!,10743,Easy,Smokey's Garage,4.5,Juniors
+2.0,100,It’s feeding time down at the animal farm!,10746,Easy,Mia's Farm Suitcase,5.0,Juniors
+2.0,95,Smash the speed record with Disney•Pixar’s Lightning McQueen and Sheriff!,10742,Easy,Willy's Butte Speed Training,3.0,Juniors
+1.0,125,Swing into action with Spider-Man and catch the Scorpion!,10754,Not Available,Spider-Man vs. Scorpion Street Showdown,4.0,Juniors
+2.0,108,Help Kai and Lloyd save NINJAGO® City from Great White!,10739,Easy,Shark Attack,4.5,Juniors
+1.0,110,Help the firefighters battle the blaze!,10740,Easy,Fire Patrol Suitcase,4.0,Juniors
+2.0,67,Help Snow White choose a pie to bake for her animal friends!,10738,Average,Snow White's Forest Cottage,5.0,Juniors
+2.0,63,Battle Mr. Freeze™ with Batman™ and his Batboat on the Gotham City Sea!,10737,Easy,Batman™ vs. Mr. Freeze™,4.5,Juniors
+8.0,47,Power on and win with Disney•Pixar’s Lightning McQueen!,10730,Very Easy,Lightning McQueen Speed Launcher,4.0,Juniors
+3.0,62,Take a break at the junkyard with Disney•Pixar’s Mater and his video screen!,10733,Easy,Mater's Junkyard,4.7,Juniors
+2.0,67,Join Emma and her cat for a fun party in the park!,10748,Very Easy,Emma's Pet Party,5.0,Juniors
+1.0,75,Pull in to Disney•Pixar’s Guido & Luigi’s Pit Stop for fun and games!,10732,Not Available,Guido and Luigi's Pit Stop,5.0,Juniors
+3.0,59,Help Disney•Pixar’s Cruz Ramirez become the fastest race car around!,10731,Easy,Cruz Ramirez Race Simulator,5.0,Juniors
+1.0,143,Have fun at the seaside with Stephanie and Andrea!,10747,Average,Andrea & Stephanie's Beach Holiday,5.0,Juniors
+5.0,137,Protect the Spider-Man™ Hideout against an aerial assault from Green Goblin!,10687,Very Easy,Spider-Man™ Hideout,4.2,Juniors
+1.0,172,Discover the Lost Temple and help Lloyd win the Sword of Fire!,10725,Very Easy,Lost Temple,4.0,Juniors
+3.0,90,Catch the crook before he gets away!,10735,Easy,Police Truck Chase,5.0,Juniors
+2.0,58,Plan a day of riding with friends!,10726,Very Easy,Stephanie's Horse Carriage,3.0,Juniors
+1.0,70,Ride the waves with Ariel and Flounder as she explores new worlds in her dolphin carriage!,10723,Easy,Ariel’s Dolphin Carriage,5.0,Juniors
+2.0,1019,Rescue Maisie from the Indoraptor at Lockwood Estate!,75930,Easy,Indoraptor Rampage at Lockwood Estate,5.0,Indoraptor Rampage at Lockwood Estate
+1.0,577,Escape from the rampaging Carnotaurus!,75929,Not Available,Carnotaurus Gyrosphere Escape,5.0,Carnotaurus Gyrosphere Escape
+4.0,360,Play a game of hide and seek with the Velociraptor!,75932,Average,Jurassic Park Velociraptor Chase,5.0,Jurassic Park Velociraptor Chase
+1.0,289,Defend the outpost from the terrifying Dilophosaurus!,75931,Easy,Dilophosaurus Outpost Attack,4.0,Dilophosaurus Outpost Attack
+2.0,222,Stage a security breach with a dinosaur lab breakout!,75927,Average,Stygimoloch Breakout,5.0,Stygimoloch Breakout
+1.0,234,Train a raptor with LEGO® BrickHeadz™ Owen and Blue!,41614,Easy,Owen & Blue,5.0,BrickHeadz
+1.0,126,Chase the Pteranodon and rescue it from danger!,75926,Easy,Pteranodon Chase,4.0,Pteranodon Chase
+1.0,24,See the baby dinosaurs at the Jurassic World Gentle Giants Petting Zoo!,10879,Not Available,Gentle Giants Petting Zoo,5.0,DUPLO®
+52.0,1363,Create and show off the mighty Hulkbuster!,76105,Average,The Hulkbuster: Ultron Edition,3.8,Marvel Super Heroes
+7.0,1004,Stop Cull Obsidian and Ebony Maw stealing the Infinity Stone!,76108,Average,Sanctum Sanctorum Showdown,5.0,Marvel Super Heroes
+17.0,674,Battle Thanos for the Infinity Gauntlet with the Avengers!,76107,Average,Thanos: Ultimate Battle,4.7,Marvel Super Heroes
+3.0,416,Repel Corvus Glaive’s thresher attack on the Wakandan wall!,76103,Average,Corvus Glaive Thresher Attack,4.0,Marvel Super Heroes
+13.0,375,Bash the ball-shooting gun turret with the Hulkbuster!,76104,Easy,The Hulkbuster Smash-Up,4.8,Marvel Super Heroes
+10.0,223,Find Thor’s ultimate weapon!,76102,Easy,Thor's Weapon Quest,4.4,Marvel Super Heroes
+13.0,124,Defend Wakanda from attack with the Avengers!,76101,Easy,Outrider Dropship Attack,4.8,Marvel Super Heroes
+3.0,101,Save the universe with LEGO® BrickHeadz Iron Man MK50!,41604,Average,Iron Man MK50,4.7,BrickHeadz
+2.0,105,Feel the power of Infinity with LEGO® BrickHeadz Thanos!,41605,Easy,Thanos,5.0,BrickHeadz
+1.0,113,Be a legendary outlaw with LEGO® BrickHeadz Star-Lord!,41606,Easy,Star-Lord,5.0,BrickHeadz
+1.0,136,Master the skills of a green-skinned assassin with LEGO® BrickHeadz Gamora!,41607,Not Available,Gamora,5.0,BrickHeadz
+6.0,492,Battle for freedom in the arena with Hulk and Thor!,76088,Average,Thor vs. Hulk: Arena Clash,4.3,Marvel Super Heroes
+7.0,375,Get ready for a clash of the Hulks!,76078,Easy,Hulk vs. Red Hulk,3.7,Marvel Super Heroes
+6.0,400,Fight for the future of Asgard!,76084,Easy,The Ultimate Battle for Asgard,4.3,Marvel Super Heroes
+23.0,375,Intercept The Shocker and take down the Vulture!,76083,Average,Beware the Vulture,4.6,Marvel Super Heroes
+7.0,358,Capture Killmonger with Nakia’s awesome Royal Talon Fighter!,76100,Average,Royal Talon Fighter Attack,4.7,Marvel Super Heroes
+10.0,377,Send in Iron Man to rescue Agent Coulson from Detroit Steel!,76077,Easy,Iron Man: Detroit Steel Strikes,4.6,Marvel Super Heroes
+6.0,229,Battle Killmonger for the precious vibranium with Black Panther!,76099,Easy,Rhino Face-Off by the Mine,4.7,Marvel Super Heroes
+9.0,185,Foil the masked robbers’ bank raid!,76082,Easy,ATM Heist Battle,3.9,Marvel Super Heroes
+10.0,160,Retrieve Captain America's shield from evil Super-Adaptoid!,76076,Easy,Captain America Jet Pursuit,3.7,Marvel Super Heroes
+1.0,125,Swing into action with Spider-Man and catch the Scorpion!,10754,Not Available,Spider-Man vs. Scorpion Street Showdown,4.0,Juniors
+2.0,79,Match Thor against Loki in an epic Mighty Micros clash!,76091,Easy,Mighty Micros: Thor vs. Loki,3.5,Marvel Super Heroes
+1.0,79,Begin a battle of the bugs with Spider-Man and Scorpion!,76071,Very Easy,Mighty Micros: Spider-Man vs. Scorpion,4.0,Marvel Super Heroes
+12.0,323,Team up to take on Ayesha and save the galaxy!,76080,Average,Ayesha's Revenge,4.8,Marvel Super Heroes
+14.0,330,Jump to the rescue and control the blaze with the Avengers and Spider-Man!,76067,Easy,Tanker Truck Takedown,4.8,Marvel Super Heroes
+15.0,358,Banish the portal beast from Doctor Strange’s Sanctum Sanctorum!,76060,Average,Doctor Strange's Sanctum Sanctorum,4.5,Marvel Super Heroes
+9.0,197,Team up with Mantis and Rocket and fight back against Taserface!,76079,Easy,Ravager Attack,4.4,Marvel Super Heroes
+25.0,92,Take down the Ultron jet with super-jumping Iron Man!,76029,Very Easy,Iron Man vs. Ultron,4.5,Marvel Super Heroes
+10.0,94,Thrust Iron Man into battle against evil Thanos!,76072,Very Easy,Mighty Micros: Iron Man vs. Thanos,4.4,Marvel Super Heroes
+8.0,96,Stand your ground with your own LEGO® BrickHeadz Iron Man!,41590,Easy,Iron Man,4.9,BrickHeadz
+8.0,93,Have a smashing time with LEGO® BrickHeadz The Hulk!,41592,Easy,The Hulk,4.6,BrickHeadz
+4.0,85,Take a swipe at Magneto with the mighty Wolverine!,76073,Easy,Mighty Micros: Wolverine vs. Magneto,4.0,Marvel Super Heroes
+4.0,143,Recruit your own elite agent with LEGO® BrickHeadz Black Widow!,41591,Easy,Black Widow,4.8,BrickHeadz
+38.0,601,Create and command robots that do what you want with LEGO® MINDSTORMS® EV3!,31313,Challenging,LEGO® MINDSTORMS® EV3,4.3,MINDSTORMS®
+1.0,1,Not Available,45500,Average,EV3 Intelligent Brick,4.0,MINDSTORMS®
+6.0,1,Not Available,45501,Very Easy,EV3 Rechargeable DC Battery,4.3,MINDSTORMS®
+1.0,1,Not Available,45506,Very Easy,EV3 Color Sensor,5.0,MINDSTORMS®
+3.0,1,Not Available,45508,Average,EV3 Infrared Beacon,5.0,MINDSTORMS®
+2.0,1,Not Available,45517,Very Easy,Transformer 10V DC,4.0,MINDSTORMS®
+2.0,1,Not Available,45502,Not Available,EV3 Large Servo Motor,5.0,MINDSTORMS®
+1.0,1,Not Available,45503,Easy,EV3 Medium Servo Motor,5.0,MINDSTORMS®
+4.0,1,Not Available,45504,Challenging,EV3 Ultrasonic Sensor,3.5,MINDSTORMS®
+11.0,2863,Experience the Mountain Cave!,21137,Challenging,The Mountain Cave,4.5,Minecraft™
+2.0,1122,Unlock the treasures of the Ocean Monument!,21136,Easy,The Ocean Monument,5.0,Minecraft™
+7.0,729,Build and defend the awesome Waterfall Base!,21134,Average,The Waterfall Base,4.1,Minecraft™
+1.0,717,Expand your LEGO® Minecraft™ universe!,21135,Challenging,The Crafting Box 2.0,5.0,Minecraft™
+4.0,549,Create a flourishing Farm Cottage!,21144,Easy,The Farm Cottage,4.8,Minecraft™
+1.0,470,Board the minecart and journey through the Nether Portal!,21143,Average,The Nether Portal,5.0,Minecraft™
+6.0,387,Ride The Nether Railway!,21130,Easy,The Nether Railway,4.7,Minecraft™
+4.0,198,Enjoy Minecraft™ farming adventures with the Chicken Coop!,21140,Average,The Chicken Coop,4.5,Minecraft™
+2.0,241,Enter the Zombie Cave at your peril!,21141,Average,The Zombie Cave,5.0,Minecraft™
+16.0,208,Spring a surprise attack with The Iron Golem!,21123,Easy,The Iron Golem,4.6,Minecraft™
+5.0,247,Discover The Mushroom Island!,21129,Average,The Mushroom Island,4.6,Minecraft™
+4.0,69,Grow and trade your crops at the Melon Farm!,21138,Easy,The Melon Farm,4.3,Minecraft™
+14.0,571,Battle the hostile mobs at The Nether Fortress!,21122,Easy,The Nether Fortress,3.5,Minecraft™
+14.0,706,Build and defend The Jungle Tree House!,21125,Average,The Jungle Tree House,4.7,Minecraft™
+6.0,559,Venture into the stronghold and activate the End portal!,21124,Average,The End Portal,5.0,Minecraft™
+15.0,519,Prepare for battle at The Desert Outpost!,21121,Average,The Desert Outpost,4.8,Minecraft™
+3.0,318,Prepare to battle the wither!,21126,Average,The Wither,5.0,Minecraft™
+16.0,219,Enter the zombie-spawning dungeon at your peril!,21119,Average,The Dungeon,3.4,Minecraft™
+14.0,7,Get the party started with LEGO® Minifigures!,71021,Very Easy,Series 18: Party,4.6,Minifigures
+10.0,169,Pack your city with a bunch of new people!,60153,Very Easy,People pack – Fun at the beach,4.1,City
+13.0,8,Discover new heroes and villains in LEGO® Minifigures—THE LEGO BATMAN MOVIE Series 2.,71020,Very Easy,THE LEGO® BATMAN MOVIE Series 2,4.8,Minifigures
+22.0,8,Bring the NINJAGO® world to life with LEGO® Minifigures!,71019,Very Easy,THE LEGO® NINJAGO® MOVIE™,4.3,Minifigures
+26.0,7,"Collect the LEGO® Minifigures, Series 17—A story in every bag!",71018,Very Easy,Series 17,4.1,Minifigures
+5.0,1426,Stand your ground and save the realm with the 2-in-1 Knighton Castle!,70357,Challenging,Knighton Castle,2.6,NEXO KNIGHTS™
+3.0,604,Deploy Axl's Rolling Arsenal for the biggest battles!,72006,Challenging,Axl's Rolling Arsenal,4.0,NEXO KNIGHTS™
+3.0,506,Suit up for a Tech Wizard Showdown with Clay’s 3-in-1 mech!,72004,Average,Tech Wizard Showdown,5.0,NEXO KNIGHTS™
+1.0,191,Double the action with the 2-in-1 Twinfector!,72002,Easy,Twinfector,5.0,NEXO KNIGHTS™
+1.0,251,Protect Robot Hoodlum from The Bedrock Monster!,70358,Average,Aaron's Stone Destroyer,5.0,NEXO KNIGHTS™
+2.0,88,Watch Axl become unstoppable on the battlefield!,70365,Not Available,Battle Suit Axl,4.0,NEXO KNIGHTS™
+1.0,98,Stop the Stone stomper with the King’s Guard battle vehicle!,70347,Not Available,King's Guard Artillery,4.0,NEXO KNIGHTS™
+17.0,1140,Roll into action with the NEXO KNIGHTS™ 2-in-1 battle castle!,70317,Challenging,The Fortrex,4.9,NEXO KNIGHTS™
+3.0,840,Help the heroic knights rescue Ava from Jestro’s head-shaped HQ!,70352,Average,Jestro's Headquarters,5.0,NEXO KNIGHTS™
+3.0,670,Protect the spell book from Burnzie in Axl's Tower Carrier!,70322,Average,Axl's Tower Carrier,5.0,NEXO KNIGHTS™
+1.0,598,Run rings around the Krakenbeast with Aaron’s 3-in-1 Rock Climber!,70355,Average,Aaron's Rock Climber,5.0,NEXO KNIGHTS™
+1.0,393,Keep trouble at bay with Axl’s 3-in-1 Rumble Maker!,70354,Not Available,Axl's Rumble Maker,5.0,NEXO KNIGHTS™
+2.0,516,Tower over the enemy with the monstrous Siege Machine of Doom!,70321,Challenging,General Magmar's Siege Machine of Doom,5.0,NEXO KNIGHTS™
+2.0,257,Charge Lance into battle against the gargoyles!,70359,Easy,Lance vs. lightning,4.5,NEXO KNIGHTS™
+1.0,266,Charge Axl into battle against the three fearsome brothers!,70350,Average,The Three Brothers,4.0,NEXO KNIGHTS™
+2.0,208,Rescue the queen from Ruina’s Lock & Roller!,70349,Average,Ruina's Lock & Roller,4.5,NEXO KNIGHTS™
+1.0,216,Hunt the Rogul with Lance’s four-in-one Twin Jouster!,70348,Very Easy,Lance's Twin Jouster,5.0,NEXO KNIGHTS™
+3.0,187,Smash Aaron Fox out of the way and capture the Book of Chaos!,70313,Average,Moltor’s Lava Smasher,4.7,NEXO KNIGHTS™
+1.0,80,Grab a battle suit and help Aaron defend Knighton!,70364,Very Easy,Battle Suit Aaron,4.0,NEXO KNIGHTS™
+2.0,67,Hammer the enemy into defeat with Ultimate Flama!,70339,Very Easy,Ultimate Flama,4.0,NEXO KNIGHTS™
+2.0,75,Soar into battle with Ultimate Lance and his jet wings!,70337,Easy,Ultimate Lance,3.5,NEXO KNIGHTS™
+1.0,64,Fire up Ultimate General Magmar to defeat the opponents!,70338,Very Easy,Ultimate General Magmar,5.0,NEXO KNIGHTS™
+8.0,10,Collect and combine the NEXO Powers to defeat Monstrox!,70372,Very Easy,Combo NEXO Powers Wave 1,3.4,NEXO KNIGHTS™
+52.0,2295,Join the ninja aboard Wu’s flying ship!,70618,Challenging,Destiny's Bounty,4.9,THE LEGO® NINJAGO® MOVIE™
+88.0,4867,Live the life of a ninja in NINJAGO® City!,70620,Challenging,NINJAGO® City,4.9,THE LEGO® NINJAGO® MOVIE™
+15.0,1403,Evade the traps inside the Temple!,70617,Average,Temple of The Ultimate Ultimate Weapon,4.8,THE LEGO® NINJAGO® MOVIE™
+11.0,1202,Turn sound into a weapon with Cole’s Quake Mech!,70632,Average,Quake Mech,4.5,THE LEGO® NINJAGO® MOVIE™
+9.0,830,Defend NINJAGO® City from Garmadon Shark Mech attack!,70656,Average,"garmadon, Garmadon, GARMADON!",4.9,THE LEGO® NINJAGO® MOVIE™
+6.0,914,Take on the shark army with Zane’s Ice Tank!,70616,Average,Ice Tank,4.8,THE LEGO® NINJAGO® MOVIE™
+6.0,765,Explore the mysterious Temple of Resurrection!,70643,Average,Temple of Resurrection,4.2,NINJAGO®
+19.0,944,Put the heat on the shark army with Kai’s Fire Mech!,70615,Average,Fire Mech,4.2,THE LEGO® NINJAGO® MOVIE™
+8.0,747,Defend NINJAGO® City against Garma Mecha Man!,70613,Average,Garma Mecha Man,4.5,THE LEGO® NINJAGO® MOVIE™
+8.0,876,Speed to the rescue with Jay’s Lightning Jet!,70614,Average,Lightning Jet,5.0,THE LEGO® NINJAGO® MOVIE™
+2.0,556,Get weaponized for a dynamic Killow vs. Samurai X duel!,70642,Average,Killow vs. Samurai X,4.0,NINJAGO®
+7.0,521,Get all fired up at Garmadon’s Volcano Lair!,70631,Average,Garmadon's Volcano Lair,4.3,THE LEGO® NINJAGO® MOVIE™
+29.0,544,Take on Garmadon with the Green Ninja Mech Dragon!,70612,Average,Green Ninja Mech Dragon,4.7,THE LEGO® NINJAGO® MOVIE™
+4.0,552,Shoot on the go with Lloyd’s Ninja Nightcrawler!,70641,Challenging,Ninja Nightcrawler,4.8,NINJAGO®
+3.0,308,Stage a high-speed bike showdown!,70639,Average,Street Race of Snake Jaguar,4.7,NINJAGO®
+21.0,494,Smash the shark army out of the water with the Water Strider!,70611,Average,Water Strider,4.5,THE LEGO® NINJAGO® MOVIE™
+10.0,312,Battle against evil Jungle Garmadon on the jungle bridge!,70608,Easy,Master Falls,4.0,THE LEGO® NINJAGO® MOVIE™
+6.0,341,Protect NINJAGO® City from flying Manta Ray Bomber attack!,70609,Easy,Manta Ray Bomber,4.3,THE LEGO® NINJAGO® MOVIE™
+7.0,341,Take on the tentacular Flying Jelly Sub with Jay!,70610,Average,Flying Jelly Sub,4.6,THE LEGO® NINJAGO® MOVIE™
+3.0,257,Pursue Luke Cunningham with Kai’s Katana V11!,70638,Average,Katana V11,5.0,NINJAGO®
+8.0,217,Stop a Piranha Attack with Kai and Misako!,70629,Easy,Piranha Attack,3.6,THE LEGO® NINJAGO® MOVIE™
+18.0,233,Stop a crime in the NINJAGO® City street market!,70607,Easy,NINJAGO® City Chase,4.6,THE LEGO® NINJAGO® MOVIE™
+1.0,48,Achieve Spinjitzu greatness with the Green Ninja!,70628,Very Easy,Lloyd - Spinjitzu Master,5.0,THE LEGO® NINJAGO® MOVIE™
+1.0,68,Create brilliant Spinjitzu tricks with the Blue Ninja!,70635,Very Easy,Jay - Spinjitzu Master,4.0,NINJAGO®
+2.0,73,Master the art of Spinjitzu with the Black Ninja!,70637,Easy,Cole - Spinjitzu Master,5.0,NINJAGO®
+11.0,109,Practice your Spinjitzu skills with Kai and Zane!,70606,Easy,Spinjitzu Training,4.7,THE LEGO® NINJAGO® MOVIE™
+7.0,102,Unleash your true ninja spirit with LEGO® BrickHeadz Lloyd!,41487,Easy,Lloyd,5.0,BrickHeadz
+5.0,89,Learn the way of the ninja with LEGO® BrickHeadz Master Wu!,41488,Very Easy,Master Wu,4.4,BrickHeadz
+8.0,754,Launch a surprise attack on the sky pirates’ awesome HQ!,70605,Average,Misfortune’s Keep,4.5,NINJAGO®
+6.0,439,Match the Salvage M.E.C. vs. the Skulkin mech in a bounty-hunting duel!,70592,Average,Salvage M.E.C.,4.8,NINJAGO®
+5.0,313,Watch out for the mighty egg-launching Vermillion Invader!,70624,Average,Vermillion Invader,4.6,NINJAGO®
+7.0,360,Glide across and above the swamp with Destiny's Shadow!,70623,Average,Destiny's Shadow,4.6,NINJAGO®
+8.0,294,Fly high with Zane to battle Doubloon’s mighty Raid Zeppelin!,70603,Average,Raid Zeppelin,4.0,NINJAGO®
+12.0,221,Take on Flintlocke’s Sky Shark with Ninja Lloyd!,70601,Easy,Sky Shark,4.2,NINJAGO®
+7.0,83,Battle the Vermillion to win the Fast Forward Time Blade!,70621,Easy,The Vermillion Attack,4.7,NINJAGO®
+22.0,8,Bring the NINJAGO® world to life with LEGO® Minifigures!,71019,Very Easy,THE LEGO® NINJAGO® MOVIE™,4.3,Minifigures
+8.0,2455,Not Available,2000431,Average,Connections Kit,3.4,SERIOUS PLAY®
+2.0,4900,Not Available,2000409,Easy,Window Exploration Bag,5.0,SERIOUS PLAY®
+10.0,219,Not Available,2000414,Easy,Starter Kit,3.9,SERIOUS PLAY®
+7.0,2631,Not Available,2000430,Easy,Identity and Landscape Kit,4.6,SERIOUS PLAY®
+2.0,841,"Build, display and race iconic Ferrari race cars!",75889,Average,Ferrari Ultimate Garage,5.0,Speed Champions
+4.0,391,Stage a historic Porsche race!,75888,Average,Porsche 911 RSR and 911 Turbo 3.0,4.8,Speed Champions
+9.0,183,"Build, display and race the 1968 Ford Mustang Fastback!",75884,Easy,1968 Ford Mustang Fastback,4.9,Speed Champions
+3.0,179,Team up with Ferrari “Scuderia Corsa” and triumph!,75886,Easy,Ferrari 488 GT3 “Scuderia Corsa”,5.0,Speed Champions
+13.0,203,Drive the Fiesta M-Sport WRC to victory!,75885,Average,Ford Fiesta M-Sport WRC,4.5,Speed Champions
+8.0,941,Play every role of a top motor racing team on race day!,75883,Average,MERCEDES AMG PETRONAS Formula One™ Team,4.6,Speed Champions
+12.0,366,Race your friends to win a 24-hour race!,75881,Easy,2016 Ford GT & 1966 Ford GT40,4.8,Speed Champions
+3.0,163,Race to win a 24-hour race with the Porsche 919 Hybrid!,75887,Easy,Porsche 919 Hybrid,5.0,Speed Champions
+12.0,196,Customize the awesome AMG GT3 to race!,75877,Easy,Mercedes-AMG GT3,4.6,Speed Champions
+10.0,161,"Design, build and race an incredible McLaren supercar!",75880,Easy,McLaren 720S,4.9,Speed Champions
+11.0,184,Speed into race action with the awesome Scuderia Ferrari SF16-H!,75879,Easy,Scuderia Ferrari SF16-H,4.7,Speed Champions
+19.0,181,Build and drive the ultimate hyper car!,75878,Easy,Bugatti Chiron,4.9,Speed Champions
+28.0,185,Break records in this American dream car!,75871,Easy,Ford Mustang GT,4.4,Speed Champions
+9.0,166,Refuel and race for victory!,75872,Average,Audi R18 e-tron quattro,4.7,Speed Champions
+4.0,1413,Jump to lightspeed in the Millennium Falcon!,75212,Average,Kessel Run Millennium Falcon™,4.0,Star Wars™
+7.0,519,Evade the mighty Imperial TIE Fighter!,75211,Average,Imperial TIE Fighter™,4.7,Star Wars™
+2.0,464,Go on the hunt with Moloch!,75210,Easy,Moloch's Landspeeder™,4.5,Star Wars™
+5.0,229,Train with Luke at Yoda’s Dagobah hideout!,75208,Easy,Yoda's Hut,4.4,Star Wars™
+4.0,345,Escape to safety with Han Solo’s Landspeeder!,75209,Easy,Han Solo's Landspeeder™,4.8,Star Wars™
+2.0,101,Stomp into action with the Range Trooper!,75536,Easy,Range Trooper™,5.0,Star Wars™
+3.0,102,Take on the Separatists with the Jedi and Clone Troopers!,75206,Very Easy,Jedi™ and Clone Troopers™ Battle Pack,4.0,Star Wars™
+4.0,99,Patrol the Empire and enforce the rule of law!,75207,Very Easy,Imperial Patrol Battle Pack,5.0,Star Wars™
+1.0,149,Growl like a Wookiee with a LEGO® BrickHeadz™ construction character featuring Chewbacca!,41609,Very Easy,Chewbacca™,3.0,BrickHeadz
+1.0,141,Be a rogue with a LEGO® BrickHeadz™ construction character featuring Han Solo!,41608,Very Easy,Han Solo™,4.0,BrickHeadz
+84.0,4016,Win the battle for the Empire with the awesome Death Star!,75159,Challenging,Death Star™,3.9,Star Wars™
+201.0,1996,Lift off for bounty-hunting adventures in the Slave I!,75060,Challenging,Slave I,4.8,Star Wars™
+31.0,1416,Command the fleet with the awesome First Order Star Destroyer!,75190,Average,First Order Star Destroyer™,4.8,Star Wars™
+33.0,1376,Stride into battle with the First Order Heavy Assault Walker!,75189,Challenging,First Order Heavy Assault Walker™,4.4,Star Wars™
+23.0,780,Set out on heroic raids with the Resistance Bomber!,75188,Average,Resistance Bomber,4.6,Star Wars™
+79.0,1106,Play with and display your own brick-built BB-8!,75187,Average,BB-8™,4.8,Star Wars™
+39.0,863,Transport Director Krennic in his armor-plated shuttle!,75156,Average,Krennic's Imperial Shuttle,4.4,Star Wars™
+5.0,775,Go head to head with the Empire aboard The Arrowhead!,75186,Challenging,The Arrowhead,4.8,Star Wars™
+4.0,746,Join the battle at the Resistance base!,75202,Easy,Defense of Crait™,4.3,Star Wars™
+22.0,630,Speed into action with Kylo Ren’s TIE Fighter!,75179,Average,Kylo Ren's TIE Fighter™,4.6,Star Wars™
+71.0,717,Go on daring missions with Poe's X-Wing Fighter™!,75102,Average,Poe's X-Wing Fighter™,4.7,Star Wars™
+56.0,659,Battle the Empire with the amazing Rebel U-Wing Fighter!,75155,Average,Rebel U-Wing Fighter™,4.6,Star Wars™
+3.0,836,Escape from Bala-Tik and the dreaded Rathtars!,75180,Average,Rathtar™ Escape,4.7,Star Wars™
+6.0,557,Search out the Freemakers with Tracker I!,75185,Challenging,Tracker I,4.3,Star Wars™
+51.0,691,Launch daring raids with the iconic Y-Wing Starfighter!,75172,Average,Y-Wing Starfighter™,4.7,Star Wars™
+11.0,452,Set out on speeder bike missions with the Scout Trooper!,75532,Challenging,Scout Trooper™ & Speeder Bike™,4.5,Star Wars™
+12.0,457,Escape Jakku in the powerful Quadjumper!,75178,Easy,Jakku Quadjumper™,4.3,Star Wars™
+9.0,554,Stomp into battle with the First Order Heavy Scout Walker!,75177,Challenging,First Order Heavy Scout Walker™,4.0,Star Wars™
+14.0,376,Stop by at Tatooine’s Mos Eisley Cantina!,75205,Easy,Mos Eisley Cantina™,3.5,Star Wars™
+37.0,370,Seize control of the First Order AT-ST!,75201,Easy,First Order AT-ST™,1.8,Star Wars™
+5.0,179,Lead the charge with Chewbacca!,75530,Average,Chewbacca™,3.6,Star Wars™
+25.0,241,Learn the Jedi way at the Ahch-To Island mountainside hut!,75200,Easy,Ahch-To Island™ Training,4.5,Star Wars™
+13.0,278,Speed into action with the Sandspeeder!,75204,Easy,Sandspeeder™,4.5,Star Wars™
+27.0,277,Avoid the deadly Sarlacc pit!,75174,Easy,Desert Skiff Escape,4.6,Star Wars™
+19.0,157,Chase down the Jedi with General Grievous’ Combat Speeder!,75199,Easy,General Grievous' Combat Speeder,2.6,Star Wars™
+14.0,294,Jettison to safety in the Resistance Transport Pod!,75176,Easy,Resistance Transport Pod™,4.7,Star Wars™
+38.0,282,Bring Darth Vader to life at the medical bay!,75183,Easy,Darth Vader™ Transformation,4.7,Star Wars™
+37.0,262,Journey to the stars aboard Yoda’s starship!,75168,Easy,Yoda's Jedi Starfighter™,4.5,Star Wars™
+27.0,305,Pack a punch with the Republic Fighter Tank!,75182,Easy,Republic Fighter Tank™,4.6,Star Wars™
+32.0,208,Battle it out at the generator core!,75169,Easy,Duel on Naboo™,4.4,Star Wars™
+7.0,92,Protect the First Order with the Elite Praetorian Guard!,75529,Easy,Elite Praetorian Guard,4.7,Star Wars™
+12.0,86,Go on the hunt for Resistance forces with the fierce Kylo Ren™!,75117,Easy,Kylo Ren™,4.5,Star Wars™
+3.0,100,Join the battle with the 2-in-1 Stormtrooper Commander!,75531,Very Easy,Stormtrooper™ Commander,4.0,Star Wars™
+3.0,85,Feel the Force with Rey!,75528,Easy,Rey,4.7,Star Wars™
+3.0,188,Intercept Kylo Ren in a deep space microfighter duel!,75196,Easy,A-Wing™ vs. TIE Silencer™ Microfighters,4.3,Star Wars™
+4.0,216,Pit First Order against Resistance in a micro planetside battle!,75195,Easy,Ski Speeder™ vs. First Order Walker™ Microfighters,4.5,Star Wars™
+1.0,94,Fly into action with the Elite TIE Fighter Pilot!,75526,Easy,Elite TIE Fighter Pilot™,4.0,Star Wars™
+14.0,97,Keep the Jawas busy on desert planet Tatooine!,75198,Easy,Tatooine™ Battle Pack,4.1,Star Wars™
+15.0,108,Advance on the Resistance with the First Order Specialists Battle Pack!,75197,Very Easy,First Order Specialists Battle Pack,4.1,Star Wars™
+40.0,125,Go bounty hunting with the super-fast speeder bike!,75167,Very Easy,Bounty Hunter Speeder Bike™ Battle Pack,4.7,Star Wars™
+25.0,117,Send in reinforcements with the First Order Transport Speeder!,75166,Very Easy,First Order Transport Speeder Battle Pack,4.6,Star Wars™
+9.0,92,Play at micro lightspeed with the Millennium Falcon!,75193,Easy,Millennium Falcon™ Microfighter,4.7,Star Wars™
+3.0,91,Take on the Resistance in a micro-scale TIE Fighter!,75194,Easy,First Order TIE Fighter™ Microfighter,4.3,Star Wars™
+2.0,91,Join the Resistance with a LEGO® BrickHeadz construction character featuring Finn!,41485,Easy,Finn,4.5,BrickHeadz
+6.0,109,Enter miniature battle with the amazing U-Wing Microfighter!,75160,Easy,U-Wing™ Microfighter,4.8,Star Wars™
+5.0,130,Summon the dark side with a LEGO® BrickHeadz construction character featuring Kylo Ren™!,41603,Easy,Kylo Ren™,5.0,BrickHeadz
+4.0,88,Engage the Rebels with the tough TIE Striker Microfighter!,75161,Easy,TIE Striker™ Microfighter,4.5,Star Wars™
+3.0,119,Feel the Force with a LEGO® BrickHeadz construction character featuring Rey!,41602,Easy,Rey,5.0,BrickHeadz
+86.0,1703,Build the ultimate LEGO® Snowspeeder!,75144,Challenging,Snowspeeder™,4.3,Star Wars™
+15.0,825,Play at warp speed with Obi-Wan’s Jedi Starfighter With Hyperdrive!,75191,Average,Jedi Starfighter™ With Hyperdrive,4.7,Star Wars™
+6.0,168,Join Darth Vader and battle to victory!,75534,Average,Darth Vader™,5.0,Star Wars™
+4.0,144,Join the hunt with Boba Fett!,75533,Average,Boba Fett™,4.8,Star Wars™
+27.0,149,Go in search of Ben Kenobi in Luke’s Landspeeder!,75173,Easy,Luke's Landspeeder™,4.5,Star Wars™
+1.0,1966,Collect the ultimate long-range Rebel starfighter!,75181,Very Challenging,Y-Wing Starfighter™,5.0,Star Wars™
+197.0,7541,Travel the LEGO® galaxy in the ultimate Millennium Falcon!,75192,Challenging,Millennium Falcon™,4.8,Star Wars™
+3.0,104,Blast into battle with Rebel soldier Jyn Erso!,75119,Average,Sergeant Jyn Erso™,3.7,Star Wars™
+1.0,87,Jump into action with warrior monk Chirrut Îmwe!,75524,Easy,Chirrut Îmwe™,4.0,Star Wars™
+1.0,148,Blast the enemy with tough Baze Malbus!,75525,Very Easy,Baze Malbus™,5.0,Star Wars™
+36.0,112,Track down those Rebels!,75165,Easy,Imperial Trooper Battle Pack,4.0,Star Wars™
+94.0,1685,Presenting the Ultimate Collector Series TIE Fighter – the iconic Imperial starfighter!,75095,Average,TIE Fighter™,4.7,Star Wars™
+67.0,1005,Enter the battle with Kylo Ren’s Command Shuttle™!,75104,Average,Kylo Ren’s Command Shuttle™,4.1,Star Wars™
+39.0,543,Join the battle against the rebels!,75154,Average,TIE Striker™,4.6,Star Wars™
+47.0,409,Defeat Kylo Ren at the forest castle!,75139,Easy,Battle on Takodana™,4.1,Star Wars™
+19.0,419,Uncover the Death Star plans at the beach bunker!,75171,Easy,Battle on Scarif,3.8,Star Wars™
+12.0,558,Join StarScavenger on dangerous salvage missions!,75147,Easy,StarScavenger™,3.6,Star Wars™
+24.0,530,Stop the thief at Unkar Plutt's market stall!,75148,Average,Encounter on Jakku™,3.6,Star Wars™
+26.0,309,Launch into the holidays with the LEGO® Star Wars Advent Calendar!,75184,Easy,LEGO® Star Wars™ Advent Calendar,3.2,Star Wars™
+25.0,269,Join the Rebel battle aboard The Phantom!,75170,Easy,The Phantom,3.8,Star Wars™
+25.0,160,Feel the power of the dark side with posable Darth Vader™!,75111,Average,Darth Vader™,4.7,Star Wars™
+12.0,169,Go behind enemy lines with K-2SO!,75120,Easy,K-2SO™,4.1,Star Wars™
+10.0,82,Command the troops with Captain Phasma™!,75118,Easy,Captain Phasma™,4.1,Star Wars™
+5.0,83,Use the Force to battle the Separatists with posable Obi-Wan Kenobi™!,75109,Easy,Obi-Wan Kenobi™,4.4,Star Wars™
+4.0,106,Enforce Imperial rule with the Empire’s elite Death Trooper!,75121,Easy,Imperial Death Trooper™,4.8,Star Wars™
+70.0,193,Speed into action on Rey's Speeder!™,75099,Easy,Rey's Speeder™,4.4,Star Wars™
+1.0,89,Patrol the Scarif coastline with the armored Stormtrooper!,75523,Easy,Scarif Stormtrooper™,5.0,Star Wars™
+1.0,98,Practice your warrior skills with Finn!,75116,Easy,Finn,5.0,Star Wars™
+10.0,85,Battle the Jedi with posable Jango Fett!™,75107,Easy,Jango Fett™,3.7,Star Wars™
+10.0,81,Prepare for battle against the Resistance!,75114,Very Easy,First Order Stormtrooper™,4.7,Star Wars™
+10.0,120,Patrol and defend Rebel territory!,75164,Very Easy,Rebel Trooper Battle Pack,4.7,Star Wars™
+16.0,112,Speed into battle against the First Order forces!,75131,Very Easy,Resistance Trooper Battle Pack,4.5,Star Wars™
+38.0,88,Blast the Resistance with the powerful turbolaser!,75132,Very Easy,First Order Battle Pack,3.9,Star Wars™
+3.0,127,Lead the First Order with a LEGO® BrickHeadz construction character featuring Captain Phasma™,41486,Very Easy,Captain Phasma™,4.7,BrickHeadz
+7.0,90,Shoot for the stars with the Y-Wing Microfighter!,75162,Very Easy,Y-Wing™ Microfighter,4.7,Star Wars™
+9.0,87,Blast off on miniature X-Wing Fighter adventures!,75125,Easy,Resistance X-Wing Fighter™,4.3,Star Wars™
+11.0,93,Go on the hunt for microfighter rebels!,75128,Easy,TIE Advanced Prototype™,4.6,Star Wars™
+4.0,78,Fly in style with Krennic’s miniature Imperial Shuttle!,75163,Very Easy,Krennic's Imperial Shuttle™ Microfighter,4.3,Star Wars™
+11.0,91,Speed across distant planets in the micro First Order Snowspeeder™!,75126,Easy,First Order Snowspeeder™,4.5,Star Wars™
+45.0,1862,Harness the power of the mighty 6x6 All Terrain Tow Truck!,42070,Challenging,6x6 All Terrain Tow Truck,3.5,Technic
+143.0,2704,Discover the iconic Porsche 911 GT3 RS!,42056,Challenging,Porsche 911 GT3 RS,4.7,Technic
+75.0,3929,Experience the huge Bucket Wheel Excavator!,42055,Challenging,Bucket Wheel Excavator,4.6,Technic
+22.0,2595,Discover innovative design with the Mack Anthem truck and trailer!,42078,Average,Mack Anthem,4.7,Technic
+19.0,2382,Traverse uncharted territory with the Extreme Adventure!,42069,Average,Extreme Adventure,4.9,Technic
+7.0,1151,Prepare for vertical takeoffs and landings with the Air Race Jet!,42066,Challenging,Air Race Jet,4.9,Technic
+14.0,1327,Discover new horizons with the Ocean Explorer!,42064,Challenging,Ocean Explorer,4.6,Technic
+8.0,1005,Push the limits with the awesome LEGO® Technic Rally Car!,42077,Average,Rally Car,4.4,Technic
+28.0,370,Travel over the toughest terrain with the RC Tracked Racer!,42065,Easy,RC Tracked Racer,4.5,Technic
+12.0,1098,Mobilize the Airport Rescue Vehicle!,42068,Average,Airport Rescue Vehicle,4.8,Technic
+5.0,1020,Transport supplies over land and sea with the all-terrain Hovercraft!,42076,Average,Hovercraft,4.2,Technic
+12.0,603,Experience the BMW R 1200 GS Adventure!,42063,Average,BMW R 1200 GS Adventure,4.7,Technic
+8.0,631,"Grab, lift, load and deliver at the Container Yard!",42062,Easy,Container Yard,4.8,Technic
+1.0,513,Explore iconic vehicle design with the First Responder!,42075,Easy,First Responder,5.0,Technic
+5.0,330,Put the wind in your sails with this amazing Racing Yacht!,42074,Average,Racing Yacht,4.8,Technic
+10.0,365,Call in the Roadwork Crew!,42060,Easy,Roadwork Crew,4.8,Technic
+57.0,10,Motorize your LEGO® Technic creations with the Power Functions Motor Set!,8293,Easy,LEGO® Power Functions Motor Set,4.5,Power Functions
+1.0,135,Get ready for high-speed action and impacts with the WHACK!,42072,Not Available,WHACK!,5.0,Technic
+7.0,142,Fly off the ramp at high speed with the super-fast Stunt Truck!,42059,Easy,Stunt Truck,4.7,Technic
+2.0,139,Get ready for high-speed action and impacts with the BASH!,42073,Easy,BASH!,4.0,Technic
+9.0,199,Take to the skies with the Ultralight Helicopter!,42057,Easy,Ultralight Helicopter,4.7,Technic
+2.0,140,Hit the ramp at high speed with the awesome Stunt Bike!,42058,Easy,Stunt Bike,4.0,Technic
+2.0,171,Call in the powerful Dozer Compactor!,42071,Challenging,Dozer Compactor,5.0,Technic
+2.0,176,Collect and transport heavy cargo with the Hook Loader!,42084,Easy,Hook Loader,4.5,Technic
+18.0,1977,Harness the awesome power of the CLAAS XERION 5000 TRAC VC,42054,Challenging,CLAAS XERION 5000 TRAC VC,4.8,Technic
+19.0,1043,Airlift massive loads with the Heavy Lift Helicopter!,42052,Challenging,Heavy Lift Helicopter,4.3,Technic
+23.0,1219,Scream around the circuit in the lightning-fast LEGO® Technic 24 Hours Race Car!,42039,Challenging,24 Hours Race Car,4.8,Technic
+18.0,1166,Operate the powerful Volvo EW160E!,42053,Average,Volvo EW160E,4.8,Technic
+16.0,494,Take on mountainous terrain with the LEGO® Technic Formula Off-Roader!,42037,Average,Formula Off-Roader,4.6,Technic
+9.0,476,Call in the powerful Mine Loader!,42049,Average,Mine Loader,4.3,Technic
+15.0,375,Take to the open road with the LEGO® Technic Street Motorcycle!,42036,Average,Street Motorcycle,4.9,Technic
+6.0,260,Utilize the power and reach of the awesome Telehandler!,42061,Average,Telehandler,4.8,Technic
+9.0,252,Clear the ground with the LEGO® Technic Compact Track Loader!,42032,Average,Compact Tracked Loader,4.6,Technic
+8.0,125,Smash land speed records with the LEGO® Technic Record Breaker!,42033,Easy,Record Breaker,4.6,Technic
+5.0,180,Thunder over the ocean with the Hydroplane Racer!,42045,Easy,Hydroplane Racer,4.8,Technic
+4.0,155,Reach dizzying heights with the awesome LEGO® Technic Cherry Picker!,42031,Easy,Cherry Picker,4.8,Technic
+5.0,113,Thrill the crowds with the Display Team Jet!,42044,Average,Display Team Jet,4.6,Technic
+19.0,3444,Dare to enter The Joker™ Manor!,70922,Challenging,The Joker™ Manor,5.0,THE LEGO® BATMAN MOVIE
+20.0,1628,Break into Arkham Asylum with Batman™!,70912,Average,Arkham Asylum,3.8,THE LEGO® BATMAN MOVIE
+18.0,1456,Divide the 4-in-1 Ultimate Batmobile and conquer the Super-Villains!,70917,Average,The Ultimate Batmobile,4.6,THE LEGO® BATMAN MOVIE
+23.0,1047,Protect the Batcave from The Penguin’s invasion!,70909,Average,Batcave Break-in,4.7,THE LEGO® BATMAN MOVIE
+4.0,1053,Patrol the sky above Gotham City in The Batwing!,70916,Average,The Batwing,4.0,THE LEGO® BATMAN MOVIE
+9.0,643,Launch a space mission from the Batcave!,70923,Average,The Bat-Space Shuttle,4.8,THE LEGO® BATMAN MOVIE
+20.0,581,Pursue Man-Bat™ and the Kabuki Twins™ in the Batmobile with three driving modes!,70905,Average,The Batmobile,4.8,THE LEGO® BATMAN MOVIE
+19.0,433,Team up with Batgirl™ to stop The Joker’s Notorious Lowrider!,70906,Average,The Joker™ Notorious Lowrider,4.7,THE LEGO® BATMAN MOVIE
+5.0,425,Dodge Harley Quinn’s cannonball attacks!,70921,Average,Harley Quinn™ Cannonball Attack,3.2,THE LEGO® BATMAN MOVIE
+6.0,366,Protect Gotham City from Bane’s toxic attacks!,70914,Average,Bane™ Toxic Truck Attack,4.0,THE LEGO® BATMAN MOVIE
+5.0,267,Party on with Superman™ and friends!,70919,Easy,The Justice League™ Anniversary Party,3.2,THE LEGO® BATMAN MOVIE
+24.0,305,Put the heat on The Penguin™ Arctic Roller with Batman™!,70911,Easy,The Penguin™ Arctic Roller,4.8,THE LEGO® BATMAN MOVIE
+11.0,293,Join Batman™ in a comical food fight!,70920,Average,Egghead™ Mech Food Fight,4.7,THE LEGO® BATMAN MOVIE
+18.0,254,Battle with Batman™ against The Riddler™ and his allies!,70903,Easy,The Riddler™ Riddle Racer,4.2,THE LEGO® BATMAN MOVIE
+2.0,198,Bring down Captain Boomerang™ with Batman’s Bat-Dune Buggy!,70918,Not Available,The Bat-Dune Buggy,4.5,THE LEGO® BATMAN MOVIE
+8.0,204,Help Batman™ to stop Scarecrow™ delivering a special scare pizza!,70910,Average,Scarecrow™ Special Delivery,4.4,THE LEGO® BATMAN MOVIE
+19.0,201,Protect the power plant from Mr. Freeze’s ice attack!,70901,Easy,Mr. Freeze™ Ice Attack,4.6,THE LEGO® BATMAN MOVIE
+7.0,141,Power into the sky to stop Scarecrow’s fear gas attacks!,70913,Easy,Scarecrow™ Fearful Face-off,4.1,THE LEGO® BATMAN MOVIE
+18.0,124,Help Batman™ stop The Joker™ escaping!,70900,Easy,The Joker™ Balloon Escape,4.7,THE LEGO® BATMAN MOVIE
+19.0,61,Display THE LEGO® BATMAN MOVIE minifigures!,853638,Very Easy,THE LEGO® BATMAN MOVIE Batman™ Minifigure Collector Frame,2.9,THE LEGO® BATMAN MOVIE
+13.0,8,Discover new heroes and villains in LEGO® Minifigures—THE LEGO BATMAN MOVIE Series 2.,71020,Very Easy,THE LEGO® BATMAN MOVIE Series 2,4.8,Minifigures
+15.0,775,Save the day with Batman™ and The Scuttler!,70908,Average,The Scuttler,4.7,THE LEGO® BATMAN MOVIE
+10.0,460,Speed after Killer Croc’s Tail-Gator on Batman’s Batski!,70907,Easy,Killer Croc™ Tail-Gator,3.8,THE LEGO® BATMAN MOVIE
+6.0,564,Don’t get on the wrong side of the Two-Face™ Excavator!,70915,Average,Two-Face™ Double Demolition,4.8,THE LEGO® BATMAN MOVIE
+13.0,448,Duel against the mighty Clayface™ with Batman™!,70904,Average,Clayface™ Splat Attack,4.4,THE LEGO® BATMAN MOVIE
+2.0,156,Fight crime with Batgirl™ and Robin™ in THE LEGO® BATMAN MOVIE!,71264,Easy,THE LEGO® BATMAN MOVIE Story Pack,4.5,DIMENSIONS™
+27.0,139,Stop Catwoman™ escaping with the diamonds!,70902,Easy,Catwoman™ Catcycle Chase,4.5,THE LEGO® BATMAN MOVIE
+11.0,91,Celebrate THE LEGO® BATMAN MOVIE with a LEGO BrickHeadz Batman!,41585,Very Easy,Batman™,4.9,BrickHeadz
+12.0,151,Show off the evil trickster with LEGO® BrickHeadz The Joker™!,41588,Easy,The Joker™,4.8,BrickHeadz
+10.0,101,Showcase the Boy Wonder with LEGO® BrickHeadz Robin™!,41587,Very Easy,Robin™,4.8,BrickHeadz
+9.0,99,Channel Batgirl™ with your own LEGO® BrickHeadz version!,41586,Easy,Batgirl™,4.3,BrickHeadz
+52.0,2295,Join the ninja aboard Wu’s flying ship!,70618,Challenging,Destiny's Bounty,4.9,THE LEGO® NINJAGO® MOVIE™
+88.0,4867,Live the life of a ninja in NINJAGO® City!,70620,Challenging,NINJAGO® City,4.9,THE LEGO® NINJAGO® MOVIE™
+15.0,1403,Evade the traps inside the Temple!,70617,Average,Temple of The Ultimate Ultimate Weapon,4.8,THE LEGO® NINJAGO® MOVIE™
+11.0,1202,Turn sound into a weapon with Cole’s Quake Mech!,70632,Average,Quake Mech,4.5,THE LEGO® NINJAGO® MOVIE™
+9.0,830,Defend NINJAGO® City from Garmadon Shark Mech attack!,70656,Average,"garmadon, Garmadon, GARMADON!",4.9,THE LEGO® NINJAGO® MOVIE™
+6.0,914,Take on the shark army with Zane’s Ice Tank!,70616,Average,Ice Tank,4.8,THE LEGO® NINJAGO® MOVIE™
+19.0,944,Put the heat on the shark army with Kai’s Fire Mech!,70615,Average,Fire Mech,4.2,THE LEGO® NINJAGO® MOVIE™
+8.0,747,Defend NINJAGO® City against Garma Mecha Man!,70613,Average,Garma Mecha Man,4.5,THE LEGO® NINJAGO® MOVIE™
+8.0,876,Speed to the rescue with Jay’s Lightning Jet!,70614,Average,Lightning Jet,5.0,THE LEGO® NINJAGO® MOVIE™
+7.0,521,Get all fired up at Garmadon’s Volcano Lair!,70631,Average,Garmadon's Volcano Lair,4.3,THE LEGO® NINJAGO® MOVIE™
+29.0,544,Take on Garmadon with the Green Ninja Mech Dragon!,70612,Average,Green Ninja Mech Dragon,4.7,THE LEGO® NINJAGO® MOVIE™
+21.0,494,Smash the shark army out of the water with the Water Strider!,70611,Average,Water Strider,4.5,THE LEGO® NINJAGO® MOVIE™
+10.0,312,Battle against evil Jungle Garmadon on the jungle bridge!,70608,Easy,Master Falls,4.0,THE LEGO® NINJAGO® MOVIE™
+6.0,341,Protect NINJAGO® City from flying Manta Ray Bomber attack!,70609,Easy,Manta Ray Bomber,4.3,THE LEGO® NINJAGO® MOVIE™
+7.0,341,Take on the tentacular Flying Jelly Sub with Jay!,70610,Average,Flying Jelly Sub,4.6,THE LEGO® NINJAGO® MOVIE™
+8.0,217,Stop a Piranha Attack with Kai and Misako!,70629,Easy,Piranha Attack,3.6,THE LEGO® NINJAGO® MOVIE™
+18.0,233,Stop a crime in the NINJAGO® City street market!,70607,Easy,NINJAGO® City Chase,4.6,THE LEGO® NINJAGO® MOVIE™
+1.0,48,Achieve Spinjitzu greatness with the Green Ninja!,70628,Very Easy,Lloyd - Spinjitzu Master,5.0,THE LEGO® NINJAGO® MOVIE™
+11.0,109,Practice your Spinjitzu skills with Kai and Zane!,70606,Easy,Spinjitzu Training,4.7,THE LEGO® NINJAGO® MOVIE™
+7.0,102,Unleash your true ninja spirit with LEGO® BrickHeadz Lloyd!,41487,Easy,Lloyd,5.0,BrickHeadz
+5.0,89,Learn the way of the ninja with LEGO® BrickHeadz Master Wu!,41488,Very Easy,Master Wu,4.4,BrickHeadz
+22.0,8,Bring the NINJAGO® world to life with LEGO® Minifigures!,71019,Very Easy,THE LEGO® NINJAGO® MOVIE™,4.3,Minifigures
