@@ -1,0 +1,521 @@
+prod_id,num_reviews,piece_count,prod_desc,review_difficulty,difficulty,set_name,star_rating,theme_name,Image,Year,Price
+75823,2,277,Catapult into action and take back the eggs from the Piggy Trike!,Average,3,Bird Island Egg Heist,4.5,Angry Birds™,https://images.brickset.com/sets/images/75823-1.jpg,2016,29.99
+21030,23,1032,Explore the architecture of the United States Capitol Building!,Average,3,Piggy Car Escape,4.3,Angry Birds™,https://images.brickset.com/sets/images/75821-1.jpg,2016,12.99
+21039,7,597,Celebrate Shanghai with this LEGO® Architecture Skyline set!,Average,3,United States Capitol Building,4.6,Architecture,https://images.brickset.com/sets/images/21030-1.jpg,2016,99.99
+21028,37,598,Celebrate New York City with this LEGO® Architecture Skyline model!,Average,3,Solomon R. Guggenheim Museum®,4.6,Architecture,https://images.brickset.com/sets/images/21035-1.jpg,2017,79.99
+21029,24,780,Recreate Buckingham Palace with LEGO® Architecture!,Average,3,Shanghai,4.9,Architecture,https://images.brickset.com/sets/images/21039-1.jpg,2018,59.99
+21034,23,468,Celebrate London with this LEGO® Architecture Skyline model!,Average,3,New York City,4.2,Architecture,https://images.brickset.com/sets/images/21028-1.jpg,2016,59.99
+21033,11,444,Celebrate Chicago with this LEGO® Architecture Skyline model!,Average,3,Buckingham Palace,4.7,Architecture,https://images.brickset.com/sets/images/21029-1.jpg,2016,49.99
+21036,14,386,Experience the grandeur of the Arc de Triomphe!,Average,3,London,4.7,Architecture,https://images.brickset.com/sets/images/21034-1.jpg,2017,39.99
+21019,53,321,Build your own LEGO® interpretation of the iconic Eiffel Tower!,Average,3,Chicago,4.8,Architecture,https://images.brickset.com/sets/images/21033-1.jpg,2017,39.99
+17101,63,847,Bring your LEGO® creations to life!,Average,3,Arc de Triomphe,4.4,Architecture,https://images.brickset.com/sets/images/21036-1.jpg,2017,39.99
+41597,13,708,Build a LEGO® BrickHeadz version of yourself!,Average,3,The Eiffel Tower,4.6,Architecture,https://images.brickset.com/sets/images/21019-1.jpg,2014,34.99
+41596,2,116,Bring a classic Disney tale to life with a LEGO® BrickHeadz construction character featuring Beast!,Average,3,Sydney,4.6,Architecture,https://images.brickset.com/sets/images/21032-1.jpg,2017,29.99
+60052,35,888,Move heavy goods across LEGO® City with the Cargo Train!,Average,3,BOOST Creative Toolbox,3.4,BOOST,https://images.brickset.com/sets/images/17101-1.jpg,2017,159.99
+60051,45,610,Get around LEGO® City fast in the High-speed Passenger Train!,Average,3,Go Brick Me,4.8,BrickHeadz,https://images.brickset.com/sets/images/41597-1.jpg,2018,29.99
+60162,1,1250,Haul in fresh supplies at the exploration site!,Average,3,Owen & Blue,5,BrickHeadz,https://images.brickset.com/sets/images/41614-1.jpg,2018,19.99
+60167,3,792,Sail the high seas and make a thrilling rescue!,Average,3,Chewbacca™,3,BrickHeadz,https://images.brickset.com/sets/images/41609-1.jpg,2018,9.99
+60161,6,813,Discover the secrets of the jungle with the LEGO® City explorers!,Average,3,Thanos,5,BrickHeadz,https://images.brickset.com/sets/images/41605-1.jpg,2018,9.99
+60110,16,919,Jump into action and save the hot dog stand… and lunch!,Average,3,Star-Lord,5,BrickHeadz,https://images.brickset.com/sets/images/41606-1.jpg,2018,9.99
+60174,8,663,Stop the crooks from breaking their partner out of jail!,Average,3,Gamora,5,BrickHeadz,https://images.brickset.com/sets/images/41607-1.jpg,2018,9.99
+60169,4,740,Load up the truck and deliver the goods!,Average,3,Valentine's Bee,4.9,BrickHeadz,https://images.brickset.com/sets/images/40270-1.jpg,2018,9.99
+60160,3,426,Watch your step while you explore new things in the jungle!,Average,3,Wonder Woman™,5,BrickHeadz,https://images.brickset.com/sets/images/41599-1.jpg,2018,9.99
+60173,2,303,Fly in and surprise the crooks at their hideout!,Average,3,The Flash™,4,BrickHeadz,https://images.brickset.com/sets/images/41598-1.jpg,2018,9.99
+60138,14,294,Help Chase McCain and the police nab the crook!,Average,3,Rey,5,BrickHeadz,https://images.brickset.com/sets/images/41602-1.jpg,2018,9.99
+60108,8,257,Call the Fire Response Unit for help!,Average,3,Cyborg™,5,BrickHeadz,https://images.brickset.com/sets/images/41601-1.jpg,2018,9.99
+60180,4,192,Jump the fire and give the crowd a thrilling show!,Average,3,Marty McFly & Doc Brown,5,BrickHeadz,https://images.brickset.com/sets/images/41611-1.jpg,2018,19.99
+60158,5,201,Fly into the jungle and explore the hidden temple!,Average,3,Easter Bunny,5,BrickHeadz,https://images.brickset.com/sets/images/40271-1.jpg,2018,9.99
+60125,5,1277,Help out the volcano explorers and bring in the big equipment!,Average,3,Captain Armando Salazar,5,BrickHeadz,https://images.brickset.com/sets/images/41594-1.jpg,2017,9.99
+60124,9,824,Get busy with some serious scientific work!,Average,3,Captain Phasma™,4.7,BrickHeadz,https://images.brickset.com/sets/images/41486-1.jpg,2017,9.99
+60122,4,324,Bring out the heavy machinery to do exploring right!,Average,3,Batman™,4.9,BrickHeadz,https://images.brickset.com/sets/images/41585-1.jpg,2017,9.99
+10707,4,55,Unleash your imagination with the LEGO® Red Creativity Box!,Average,3,Iron Man,4.9,BrickHeadz,https://images.brickset.com/sets/images/41590-1.jpg,2017,9.99
+31069,11,728,Build and enjoy the delightful 3-in-1 Family Villa!,Average,3,Captain Jack Sparrow,4.8,BrickHeadz,https://images.brickset.com/sets/images/41593-1.jpg,2017,9.99
+31070,14,670,Get behind the wheel of the awesome 3-in-1 Turbo Track Racer!,Average,3,The Hulk,4.6,BrickHeadz,https://images.brickset.com/sets/images/41592-1.jpg,2017,9.99
+31081,4,422,Enjoy awesome activities at the 3-in-1 Modular Skate House!,Average,3,Belle,4.8,BrickHeadz,https://images.brickset.com/sets/images/41595-1.jpg,2017,9.99
+31068,10,386,Enjoy eco-friendly adventures with the 3-in-1 Modern Home!,Average,3,Beast,5,BrickHeadz,https://images.brickset.com/sets/images/41596-1.jpg,2017,9.99
+31067,8,356,Play all day on a 3-in-1 Poolside Holiday!,Average,3,The Joker™,4.8,BrickHeadz,https://images.brickset.com/sets/images/41588-1.jpg,2017,9.99
+31062,9,205,Have fun with the cute 3-in-1 Robo Explorer!,Average,3,Robin™,4.8,BrickHeadz,https://images.brickset.com/sets/images/41587-1.jpg,2017,9.99
+31076,1,200,Thrill the crowds with the 3-in-1 Daredevil Stunt Plane set!,Average,3,Cargo Train,4.4,City,https://images.brickset.com/sets/images/60052-1.jpg,2014,199.99
+31071,1,109,Be an eye in the sky with the 3-in-1 Drone Explorer!,Average,3,High-speed Passenger Train,4.4,City,https://images.brickset.com/sets/images/60051-1.jpg,2014,149.99
+31046,8,222,Get ready for the ultra-cool 3-in-1 Fast Car!,Average,3,Jungle Air Drop Helicopter,5,City,https://images.brickset.com/sets/images/60162-1.jpg,2017,149.99
+31051,15,528,Meet the wildlife at the brightly lit Lighthouse Point!,Average,3,Coast Guard Head Quarters,3.7,City,https://images.brickset.com/sets/images/60167-1.jpg,2017,119.99
+31064,2,359,Fly to warmer climes for 3-in-1 Island Adventures!,Average,3,Jungle Exploration Site,4.3,City,https://images.brickset.com/sets/images/60161-1.jpg,2017,119.99
+31063,5,275,Enjoy the beach life with the 3-in-1 Beachside Vacation!,Average,3,Police Station,4.7,City,https://images.brickset.com/sets/images/60141-1.jpg,2017,99.99
+31047,7,230,Take a flight in the cool 3-in-1 Propeller Plane!,Average,3,Mining Experts Site,5,City,https://images.brickset.com/sets/images/60188-1.jpg,2018,99.99
+31029,4,132,Airlift vital supplies with the awesome 3-in-1 Cargo Heli!,Average,3,Fire Station,4.6,City,https://images.brickset.com/sets/images/60110-1.jpg,2016,99.99
+10259,51,902,Head home for the holidays with the Winter Village Station!,Average,3,Mountain Police Headquarters,4.6,City,https://images.brickset.com/sets/images/60174-1.jpg,2018,89.99
+10258,53,1686,All aboard the London Bus!,Average,3,Cargo Terminal,5,City,https://images.brickset.com/sets/images/60169-1.jpg,2017,79.99
+10252,66,1167,Head for the beach with the VW Beetle!,Average,3,Bulldozer Break-in,3.3,City,https://images.brickset.com/sets/images/60140-1.jpg,2017,69.99
+10242,134,1077,Take this MINI Cooper for a nostalgic drive down memory lane!,Average,3,Jungle Mobile Lab,5,City,https://images.brickset.com/sets/images/60160-1.jpg,2017,59.99
+10254,77,734,Climb aboard the magical Winter Holiday Train!,Average,3,Mountain Arrest,4,City,https://images.brickset.com/sets/images/60173-1.jpg,2018,59.99
+76087,13,955,Unleash the Batmobile from The Flying Fox!,Average,3,Heavy-duty Rescue Helicopter,4.4,City,https://images.brickset.com/sets/images/60166-1.jpg,2017,59.99
+71171,6,267,"With LEGO® Dimensions™, you're gonna need a bigger imagination!",Average,3,Bus Station,3.3,City,https://images.brickset.com/sets/images/60154-1.jpg,2017,49.99
+70923,9,643,Launch a space mission from the Batcave!,Average,3,People pack – Fun at the beach,4.1,City,https://images.brickset.com/sets/images/60153-1.jpg,2017,39.99
+70921,5,425,Dodge Harley Quinn’s cannonball attacks!,Average,3,High-speed Chase,4.2,City,https://images.brickset.com/sets/images/60138-1.jpg,2017,39.99
+76097,5,406,Power up for battle against the Lex Luthor™ Mech!,Average,3,4 x 4 Response Unit,5,City,https://images.brickset.com/sets/images/60165-1.jpg,2017,39.99
+70920,11,293,Join Batman™ in a comical food fight!,Average,3,Jungle Halftrack Mission,4.8,City,https://images.brickset.com/sets/images/60159-1.jpg,2017,39.99
+76096,1,199,Help Superman™ bust out of the Kryptonite prison!,Average,3,Fire Response Unit,3.9,City,https://images.brickset.com/sets/images/60108-1.jpg,2016,39.99
+41233,2,145,Rescue Krypto™ from Lashina’s clutches!,Average,3,Pickup & Caravan,5,City,https://images.brickset.com/sets/images/60182-1.jpg,2018,29.99
+76052,47,2526,Drive the villains out from Batman's Batcave!,Average,3,Heavy Cargo Transport,4.7,City,https://images.brickset.com/sets/images/60183-1.jpg,2018,29.99
+76055,11,759,Bite back against Killer Croc™ with the Bat-Tank!,Average,3,Fire Ladder Truck,4.5,City,https://images.brickset.com/sets/images/60107-1.jpg,2016,24.99
+76045,18,306,Intercept the Kryptonite with the armored Batmobile!,Average,3,Monster Truck,5,City,https://images.brickset.com/sets/images/60180-1.jpg,2018,19.99
+41234,2,142,Keep the crystals from the evil Kryptomites!,Average,3,Pizza Van,4.9,City,https://images.brickset.com/sets/images/60150-1.jpg,2017,19.99
+41233,2,145,Rescue Krypto™ from Lashina’s clutches!,Average,3,Flexible and Straight Tracks,2.5,City,https://images.brickset.com/sets/images/7499-1.jpg,2011,19.99
+41234,2,142,Keep the crystals from the evil Kryptomites!,Average,3,ATV Race Team,4.8,City,https://images.brickset.com/sets/images/60148-1.jpg,2017,19.99
+71171,6,267,"With LEGO® Dimensions™, you're gonna need a bigger imagination!",Average,3,Ambulance Helicopter,3.8,City,https://images.brickset.com/sets/images/60179-1.jpg,2018,19.99
+71242,5,259,Get spooky with Abby Yates and the Ghostbusters™!,Average,3,Tow Truck Trouble,4.3,City,https://images.brickset.com/sets/images/60137-1.jpg,2017,24.99
+71267,2,118,Search for treasure while avoiding the Fratelli family in the Goonies™ Level Pack!,Average,3,Wild River Escape,5,City,https://images.brickset.com/sets/images/60176-1.jpg,2018,19.99
+71235,11,96,Go retro with the LEGO® DIMENSIONS™ Midway Arcade™ Level Pack!,Average,3,Sea Rescue Plane,4.3,City,https://images.brickset.com/sets/images/60164-1.jpg,2017,19.99
+71266,2,46,Help stop crime in the LEGO® DIMENSIONS™ multiverse with LEGO® City’s Fun Pack,Average,3,Jungle Cargo Helicopter,4.4,City,https://images.brickset.com/sets/images/60158-1.jpg,2017,19.99
+71232,4,59,Team up with LEGO® Chima’s™ Eris to outsmart the competition!,Average,3,Switching Tracks,4.1,City,https://images.brickset.com/sets/images/7895-1.jpg,2006,15.99
+71042,52,2294,Discover the secrets of the Silent Mary!,Average,3,Straight & Crossroad Plates,3.5,City,https://images.brickset.com/sets/images/7280-1.jpg,2005,14.99
+41596,2,116,Bring a classic Disney tale to life with a LEGO® BrickHeadz construction character featuring Beast!,Average,3,T-Junction & Curved Road Plates,3.9,City,https://images.brickset.com/sets/images/7281-1.jpg,2005,14.99
+41187,6,460,Heal the baby dragon and transform a goblin from bad to good!,Average,3,Airshow Jet,4.5,City,https://images.brickset.com/sets/images/60177-1.jpg,2018,9.99
+41193,2,451,Join forces with Aira and Lumia to protect the Wind Dragon!,Average,3,Jungle Starter Set,4.9,City,https://images.brickset.com/sets/images/60157-1.jpg,2017,9.99
+41183,8,339,Search for crystals in the cave with the evil Goblin King!,Average,3,Coast Guard Starter Set,5,City,https://images.brickset.com/sets/images/60163-1.jpg,2017,9.99
+41191,2,205,Help Naida defend the Guardian Water Turtle from the shadow bat!,Average,3,Mountain Fugitives,5,City,https://images.brickset.com/sets/images/60171-1.jpg,2018,9.99
+41186,2,145,Escape the carnivorous plants with Azari and Firebolt!,Average,3,Mining Team,5,City,https://images.brickset.com/sets/images/60184-1.jpg,2018,9.99
+41314,8,622,Make cakes ready for a party at Stephanie’s House!,Average,3,Speed Record Car,5,City,https://images.brickset.com/sets/images/60178-1.jpg,2018,9.99
+41340,7,722,Plot mission after mission together at the Friendship House!,Average,3,Off-Road Chase,4.5,City,https://images.brickset.com/sets/images/60170-1.jpg,2018,6.99
+41128,8,195,Not Available,Average,3,Jungle Buggy,3.6,City,https://images.brickset.com/sets/images/60156-1.jpg,2017,6.99
+41130,17,1124,Not Available,Average,3,Fun in the park - City People Pack,4.6,City,https://images.brickset.com/sets/images/60134-1.jpg,2016,39.99
+41127,6,174,Not Available,Average,3,Volcano Heavy-lift Helicopter,4.6,City,https://images.brickset.com/sets/images/60125-1.jpg,2016,149.99
+75828,24,556,Speed after Mayhem with the LEGO® Ghostbusters™ Ecto-1 & 2 vehicles!,Average,3,Volcano Exploration Base,4.6,City,https://images.brickset.com/sets/images/60124-1.jpg,2016,119.99
+21313,83,962,"Designed by fan creator, Jake Sadovich, Idaho, USA.",Average,3,Police Patrol Boat,3.2,City,https://images.brickset.com/sets/images/60129-1.jpg,2016,49.99
+21310,79,2049,Prepare for the ultimate fishing trip!,Average,3,Volcano Supply Helicopter,4.3,City,https://images.brickset.com/sets/images/60123-1.jpg,2016,49.99
+21307,51,773,Add quirky vehicle style to your shelf or desk!,Average,3,Volcano Crawler,5,City,https://images.brickset.com/sets/images/60122-1.jpg,2016,39.99
+75932,4,360,Play a game of hide and seek with the Velociraptor!,Average,3,Ferry,4.2,City,https://images.brickset.com/sets/images/60119-1.jpg,2016,29.99
+75927,2,222,Stage a security breach with a dinosaur lab breakout!,Average,3,LEGO® City Advent Calendar,3.8,City,https://images.brickset.com/sets/images/60155-1.jpg,2017,29.99
+76105,52,1363,Create and show off the mighty Hulkbuster!,Average,3,Airport Cargo Plane,4.6,City,https://images.brickset.com/sets/images/60101-1.jpg,2016,24.99
+76108,7,1004,Stop Cull Obsidian and Ebony Maw stealing the Infinity Stone!,Average,3,Volcano Exploration Truck,4.8,City,https://images.brickset.com/sets/images/60121-1.jpg,2016,24.99
+76107,17,674,Battle Thanos for the Infinity Gauntlet with the Avengers!,Average,3,Van & Caravan,4.6,City,https://images.brickset.com/sets/images/60117-1.jpg,2016,19.99
+76103,3,416,Repel Corvus Glaive’s thresher attack on the Wakandan wall!,Average,3,Money Transporter,4.4,City,https://images.brickset.com/sets/images/60142-1.jpg,2017,19.99
+76088,6,492,Battle for freedom in the arena with Hulk and Thor!,Average,3,Police Starter Set,4.6,City,https://images.brickset.com/sets/images/60136-1.jpg,2017,9.99
+76083,23,375,Intercept The Shocker and take down the Vulture!,Average,3,Stunt Truck,4.8,City,https://images.brickset.com/sets/images/60146-1.jpg,2017,9.99
+76100,7,358,Capture Killmonger with Nakia’s awesome Royal Talon Fighter!,Average,3,Buggy,4.9,City,https://images.brickset.com/sets/images/60145-1.jpg,2017,9.99
+76080,12,323,Team up to take on Ayesha and save the galaxy!,Average,3,Volcano Starter Set,4.3,City,https://images.brickset.com/sets/images/60120-1.jpg,2016,9.99
+76060,15,358,Banish the portal beast from Doctor Strange’s Sanctum Sanctorum!,Average,3,Airport Starter Set,4.9,City,https://images.brickset.com/sets/images/60100-1.jpg,2016,9.99
+21134,7,729,Build and defend the awesome Waterfall Base!,Average,3,Fire Starter Set,4.1,City,https://images.brickset.com/sets/images/60106-1.jpg,2016,9.99
+21143,1,470,Board the minecart and journey through the Nether Portal!,Average,3,ATV Arrest,4.4,City,https://images.brickset.com/sets/images/60135-1.jpg,2017,6.99
+21140,4,198,Enjoy Minecraft™ farming adventures with the Chicken Coop!,Average,3,Creative Suitcase,5,Classic,https://images.brickset.com/sets/images/10713-1.jpg,2018,19.99
+21141,2,241,Enter the Zombie Cave at your peril!,Average,3,LEGO® Creative Bricks,4.1,Classic,https://images.brickset.com/sets/images/10692-1.jpg,2015,16.99
+21129,5,247,Discover The Mushroom Island!,Average,3,Gray Baseplate,4.1,Classic,https://images.brickset.com/sets/images/10701-1.jpg,2015,14.99
+21125,14,706,Build and defend The Jungle Tree House!,Average,3,Blue Baseplate,4.7,Classic,https://images.brickset.com/sets/images/10714-1.jpg,2018,7.99
+21124,6,559,Venture into the stronghold and activate the End portal!,Average,3,Green Baseplate,2.6,Classic,https://images.brickset.com/sets/images/10700-1.jpg,2015,7.99
+21126,3,318,Prepare to battle the wither!,Average,3,Blue Creativity Box,4.8,Classic,https://images.brickset.com/sets/images/10706-1.jpg,2017,4.99
+21119,16,219,Enter the zombie-spawning dungeon at your peril!,Average,3,Green Creativity Box,4.8,Classic,https://images.brickset.com/sets/images/10708-1.jpg,2017,4.99
+72004,3,506,Suit up for a Tech Wizard Showdown with Clay’s 3-in-1 mech!,Average,3,Red Creativity Box,4.5,Classic,https://images.brickset.com/sets/images/10707-1.jpg,2017,4.99
+70322,3,670,Protect the spell book from Burnzie in Axl's Tower Carrier!,Average,3,Orange Creativity Box,4.7,Classic,https://images.brickset.com/sets/images/10709-1.jpg,2017,4.99
+70355,1,598,Run rings around the Krakenbeast with Aaron’s 3-in-1 Rock Climber!,Average,3,Brick Separator,4.8,Classic,https://images.brickset.com/sets/images/630-3.jpg,2011,2.49
+70349,2,208,Rescue the queen from Ruina’s Lock & Roller!,Average,3,LEGO® Creative Supplement Bright,4.5,Classic,https://images.brickset.com/sets/images/10694-1.jpg,2015,19.99
+70313,3,187,Smash Aaron Fox out of the way and capture the Book of Chaos!,Average,3,Sand Baseplate,3.6,Classic,https://images.brickset.com/sets/images/10699-1.jpg,2015,7.99
+70617,15,1403,Evade the traps inside the Temple!,Average,3,Modular Family Villa,3.4,Creator 3-in-1,https://images.brickset.com/sets/images/31069-1.jpg,2017,69.99
+70632,11,1202,Turn sound into a weapon with Cole’s Quake Mech!,Average,3,Turbo Track Racer,4.5,Creator 3-in-1,https://images.brickset.com/sets/images/31070-1.jpg,2017,59.99
+70656,9,830,Defend NINJAGO® City from Garmadon Shark Mech attack!,Average,3,Modular Skate House,4.8,Creator 3-in-1,https://images.brickset.com/sets/images/31081-1.jpg,2018,39.99
+70616,6,914,Take on the shark army with Zane’s Ice Tank!,Average,3,Sunshine Surfer Van,4.4,Creator 3-in-1,https://images.brickset.com/sets/images/31079-1.jpg,2018,34.99
+70643,6,765,Explore the mysterious Temple of Resurrection!,Average,3,Space Shuttle Explorer,4.2,Creator 3-in-1,https://images.brickset.com/sets/images/31066-1.jpg,2017,29.99
+70614,8,876,Speed to the rescue with Jay’s Lightning Jet!,Average,3,Modular Modern Home,3.8,Creator 3-in-1,https://images.brickset.com/sets/images/31068-1.jpg,2017,29.99
+70642,2,556,Get weaponized for a dynamic Killow vs. Samurai X duel!,Average,3,Modular Poolside Holiday,4.6,Creator 3-in-1,https://images.brickset.com/sets/images/31067-1.jpg,2017,29.99
+70631,7,521,Get all fired up at Garmadon’s Volcano Lair!,Average,3,Robo Explorer,4.8,Creator 3-in-1,https://images.brickset.com/sets/images/31062-1.jpg,2017,19.99
+70612,29,544,Take on Garmadon with the Green Ninja Mech Dragon!,Average,3,Daredevil Stunt Plane,5,Creator 3-in-1,https://images.brickset.com/sets/images/31076-1.jpg,2018,19.99
+70639,3,308,Stage a high-speed bike showdown!,Average,3,Outback Adventures,4,Creator 3-in-1,https://images.brickset.com/sets/images/31075-1.jpg,2018,19.99
+70611,21,494,Smash the shark army out of the water with the Water Strider!,Average,3,Mighty Dinosaurs,4.7,Creator 3-in-1,https://images.brickset.com/sets/images/31058-1.jpg,2017,14.99
+70610,7,341,Take on the tentacular Flying Jelly Sub with Jay!,Average,3,Mythical Creatures,4.4,Creator 3-in-1,https://images.brickset.com/sets/images/31073-1.jpg,2018,14.99
+70638,3,257,Pursue Luke Cunningham with Kai’s Katana V11!,Average,3,Green Cruiser,4.5,Creator 3-in-1,https://images.brickset.com/sets/images/31056-1.jpg,2017,9.99
+70605,8,754,Launch a surprise attack on the sky pirates’ awesome HQ!,Average,3,Drone Explorer,5,Creator 3-in-1,https://images.brickset.com/sets/images/31071-1.jpg,2018,9.99
+70592,6,439,Match the Salvage M.E.C. vs. the Skulkin mech in a bounty-hunting duel!,Average,3,Fast Car,4.6,Creator 3-in-1,https://images.brickset.com/sets/images/31046-1.jpg,2016,19.99
+70624,5,313,Watch out for the mighty egg-launching Vermillion Invader!,Average,3,Lighthouse Point,4.7,Creator 3-in-1,https://images.brickset.com/sets/images/31051-1.jpg,2016,59.99
+70623,7,360,Glide across and above the swamp with Destiny's Shadow!,Average,3,Island Adventures,4.5,Creator 3-in-1,https://images.brickset.com/sets/images/31064-1.jpg,2017,34.99
+70603,8,294,Fly high with Zane to battle Doubloon’s mighty Raid Zeppelin!,Average,3,Beach Hut,4.4,Creator 3-in-1,https://images.brickset.com/sets/images/31035-1.jpg,2015,29.99
+75889,2,841,"Build, display and race iconic Ferrari race cars!",Average,3,Beachside Vacation,4.2,Creator 3-in-1,https://images.brickset.com/sets/images/31063-1.jpg,2017,29.99
+75888,4,391,Stage a historic Porsche race!,Average,3,Propeller Plane,4.9,Creator 3-in-1,https://images.brickset.com/sets/images/31047-1.jpg,2016,19.99
+75885,13,203,Drive the Fiesta M-Sport WRC to victory!,Average,3,Chopper Transporter,5,Creator 3-in-1,https://images.brickset.com/sets/images/31043-1.jpg,2016,9.99
+75883,8,941,Play every role of a top motor racing team on race day!,Average,3,Cargo Heli,4.8,Creator 3-in-1,https://images.brickset.com/sets/images/31029-1.jpg,2015,9.99
+75212,4,1413,Jump to lightspeed in the Millennium Falcon!,Average,3,Downtown Diner,4.6,Creator Expert,https://images.brickset.com/sets/images/10260-1.jpg,2018,169.99
+75211,7,519,Evade the mighty Imperial TIE Fighter!,Average,3,Winter Village Station,3.8,Creator Expert,https://images.brickset.com/sets/images/10259-1.jpg,2017,79.99
+75190,31,1416,Command the fleet with the awesome First Order Star Destroyer!,Average,3,Assembly Square,4.8,Creator Expert,https://images.brickset.com/sets/images/10255-1.jpg,2017,279.99
+75188,23,780,Set out on heroic raids with the Resistance Bomber!,Average,3,Big Ben,4.6,Creator Expert,https://images.brickset.com/sets/images/10253-1.jpg,2016,249.99
+75187,79,1106,Play with and display your own brick-built BB-8!,Average,3,Tower Bridge,4.8,Creator Expert,https://images.brickset.com/sets/images/10214-1.jpg,2010,239.99
+75156,39,863,Transport Director Krennic in his armor-plated shuttle!,Average,3,Carousel,4.4,Creator Expert,https://images.brickset.com/sets/images/10257-1.jpg,2017,199.99
+75179,22,630,Speed into action with Kylo Ren’s TIE Fighter!,Average,3,Ferris Wheel,4.9,Creator Expert,https://images.brickset.com/sets/images/10247-1.jpg,2015,199.99
+75102,71,717,Go on daring missions with Poe's X-Wing Fighter™!,Average,3,Brick Bank,4.7,Creator Expert,https://images.brickset.com/sets/images/10251-1.jpg,2016,169.99
+75155,56,659,Battle the Empire with the amazing Rebel U-Wing Fighter!,Average,3,Parisian Restaurant,4.9,Creator Expert,https://images.brickset.com/sets/images/10243-1.jpg,2014,159.99
+75180,3,836,Escape from Bala-Tik and the dreaded Rathtars!,Average,3,Detective’s Office,4.6,Creator Expert,https://images.brickset.com/sets/images/10246-1.jpg,2015,159.99
+75172,51,691,Launch daring raids with the iconic Y-Wing Starfighter!,Average,3,London Bus,4.6,Creator Expert,https://images.brickset.com/sets/images/10258-1.jpg,2017,139.99
+75191,15,825,Play at warp speed with Obi-Wan’s Jedi Starfighter With Hyperdrive!,Average,3,Volkswagen T1 Camper Van,4.7,Creator Expert,https://images.brickset.com/sets/images/10220-1.jpg,2011,119.99
+75534,6,168,Join Darth Vader and battle to victory!,Average,3,Volkswagen Beetle,4.9,Creator Expert,https://images.brickset.com/sets/images/10252-1.jpg,2016,99.99
+75533,4,144,Join the hunt with Boba Fett!,Average,3,MINI Cooper,4.7,Creator Expert,https://images.brickset.com/sets/images/10242-1.jpg,2014,99.99
+75119,3,104,Blast into battle with Rebel soldier Jyn Erso!,Average,3,Winter Holiday Train,4.3,Creator Expert,https://images.brickset.com/sets/images/10254-1.jpg,2016,99.99
+75095,94,1685,Presenting the Ultimate Collector Series TIE Fighter – the iconic Imperial starfighter!,Average,3,The Joker™ Manor,5,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70922-1.jpg,2017,269.99
+75104,67,1005,Enter the battle with Kylo Ren’s Command Shuttle™!,Average,3,Flying Fox: Batmobile Airlift Attack,3.7,DC Comics™ Super Heroes,https://images.brickset.com/sets/images/76087-1.jpg,2017,129.99
+75154,39,543,Join the battle against the rebels!,Average,3,LEGO® DIMENSIONS™ PLAYSTATION® 4 Starter Pack,4.3,DIMENSIONS™,https://images.brickset.com/sets/images/71171-1.jpg,2015,99.99
+75148,24,530,Stop the thief at Unkar Plutt's market stall!,Average,3,The Bat-Space Shuttle,4.8,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70923-1.jpg,2018,79.99
+75111,25,160,Feel the power of the dark side with posable Darth Vader™!,Average,3,Harley Quinn™ Cannonball Attack,3.2,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70921-1.jpg,2018,49.99
+42078,22,2595,Discover innovative design with the Mack Anthem truck and trailer!,Average,3,Lex Luthor™ Mech Takedown,4.8,DC Comics™ Super Heroes,https://images.brickset.com/sets/images/76097-1.jpg,2018,39.99
+42069,19,2382,Traverse uncharted territory with the Extreme Adventure!,Average,3,Speed Force Freeze Pursuit,4.8,DC Comics™ Super Heroes,https://images.brickset.com/sets/images/76098-1.jpg,2018,29.99
+42077,8,1005,Push the limits with the awesome LEGO® Technic Rally Car!,Average,3,The Justice League™ Anniversary Party,3.2,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70919-1.jpg,2018,29.99
+42068,12,1098,Mobilize the Airport Rescue Vehicle!,Average,3,Egghead™ Mech Food Fight,4.7,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70920-1.jpg,2018,29.99
+42076,5,1020,Transport supplies over land and sea with the all-terrain Hovercraft!,Average,3,The Bat-Dune Buggy,4.5,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70918-1.jpg,2018,19.99
+42063,12,603,Experience the BMW R 1200 GS Adventure!,Average,3,Battle of Atlantis,4.2,DC Comics™ Super Heroes,https://images.brickset.com/sets/images/76085-1.jpg,2017,19.99
+42074,5,330,Put the wind in your sails with this amazing Racing Yacht!,Average,3,Superman™ & Krypto™ Team-Up,5,DC Comics™ Super Heroes,https://images.brickset.com/sets/images/76096-1.jpg,2018,19.99
+42053,18,1166,Operate the powerful Volvo EW160E!,Average,3,Wonder Woman™,5,BrickHeadz,https://images.brickset.com/sets/images/41599-1.jpg,2018,9.99
+42037,16,494,Take on mountainous terrain with the LEGO® Technic Formula Off-Roader!,Average,3,The Flash™,4,BrickHeadz,https://images.brickset.com/sets/images/41598-1.jpg,2018,9.99
+42049,9,476,Call in the powerful Mine Loader!,Average,3,Cyborg™,5,BrickHeadz,https://images.brickset.com/sets/images/41601-1.jpg,2018,9.99
+42036,15,375,Take to the open road with the LEGO® Technic Street Motorcycle!,Average,3,Batgirl™ Batjet Chase,4.5,DC Super Hero Girls,https://images.brickset.com/sets/images/41230-1.jpg,2017,24.99
+42061,6,260,Utilize the power and reach of the awesome Telehandler!,Average,3,Lashina™ Tank,4,DC Super Hero Girls,https://images.brickset.com/sets/images/41233-1.jpg,2017,14.99
+42032,9,252,Clear the ground with the LEGO® Technic Compact Track Loader!,Average,3,Batman™ Classic TV Series – Batcave,4.6,DC Comics™ Super Heroes,https://images.brickset.com/sets/images/76052-1.jpg,2016,269.99
+42044,5,113,Thrill the crowds with the Display Team Jet!,Average,3,Batman™: Killer Croc™ Sewer Smash,4.3,DC Comics™ Super Heroes,https://images.brickset.com/sets/images/76055-1.jpg,2016,79.99
+70912,20,1628,Break into Arkham Asylum with Batman™!,Average,3,Batman™: Scarecrow™ Harvest of Fear,4.6,DC Comics™ Super Heroes,https://images.brickset.com/sets/images/76054-1.jpg,2016,59.99
+70917,18,1456,Divide the 4-in-1 Ultimate Batmobile and conquer the Super-Villains!,Average,3,Kryptonite Interception,4.6,DC Comics™ Super Heroes,https://images.brickset.com/sets/images/76045-1.jpg,2016,29.99
+70909,23,1047,Protect the Batcave from The Penguin’s invasion!,Average,3,Wonder Woman™ Warrior Battle,4.7,DC Comics™ Super Heroes,https://images.brickset.com/sets/images/76075-1.jpg,2017,29.99
+70916,4,1053,Patrol the sky above Gotham City in The Batwing!,Average,3,Green Lantern vs. Sinestro,4.8,DC Comics™ Super Heroes,https://images.brickset.com/sets/images/76025-1.jpg,2015,19.99
+70923,9,643,Launch a space mission from the Batcave!,Average,3,Bumblebee™ Helicopter,4,DC Super Hero Girls,https://images.brickset.com/sets/images/41234-1.jpg,2017,14.99
+70905,20,581,Pursue Man-Bat™ and the Kabuki Twins™ in the Batmobile with three driving modes!,Average,3,Clash of the Heroes,4.3,DC Comics™ Super Heroes,https://images.brickset.com/sets/images/76044-1.jpg,2016,12.99
+70906,19,433,Team up with Batgirl™ to stop The Joker’s Notorious Lowrider!,Average,3,Batman™,4.9,BrickHeadz,https://images.brickset.com/sets/images/41585-1.jpg,2017,9.99
+70921,5,425,Dodge Harley Quinn’s cannonball attacks!,Average,3,The Joker™,4.8,BrickHeadz,https://images.brickset.com/sets/images/41588-1.jpg,2017,9.99
+70914,6,366,Protect Gotham City from Bane’s toxic attacks!,Average,3,Robin™,4.8,BrickHeadz,https://images.brickset.com/sets/images/41587-1.jpg,2017,9.99
+70920,11,293,Join Batman™ in a comical food fight!,Average,3,Batgirl™ Batjet Chase,4.5,DC Super Hero Girls,https://images.brickset.com/sets/images/41230-1.jpg,2017,24.99
+70910,8,204,Help Batman™ to stop Scarecrow™ delivering a special scare pizza!,Average,3,Lashina™ Tank,4,DC Super Hero Girls,https://images.brickset.com/sets/images/41233-1.jpg,2017,14.99
+70908,15,775,Save the day with Batman™ and The Scuttler!,Average,3,Bumblebee™ Helicopter,4,DC Super Hero Girls,https://images.brickset.com/sets/images/41234-1.jpg,2017,14.99
+70915,6,564,Don’t get on the wrong side of the Two-Face™ Excavator!,Average,3,LEGO® DIMENSIONS™ PLAYSTATION® 4 Starter Pack,4.3,DIMENSIONS™,https://images.brickset.com/sets/images/71171-1.jpg,2015,99.99
+70904,13,448,Duel against the mighty Clayface™ with Batman™!,Average,3,The Powerpuff Girls™ Fun Pack,5,DIMENSIONS™,https://images.brickset.com/sets/images/71343-1.jpg,2017,14.99
+70617,15,1403,Evade the traps inside the Temple!,Average,3,Beetlejuice™ Fun Pack,5,DIMENSIONS™,https://images.brickset.com/sets/images/71349-1.jpg,2017,14.99
+70632,11,1202,Turn sound into a weapon with Cole’s Quake Mech!,Average,3,Teen Titans Go!™ Team Pack,4,DIMENSIONS™,https://images.brickset.com/sets/images/71255-1.jpg,2017,24.99
+70656,9,830,Defend NINJAGO® City from Garmadon Shark Mech attack!,Average,3,Ghostbusters™ Story Pack,4.2,DIMENSIONS™,https://images.brickset.com/sets/images/71242-1.jpg,2016,49.99
+70616,6,914,Take on the shark army with Zane’s Ice Tank!,Average,3,THE LEGO® BATMAN MOVIE Story Pack,4.5,DIMENSIONS™,https://images.brickset.com/sets/images/71264-1.jpg,2017,44.99
+70614,8,876,Speed to the rescue with Jay’s Lightning Jet!,Average,3,Goonies™ Level Pack,5,DIMENSIONS™,https://images.brickset.com/sets/images/71267-1.jpg,2017,29.99
+70631,7,521,Get all fired up at Garmadon’s Volcano Lair!,Average,3,Mission: Impossible™ Level Pack,4.5,DIMENSIONS™,https://images.brickset.com/sets/images/71248-1.jpg,2016,29.99
+70612,29,544,Take on Garmadon with the Green Ninja Mech Dragon!,Average,3,DC Comics™ Team Pack,4,DIMENSIONS™,https://images.brickset.com/sets/images/71229-1.jpg,2016,24.99
+70611,21,494,Smash the shark army out of the water with the Water Strider!,Average,3,Midway Arcade™ Level Pack,3.2,DIMENSIONS™,https://images.brickset.com/sets/images/71235-1.jpg,2016,24.99
+70610,7,341,Take on the tentacular Flying Jelly Sub with Jay!,Average,3,Harry Potter™ Fun Pack,5,DIMENSIONS™,https://images.brickset.com/sets/images/71348-1.jpg,2017,14.99
+21035,14,744,Recreate the Solomon R. Guggenheim Museum® with LEGO® Architecture!,Challenging,4,LEGO® City Fun Pack,5,DIMENSIONS™,https://images.brickset.com/sets/images/71266-1.jpg,2017,14.99
+60166,8,415,Perform a daring helicopter rescue before the shark gets too close!,Challenging,4,Cyberman™ Fun Pack,4.6,DIMENSIONS™,https://images.brickset.com/sets/images/71238-1.jpg,2016,14.99
+10260,62,2480,Discover a place where music is on the menu!,Challenging,4,LEGO® DIMENSIONS™ Gollum Fun Pack,4.3,DIMENSIONS™,https://images.brickset.com/sets/images/71218-1.jpg,2015,14.99
+10255,99,4002,Celebrate ten years of Modular Building with the Assembly Square!,Challenging,4,LEGO® DIMENSIONS™ Eris Fun Pack,3.8,DIMENSIONS™,https://images.brickset.com/sets/images/71232-1.jpg,2015,14.99
+10253,64,4163,Build the world’s best-known clock tower!,Challenging,4,The Disney Castle,4.7,Disney™,https://images.brickset.com/sets/images/71040-1.jpg,2016,349.99
+10214,228,4295,Build London's famous Tower Bridge!,Challenging,4,Silent Mary,4.5,Disney™,https://images.brickset.com/sets/images/71042-1.jpg,2017,199.99
+10257,53,2670,Discover the fairground’s star attraction with the Carousel!,Challenging,4,Moana’s Ocean Voyage,4.7,Disney™,https://images.brickset.com/sets/images/41150-1.jpg,2017,39.99
+10247,91,2464,Experience the wonderful LEGO® Creator Ferris Wheel!,Challenging,4,Castle Interior Kit,5,Disney™,https://images.brickset.com/sets/images/40307-1.jpg,2018,9.99
+10251,115,2382,Make a safe deposit at the Brick Bank!,Challenging,4,Captain Armando Salazar,5,BrickHeadz,https://images.brickset.com/sets/images/41594-1.jpg,2017,9.99
+10243,202,2469,Have an unforgettable evening at the amazing Parisian Restaurant!,Challenging,4,Anna's Snow Adventure,5,Disney™,https://images.brickset.com/sets/images/41147-1.jpg,2017,19.99
+10246,177,2262,Discover hidden clues and surprises at the Detective's Office!,Challenging,4,Captain Jack Sparrow,4.8,BrickHeadz,https://images.brickset.com/sets/images/41593-1.jpg,2017,9.99
+10220,337,1334,Road trips will never be the same again with the iconic 1962 Volkswagen T1 Camper Van,Challenging,4,Belle,4.8,BrickHeadz,https://images.brickset.com/sets/images/41595-1.jpg,2017,9.99
+70922,19,3444,Dare to enter The Joker™ Manor!,Challenging,4,Beast,5,BrickHeadz,https://images.brickset.com/sets/images/41596-1.jpg,2017,9.99
+71040,171,4080,Welcome to the magical Disney Castle!,Challenging,4,Big Fair,5,DUPLO®,https://images.brickset.com/sets/images/10840-1.jpg,2017,79.99
+41335,2,351,Climb up to the tree house and help Mia settle in!,Challenging,4,My First Train Set,4.7,DUPLO®,https://images.brickset.com/sets/images/10507-1.jpg,2013,44.99
+75827,130,4634,Get ready to bust some ghosts at the Firehouse Headquarters!,Challenging,4,Number Train,5,DUPLO®,https://images.brickset.com/sets/images/10847-1.jpg,2017,19.99
+21309,367,1969,Build the first rocket to land people on the Moon!,Challenging,4,My First Cars and Trucks,5,DUPLO®,https://images.brickset.com/sets/images/10816-1.jpg,2016,19.99
+31313,38,601,Create and command robots that do what you want with LEGO® MINDSTORMS® EV3!,Challenging,4,LEGO® DUPLO® Green Baseplate,4,DUPLO®,https://images.brickset.com/sets/images/2304-1.jpg,1992,14.99
+21135,1,717,Expand your LEGO® Minecraft™ universe!,Challenging,4,Family Pets,5,DUPLO®,https://images.brickset.com/sets/images/10838-1.jpg,2017,9.99
+70317,17,1140,Roll into action with the NEXO KNIGHTS™ 2-in-1 battle castle!,Challenging,4,Airport,5,DUPLO®,https://images.brickset.com/sets/images/10590-1.jpg,2015,19.99
+70321,2,516,Tower over the enemy with the monstrous Siege Machine of Doom!,Challenging,4,Rosalyn's Healing Hideout,4.3,Elves,https://images.brickset.com/sets/images/41187-1.jpg,2017,49.99
+70618,52,2295,Join the ninja aboard Wu’s flying ship!,Challenging,4,Aira & the Song of the Wind Dragon,5,Elves,https://images.brickset.com/sets/images/41193-1.jpg,2018,39.99
+70620,88,4867,Live the life of a ninja in NINJAGO® City!,Challenging,4,The Goblin King's Evil Dragon,4.3,Elves,https://images.brickset.com/sets/images/41183-1.jpg,2017,29.99
+70641,4,552,Shoot on the go with Lloyd’s Ninja Nightcrawler!,Challenging,4,Naida & the Water Turtle Ambush,5,Elves,https://images.brickset.com/sets/images/41191-1.jpg,2018,19.99
+75159,84,4016,Win the battle for the Empire with the awesome Death Star!,Challenging,4,Azari & the Goblin Forest Escape,5,Elves,https://images.brickset.com/sets/images/41186-1.jpg,2017,19.99
+75060,201,1996,Lift off for bounty-hunting adventures in the Slave I!,Challenging,4,Emily Jones & the Eagle Getaway,5,Elves,https://images.brickset.com/sets/images/41190-1.jpg,2018,14.99
+75189,33,1376,Stride into battle with the First Order Heavy Assault Walker!,Challenging,4,Naida's Gondola & the Goblin Thief,5,Elves,https://images.brickset.com/sets/images/41181-1.jpg,2017,9.99
+75186,5,775,Go head to head with the Empire aboard The Arrowhead!,Challenging,4,Stephanie's House,4.1,Friends,https://images.brickset.com/sets/images/41314-1.jpg,2017,69.99
+75185,6,557,Search out the Freemakers with Tracker I!,Challenging,4,Friendship House,4.1,Friends,https://images.brickset.com/sets/images/41340-1.jpg,2018,69.99
+75177,9,554,Stomp into battle with the First Order Heavy Scout Walker!,Challenging,4,Mia's Tree House,5,Friends,https://images.brickset.com/sets/images/41335-1.jpg,2018,29.99
+75144,86,1703,Build the ultimate LEGO® Snowspeeder!,Challenging,4,Heartlake Pizzeria,4.1,Friends,https://images.brickset.com/sets/images/41311-1.jpg,2017,29.99
+75192,197,7541,Travel the LEGO® galaxy in the ultimate Millennium Falcon!,Challenging,4,Stephanie's Bedroom,5,Friends,https://images.brickset.com/sets/images/41328-1.jpg,2018,9.99
+42070,45,1862,Harness the power of the mighty 6x6 All Terrain Tow Truck!,Challenging,4,Amusement Park Space Ride,4.5,Friends,https://images.brickset.com/sets/images/41128-1.jpg,2016,19.99
+42056,143,2704,Discover the iconic Porsche 911 GT3 RS!,Challenging,4,Amusement Park Roller Coaster,4.8,Friends,https://images.brickset.com/sets/images/41130-1.jpg,2016,99.99
+42055,75,3929,Experience the huge Bucket Wheel Excavator!,Challenging,4,Heartlake Performance School,2.8,Friends,https://images.brickset.com/sets/images/41134-1.jpg,2016,79.99
+42066,7,1151,Prepare for vertical takeoffs and landings with the Air Race Jet!,Challenging,4,Heartlake Gift Delivery,4,Friends,https://images.brickset.com/sets/images/41310-1.jpg,2017,19.99
+42071,2,171,Call in the powerful Dozer Compactor!,Challenging,4,Amusement Park Arcade,4.3,Friends,https://images.brickset.com/sets/images/41127-1.jpg,2016,14.99
+42054,18,1977,Harness the awesome power of the CLAAS XERION 5000 TRAC VC,Challenging,4,Mia's Beach Scooter,4,Friends,https://images.brickset.com/sets/images/41306-1.jpg,2017,9.99
+42052,19,1043,Airlift massive loads with the Heavy Lift Helicopter!,Challenging,4,Firehouse Headquarters,4.8,Ghostbusters™,https://images.brickset.com/sets/images/75827-1.jpg,2016,349.99
+42039,23,1219,Scream around the circuit in the lightning-fast LEGO® Technic 24 Hours Race Car!,Challenging,4,Ecto-1 & 2,4.8,Ghostbusters™,https://images.brickset.com/sets/images/75828-1.jpg,2016,59.99
+70922,19,3444,Dare to enter The Joker™ Manor!,Challenging,4,Ship in a Bottle,4.5,Ideas,https://images.brickset.com/sets/images/21313-1.jpg,2018,69.99
+70618,52,2295,Join the ninja aboard Wu’s flying ship!,Challenging,4,TRON: Legacy,4.4,Ideas,https://images.brickset.com/sets/images/21314-1.jpg,2018,34.99
+70620,88,4867,Live the life of a ninja in NINJAGO® City!,Challenging,4,Old Fishing Store,5,Ideas,https://images.brickset.com/sets/images/21310-1.jpg,2017,149.99
+75821,11,74,Chase the piggy with lightning-fast Chuck and rescue the eggs!,Easy,2,LEGO® NASA Apollo Saturn V,4.9,Ideas,https://images.brickset.com/sets/images/21309-1.jpg,2017,119.99
+21032,7,361,Celebrate Sydney with this LEGO® Architecture Skyline model!,Easy,2,Adventure Time™,3.3,Ideas,https://images.brickset.com/sets/images/21308-1.jpg,2017,49.99
+41614,1,234,Train a raptor with LEGO® BrickHeadz™ Owen and Blue!,Easy,2,Women of NASA,4.6,Ideas,https://images.brickset.com/sets/images/21312-1.jpg,2017,24.99
+41605,2,105,Feel the power of Infinity with LEGO® BrickHeadz Thanos!,Easy,2,Caterham Seven 620R,4.1,Ideas,https://images.brickset.com/sets/images/21307-1.jpg,2016,79.99
+41606,1,113,Be a legendary outlaw with LEGO® BrickHeadz Star-Lord!,Easy,2,Demolition Site,5,Juniors,https://images.brickset.com/sets/images/10734-1.jpg,2017,29.99
+40270,7,140,Say “I love you” with a LEGO® BrickHeadz™ Valentine's Bee!,Easy,2,Spider-Man vs. Scorpion Street Showdown,4,Juniors,https://images.brickset.com/sets/images/10754-1.jpg,2018,19.99
+41599,5,143,Stand tall with LEGO® BrickHeadz Wonder Woman™!,Easy,2,Batman™ vs. Mr. Freeze™,4.5,Juniors,https://images.brickset.com/sets/images/10737-1.jpg,2017,14.99
+41602,3,119,Feel the Force with a LEGO® BrickHeadz construction character featuring Rey!,Easy,2,Indoraptor Rampage at Lockwood Estate,5,Indoraptor Rampage at Lockwood Estate,https://images.brickset.com/sets/images/75930-1.jpg,2018,129.99
+41601,2,108,Get an upgrade with LEGO® BrickHeadz Cyborg™,Easy,2,Carnotaurus Gyrosphere Escape,5,Carnotaurus Gyrosphere Escape,https://images.brickset.com/sets/images/75929-1.jpg,2018,79.99
+41611,1,240,Travel back to the future with LEGO® BrickHeadz™ Marty McFly and Doc Brown!,Easy,2,Jurassic Park Velociraptor Chase,5,Jurassic Park Velociraptor Chase,https://images.brickset.com/sets/images/75932-1.jpg,2018,39.99
+40271,4,126,Hop to it with a LEGO® BrickHeadz™ Easter Bunny!,Easy,2,Dilophosaurus Outpost Attack,4,Dilophosaurus Outpost Attack,https://images.brickset.com/sets/images/75931-1.jpg,2018,39.99
+41590,8,96,Stand your ground with your own LEGO® BrickHeadz Iron Man!,Easy,2,Stygimoloch Breakout,5,Stygimoloch Breakout,https://images.brickset.com/sets/images/75927-1.jpg,2018,29.99
+41593,9,109,Treasure your own LEGO® BrickHeadz construction character featuring Disney’s Captain Jack Sparrow!,Easy,2,Owen & Blue,5,BrickHeadz,https://images.brickset.com/sets/images/41614-1.jpg,2018,19.99
+41592,8,93,Have a smashing time with LEGO® BrickHeadz The Hulk!,Easy,2,Pteranodon Chase,4,Pteranodon Chase,https://images.brickset.com/sets/images/75926-1.jpg,2018,19.99
+41595,10,139,Add some Disney fairytale romance with a LEGO® BrickHeadz construction character featuring Belle!,Easy,2,The Hulkbuster: Ultron Edition,3.8,Marvel Super Heroes,https://images.brickset.com/sets/images/76105-1.jpg,2018,119.99
+41588,12,151,Show off the evil trickster with LEGO® BrickHeadz The Joker™!,Easy,2,Sanctum Sanctorum Showdown,5,Marvel Super Heroes,https://images.brickset.com/sets/images/76108-1.jpg,2018,99.99
+60141,10,894,Throw the crooks back in jail after they break out!,Easy,2,Thanos: Ultimate Battle,4.7,Marvel Super Heroes,https://images.brickset.com/sets/images/76107-1.jpg,2018,69.99
+60140,9,561,Protect the bank and stop the crooks!,Easy,2,Corvus Glaive Thresher Attack,4,Marvel Super Heroes,https://images.brickset.com/sets/images/76103-1.jpg,2018,39.99
+60154,16,337,"Hop on, there’s so much to see with the LEGO® City bus!",Easy,2,The Hulkbuster Smash-Up,4.8,Marvel Super Heroes,https://images.brickset.com/sets/images/76104-1.jpg,2018,29.99
+60159,5,378,Defend the mission and dodge a surprise in the jungle!,Easy,2,Thor's Weapon Quest,4.4,Marvel Super Heroes,https://images.brickset.com/sets/images/76102-1.jpg,2018,19.99
+60182,7,344,"Load up the Pickup & Caravan, it’s time for a vacation!",Easy,2,Outrider Dropship Attack,4.8,Marvel Super Heroes,https://images.brickset.com/sets/images/76101-1.jpg,2018,14.99
+60183,7,310,Haul in the helicopter to handle the heavy lifting!,Easy,2,Thanos,5,BrickHeadz,https://images.brickset.com/sets/images/41605-1.jpg,2018,9.99
+60107,11,214,Put out the burning oil barrel!,Easy,2,Star-Lord,5,BrickHeadz,https://images.brickset.com/sets/images/41606-1.jpg,2018,9.99
+60150,35,249,Order a pizza to go!,Easy,2,Gamora,5,BrickHeadz,https://images.brickset.com/sets/images/41607-1.jpg,2018,9.99
+7499,89,24,Get killer curves in your tracks!,Easy,2,Thor vs. Hulk: Arena Clash,4.3,Marvel Super Heroes,https://images.brickset.com/sets/images/76088-1.jpg,2017,59.99
+60148,12,239,Gear up for the big race!,Easy,2,Hulk vs. Red Hulk,3.7,Marvel Super Heroes,https://images.brickset.com/sets/images/76078-1.jpg,2017,59.99
+60179,6,190,Transport the mountain snowboarder to the hospital!,Easy,2,The Ultimate Battle for Asgard,4.3,Marvel Super Heroes,https://images.brickset.com/sets/images/76084-1.jpg,2017,49.99
+60137,8,144,Catch the crook before he tows the safe away!,Easy,2,Beware the Vulture,4.6,Marvel Super Heroes,https://images.brickset.com/sets/images/76083-1.jpg,2017,39.99
+60176,1,126,Speed after the crook on an exciting river chase!,Easy,2,Royal Talon Fighter Attack,4.7,Marvel Super Heroes,https://images.brickset.com/sets/images/76100-1.jpg,2018,29.99
+60164,3,141,Fly in and save the stranded sailor before he floats away!,Easy,2,Iron Man: Detroit Steel Strikes,4.6,Marvel Super Heroes,https://images.brickset.com/sets/images/76077-1.jpg,2017,29.99
+60177,2,87,Wow the crowds in the sleek Airshow Jet!,Easy,2,Rhino Face-Off by the Mine,4.7,Marvel Super Heroes,https://images.brickset.com/sets/images/76099-1.jpg,2018,19.99
+60157,12,88,Cruise into the jungle and make a big discovery!,Easy,2,ATM Heist Battle,3.9,Marvel Super Heroes,https://images.brickset.com/sets/images/76082-1.jpg,2017,19.99
+60178,1,78,Climb in the cockpit and set a new speed record!,Easy,2,Captain America Jet Pursuit,3.7,Marvel Super Heroes,https://images.brickset.com/sets/images/76076-1.jpg,2017,19.99
+60156,5,53,Explore the depths of the jungle and find something amazing!,Easy,2,Spider-Man vs. Scorpion Street Showdown,4,Juniors,https://images.brickset.com/sets/images/10754-1.jpg,2018,19.99
+60129,5,200,Keep the crook from escaping his boat ride to prison!,Easy,2,Mighty Micros: Thor vs. Loki,3.5,Marvel Super Heroes,https://images.brickset.com/sets/images/76091-1.jpg,2018,9.99
+60123,3,330,Fly in the exploration gear and fly out the crystals!,Easy,2,Ayesha's Revenge,4.8,Marvel Super Heroes,https://images.brickset.com/sets/images/76080-1.jpg,2017,29.99
+60119,14,301,Take the Ferry to your next adventure!,Easy,2,Tanker Truck Takedown,4.8,Marvel Super Heroes,https://images.brickset.com/sets/images/76067-1.jpg,2016,29.99
+60155,8,248,Celebrate 24 fun days with the LEGO® City Advent Calendar!,Easy,2,Doctor Strange's Sanctum Sanctorum,4.5,Marvel Super Heroes,https://images.brickset.com/sets/images/76060-1.jpg,2016,29.99
+60101,13,157,Load up the Cargo Plane and get ready to fly!,Easy,2,Ravager Attack,4.4,Marvel Super Heroes,https://images.brickset.com/sets/images/76079-1.jpg,2017,19.99
+60121,6,175,Head off-road and make the big discoveries!,Easy,2,Iron Man vs. Ultron,4.5,Marvel Super Heroes,https://images.brickset.com/sets/images/76029-1.jpg,2015,12.99
+60117,35,250,Pack up the gear; it’s time to go camping!,Easy,2,Mighty Micros: Iron Man vs. Thanos,4.4,Marvel Super Heroes,https://images.brickset.com/sets/images/76072-1.jpg,2017,9.99
+60142,7,138,Catch the crook before she gets away with the safe!,Easy,2,Iron Man,4.9,BrickHeadz,https://images.brickset.com/sets/images/41590-1.jpg,2017,9.99
+60136,8,80,Stop the crooks before they empty the ATM!,Easy,2,The Hulk,4.6,BrickHeadz,https://images.brickset.com/sets/images/41592-1.jpg,2017,9.99
+60146,8,91,Strap in and jump some ramps!,Easy,2,Mighty Micros: Wolverine vs. Magneto,4,Marvel Super Heroes,https://images.brickset.com/sets/images/76073-1.jpg,2017,9.99
+60120,7,83,Explore the volcano and make an exciting discovery!,Easy,2,LEGO® MINDSTORMS® EV3,4.3,MINDSTORMS®,https://images.brickset.com/sets/images/31313-1.jpg,2013,349.99
+60106,11,90,Save the dockworker and put out the blaze!,Easy,2,The Waterfall Base,4.1,Minecraft™,https://images.brickset.com/sets/images/21134-1.jpg,2017,69.99
+10692,7,221,Get creative with classic LEGO® bricks in 29 different colors!,Easy,2,The Crafting Box 2.0,5,Minecraft™,https://images.brickset.com/sets/images/21135-1.jpg,2017,59.99
+10708,5,66,Unleash your imagination with the LEGO® Green Creativity Box!,Easy,2,The Farm Cottage,4.8,Minecraft™,https://images.brickset.com/sets/images/21144-1.jpg,2018,49.99
+10709,3,60,Unleash your imagination with the LEGO® Orange Creativity Box!,Easy,2,The Nether Portal,5,Minecraft™,https://images.brickset.com/sets/images/21143-1.jpg,2018,39.99
+10694,6,303,Build whatever your heart desires with LEGO® bricks in 20 different bright colors!,Easy,2,The Chicken Coop,4.5,Minecraft™,https://images.brickset.com/sets/images/21140-1.jpg,2018,19.99
+31079,5,379,Enjoy seaside fun with the 3-in-1 Sunshine Surfer Van set!,Easy,2,The Zombie Cave,5,Minecraft™,https://images.brickset.com/sets/images/21141-1.jpg,2018,19.99
+31066,12,285,Launch a satellite with the 3-in-1 Space Shuttle Explorer!,Easy,2,The Iron Golem,4.6,Minecraft™,https://images.brickset.com/sets/images/21123-1.jpg,2016,19.99
+31075,1,225,Head into the wilds with the 3-in-1 Outback Adventures set!,Easy,2,The Mushroom Island,4.6,Minecraft™,https://images.brickset.com/sets/images/21129-1.jpg,2017,19.99
+31058,27,174,Enjoy roaring adventures with the 3-in-1 Mighty Dinosaurs!,Easy,2,The Melon Farm,4.3,Minecraft™,https://images.brickset.com/sets/images/21138-1.jpg,2018,14.99
+31073,5,223,Create a world of scary 3-in-1 Mythical Creatures!,Easy,2,The Nether Fortress,3.5,Minecraft™,https://images.brickset.com/sets/images/21122-1.jpg,2015,79.99
+31056,6,122,Take an open-top drive in the cool 3-in-1 Green Cruiser!,Easy,2,The Jungle Tree House,4.7,Minecraft™,https://images.brickset.com/sets/images/21125-1.jpg,2016,69.99
+31035,9,286,Enjoy summer adventures with the 3-in-1 Beach Hut!,Easy,2,The End Portal,5,Minecraft™,https://images.brickset.com/sets/images/21124-1.jpg,2016,59.99
+31043,2,124,Not Available,Easy,2,The Wither,5,Minecraft™,https://images.brickset.com/sets/images/21126-1.jpg,2016,39.99
+76098,6,271,Pursue Reverse Flash™ and grab the Energy Infuser!,Easy,2,The Dungeon,3.4,Minecraft™,https://images.brickset.com/sets/images/21119-1.jpg,2015,19.99
+70919,5,267,Party on with Superman™ and friends!,Easy,2,Series 18: Party,4.6,Minifigures,https://images.brickset.com/sets/images/71021-15.jpg,2018,3.99
+76085,9,197,Protect the precious Mother Box from the evil Parademon™!,Easy,2,People pack – Fun at the beach,4.1,City,https://images.brickset.com/sets/images/60153-1.jpg,2017,39.99
+41599,5,143,Stand tall with LEGO® BrickHeadz Wonder Woman™!,Easy,2,THE LEGO® BATMAN MOVIE Series 2,4.8,Minifigures,https://images.brickset.com/sets/images/71020-12.jpg,2018,3.99
+41601,2,108,Get an upgrade with LEGO® BrickHeadz Cyborg™,Easy,2,THE LEGO® NINJAGO® MOVIE™,4.3,Minifigures,https://images.brickset.com/sets/images/71019-13.jpg,2017,3.99
+41230,4,206,Recover Batgirl’s ePad from the evil Kryptomite™!,Easy,2,Series 17,4.1,Minifigures,https://images.brickset.com/sets/images/71018-7.jpg,2017,3.99
+76054,9,563,Help Batman™ rescue the farmer from Scarecrow™ and Killer Moth™!,Easy,2,Tech Wizard Showdown,5,NEXO KNIGHTS™,https://images.brickset.com/sets/images/72004-1.jpg,2018,39.99
+76075,7,286,Help Wonder Woman™ defeat the villainous Ares™!,Easy,2,Twinfector,5,NEXO KNIGHTS™,https://images.brickset.com/sets/images/72002-1.jpg,2018,19.99
+76025,32,174,Zoom into orbit and recover Green Lantern’s lantern!,Easy,2,Battle Suit Axl,4,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70365-1.jpg,2017,9.99
+76044,30,91,Get set for a Batman™ v Superman™ rooftop duel!,Easy,2,King's Guard Artillery,4,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70347-1.jpg,2017,9.99
+41588,12,151,Show off the evil trickster with LEGO® BrickHeadz The Joker™!,Easy,2,The Fortrex,4.9,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70317-1.jpg,2016,99.99
+41230,4,206,Recover Batgirl’s ePad from the evil Kryptomite™!,Easy,2,Axl's Tower Carrier,5,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70322-1.jpg,2016,69.99
+71343,1,56,"Save the world before bedtime in the LEGO® DIMENSIONS™ multiverse with Buttercup™, the toughest fighter!",Easy,2,Aaron's Rock Climber,5,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70355-1.jpg,2017,59.99
+71349,1,56,It’s showtime! Bring Beetlejuice™ to life in the LEGO® DIMENSIONS™ multiverse for an eerie adventure!,Easy,2,Axl's Rumble Maker,5,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70354-1.jpg,2017,39.99
+71255,2,105,Fight off villains with Raven and Beast Boy in the Teen Titans Go!™ Team Pack!,Easy,2,General Magmar's Siege Machine of Doom,5,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70321-1.jpg,2016,49.99
+71264,2,156,Fight crime with Batgirl™ and Robin™ in THE LEGO® BATMAN MOVIE!,Easy,2,Ruina's Lock & Roller,4.5,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70349-1.jpg,2017,19.99
+71248,6,76,Hang by a thread with Ethan on a Mission: Impossible™ level!,Easy,2,Lance's Twin Jouster,5,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70348-1.jpg,2017,19.99
+71229,2,92,Get devious with DC Comics' The Joker™ & Harley Quinn™!,Easy,2,Moltor’s Lava Smasher,4.7,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70313-1.jpg,2016,19.99
+71238,7,40,Set out on time-traveling adventures with Cyberman™ from Doctor Who!,Easy,2,Battle Suit Aaron,4,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70364-1.jpg,2017,9.99
+71218,3,39,Keep watch over the multiverse from the shadows with Gollum™ from The Lord of the Rings™!,Easy,2,Ultimate Flama,4,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70339-1.jpg,2016,9.99
+41150,3,307,Set sail with Moana to restore the heart of Te Fiti!,Easy,2,Ultimate Lance,3.5,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70337-1.jpg,2016,9.99
+40307,1,115,Decorate and customize your castle!,Easy,2,Ultimate General Magmar,5,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70338-1.jpg,2016,9.99
+41147,2,153,Take a break with Anna and her horse on their journey!,Easy,2,Combo NEXO Powers Wave 1,3.4,NEXO KNIGHTS™,https://images.brickset.com/sets/images/70372-1.jpg,2017,3.99
+41593,9,109,Treasure your own LEGO® BrickHeadz construction character featuring Disney’s Captain Jack Sparrow!,Easy,2,Destiny's Bounty,4.9,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70618-1.jpg,2017,159.99
+41595,10,139,Add some Disney fairytale romance with a LEGO® BrickHeadz construction character featuring Belle!,Easy,2,NINJAGO® City,4.9,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70620-1.jpg,2017,299.99
+10840,1,106,Enjoy a day of family fun at LEGO® DUPLO® Big Fair!,Easy,2,Temple of The Ultimate Ultimate Weapon,4.8,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70617-1.jpg,2017,99.99
+10507,11,52,Hop aboard My First Train Set for beginning builder fun!,Easy,2,Quake Mech,4.5,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70632-1.jpg,2017,89.99
+10847,5,23,Introduce counting with this easy-to-build train!,Easy,2,"garmadon, Garmadon, GARMADON!",4.9,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70656-1.jpg,2017,79.99
+10816,6,36,Learn to build and create your own fleet of LEGO® DUPLO® vehicles!,Easy,2,Ice Tank,4.8,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70616-1.jpg,2017,79.99
+2304,15,1,Start creations here!,Easy,2,Temple of Resurrection,4.2,NINJAGO®,https://images.brickset.com/sets/images/70643-1.jpg,2018,69.99
+10590,3,29,Head off on your holidays with the LEGO® DUPLO® Airport!,Easy,2,Lightning Jet,5,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70614-1.jpg,2017,59.99
+41190,2,149,Help Emily Jones find the lost diary page and outwit the shadow bat!,Easy,2,Killow vs. Samurai X,4,NINJAGO®,https://images.brickset.com/sets/images/70642-1.jpg,2018,49.99
+41181,3,67,Protect the crystals from the goblin thief!,Easy,2,Garmadon's Volcano Lair,4.3,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70631-1.jpg,2017,49.99
+41311,7,289,Enjoy pizza with friends at Heartlake’s Italian restaurant!,Easy,2,Green Ninja Mech Dragon,4.7,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70612-1.jpg,2017,49.99
+41328,2,95,Stephanie is always on the go… even at home in her bedroom!,Easy,2,Ninja Nightcrawler,4.8,NINJAGO®,https://images.brickset.com/sets/images/70641-1.jpg,2018,39.99
+41134,5,774,"Learn to sing, dance and play with friends in Heartlake City!",Easy,2,Street Race of Snake Jaguar,4.7,NINJAGO®,https://images.brickset.com/sets/images/70639-1.jpg,2018,29.99
+41310,1,185,Drive the van to send special gifts all around Heartlake City!,Easy,2,Water Strider,4.5,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70611-1.jpg,2017,29.99
+41306,1,79,Hop on the scooter and zoom off to catch some waves!,Easy,2,Master Falls,4,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70608-1.jpg,2017,29.99
+21314,30,230,Reimagine Disney’s TRON: Legacy movie scenes with LEGO® bricks!,Easy,2,Manta Ray Bomber,4.3,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70609-1.jpg,2017,29.99
+21308,23,496,What time is it? It’s LEGO® Adventure Time™!,Easy,2,Flying Jelly Sub,4.6,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70610-1.jpg,2017,29.99
+21312,33,231,"Build, play and learn from inspiring women of NASA!",Easy,2,Katana V11,5,NINJAGO®,https://images.brickset.com/sets/images/70638-1.jpg,2018,19.99
+10737,2,63,Battle Mr. Freeze™ with Batman™ and his Batboat on the Gotham City Sea!,Easy,2,Piranha Attack,3.6,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70629-1.jpg,2017,19.99
+75930,2,1019,Rescue Maisie from the Indoraptor at Lockwood Estate!,Easy,2,NINJAGO® City Chase,4.6,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70607-1.jpg,2017,19.99
+75931,1,289,Defend the outpost from the terrifying Dilophosaurus!,Easy,2,Spinjitzu Training,4.7,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70606-1.jpg,2017,9.99
+41614,1,234,Train a raptor with LEGO® BrickHeadz™ Owen and Blue!,Easy,2,Misfortune’s Keep,4.5,NINJAGO®,https://images.brickset.com/sets/images/70605-1.jpg,2016,79.99
+75926,1,126,Chase the Pteranodon and rescue it from danger!,Easy,2,Salvage M.E.C.,4.8,NINJAGO®,https://images.brickset.com/sets/images/70592-1.jpg,2016,39.99
+76104,13,375,Bash the ball-shooting gun turret with the Hulkbuster!,Easy,2,Vermillion Invader,4.6,NINJAGO®,https://images.brickset.com/sets/images/70624-1.jpg,2017,29.99
+76102,10,223,Find Thor’s ultimate weapon!,Easy,2,Destiny's Shadow,4.6,NINJAGO®,https://images.brickset.com/sets/images/70623-1.jpg,2017,29.99
+76101,13,124,Defend Wakanda from attack with the Avengers!,Easy,2,Raid Zeppelin,4,NINJAGO®,https://images.brickset.com/sets/images/70603-1.jpg,2016,29.99
+41605,2,105,Feel the power of Infinity with LEGO® BrickHeadz Thanos!,Easy,2,Sky Shark,4.2,NINJAGO®,https://images.brickset.com/sets/images/70601-1.jpg,2016,19.99
+41606,1,113,Be a legendary outlaw with LEGO® BrickHeadz Star-Lord!,Easy,2,The Vermillion Attack,4.7,NINJAGO®,https://images.brickset.com/sets/images/70621-1.jpg,2017,9.99
+76078,7,375,Get ready for a clash of the Hulks!,Easy,2,THE LEGO® NINJAGO® MOVIE™,4.3,Minifigures,https://images.brickset.com/sets/images/71019-13.jpg,2017,3.99
+76084,6,400,Fight for the future of Asgard!,Easy,2,Ferrari Ultimate Garage,5,Speed Champions,https://images.brickset.com/sets/images/75889-1.jpg,2018,99.99
+76077,10,377,Send in Iron Man to rescue Agent Coulson from Detroit Steel!,Easy,2,Porsche 911 RSR and 911 Turbo 3.0,4.8,Speed Champions,https://images.brickset.com/sets/images/75888-1.jpg,2018,29.99
+76099,6,229,Battle Killmonger for the precious vibranium with Black Panther!,Easy,2,1968 Ford Mustang Fastback,4.9,Speed Champions,https://images.brickset.com/sets/images/75884-1.jpg,2018,14.99
+76082,9,185,Foil the masked robbers’ bank raid!,Easy,2,Ferrari 488 GT3 “Scuderia Corsa”,5,Speed Champions,https://images.brickset.com/sets/images/75886-1.jpg,2018,14.99
+76076,10,160,Retrieve Captain America's shield from evil Super-Adaptoid!,Easy,2,Ford Fiesta M-Sport WRC,4.5,Speed Champions,https://images.brickset.com/sets/images/75885-1.jpg,2018,14.99
+76091,2,79,Match Thor against Loki in an epic Mighty Micros clash!,Easy,2,MERCEDES AMG PETRONAS Formula One™ Team,4.6,Speed Champions,https://images.brickset.com/sets/images/75883-1.jpg,2017,99.99
+76067,14,330,Jump to the rescue and control the blaze with the Avengers and Spider-Man!,Easy,2,2016 Ford GT & 1966 Ford GT40,4.8,Speed Champions,https://images.brickset.com/sets/images/75881-1.jpg,2017,29.99
+76079,9,197,Team up with Mantis and Rocket and fight back against Taserface!,Easy,2,Porsche 919 Hybrid,5,Speed Champions,https://images.brickset.com/sets/images/75887-1.jpg,2018,14.99
+41590,8,96,Stand your ground with your own LEGO® BrickHeadz Iron Man!,Easy,2,Mercedes-AMG GT3,4.6,Speed Champions,https://images.brickset.com/sets/images/75877-1.jpg,2017,14.99
+41592,8,93,Have a smashing time with LEGO® BrickHeadz The Hulk!,Easy,2,McLaren 720S,4.9,Speed Champions,https://images.brickset.com/sets/images/75880-1.jpg,2017,14.99
+76073,4,85,Take a swipe at Magneto with the mighty Wolverine!,Easy,2,Scuderia Ferrari SF16-H,4.7,Speed Champions,https://images.brickset.com/sets/images/75879-1.jpg,2017,14.99
+21144,4,549,Create a flourishing Farm Cottage!,Easy,2,Bugatti Chiron,4.9,Speed Champions,https://images.brickset.com/sets/images/75878-1.jpg,2017,14.99
+21123,16,208,Spring a surprise attack with The Iron Golem!,Easy,2,Ford Mustang GT,4.4,Speed Champions,https://images.brickset.com/sets/images/75871-1.jpg,2016,14.99
+21138,4,69,Grow and trade your crops at the Melon Farm!,Easy,2,Kessel Run Millennium Falcon™,4,Star Wars™,https://images.brickset.com/sets/images/75212-1.jpg,2018,169.99
+21122,14,571,Battle the hostile mobs at The Nether Fortress!,Easy,2,Imperial TIE Fighter™,4.7,Star Wars™,https://images.brickset.com/sets/images/75211-1.jpg,2018,69.99
+72002,1,191,Double the action with the 2-in-1 Twinfector!,Easy,2,Moloch's Landspeeder™,4.5,Star Wars™,https://images.brickset.com/sets/images/75210-1.jpg,2018,39.99
+70337,2,75,Soar into battle with Ultimate Lance and his jet wings!,Easy,2,Yoda's Hut,4.4,Star Wars™,https://images.brickset.com/sets/images/75208-1.jpg,2018,29.99
+70608,10,312,Battle against evil Jungle Garmadon on the jungle bridge!,Easy,2,Han Solo's Landspeeder™,4.8,Star Wars™,https://images.brickset.com/sets/images/75209-1.jpg,2018,29.99
+70609,6,341,Protect NINJAGO® City from flying Manta Ray Bomber attack!,Easy,2,Jedi™ and Clone Troopers™ Battle Pack,4,Star Wars™,https://images.brickset.com/sets/images/75206-1.jpg,2018,14.99
+70629,8,217,Stop a Piranha Attack with Kai and Misako!,Easy,2,Imperial Patrol Battle Pack,5,Star Wars™,https://images.brickset.com/sets/images/75207-1.jpg,2018,14.99
+70607,18,233,Stop a crime in the NINJAGO® City street market!,Easy,2,Chewbacca™,3,BrickHeadz,https://images.brickset.com/sets/images/41609-1.jpg,2018,9.99
+70606,11,109,Practice your Spinjitzu skills with Kai and Zane!,Easy,2,Death Star™,3.9,Star Wars™,https://images.brickset.com/sets/images/75159-1.jpg,2016,499.99
+70601,12,221,Take on Flintlocke’s Sky Shark with Ninja Lloyd!,Easy,2,Slave I,4.8,Star Wars™,https://images.brickset.com/sets/images/75060-1.jpg,2015,199.99
+70621,7,83,Battle the Vermillion to win the Fast Forward Time Blade!,Easy,2,First Order Star Destroyer™,4.8,Star Wars™,https://images.brickset.com/sets/images/75190-1.jpg,2017,159.99
+75884,9,183,"Build, display and race the 1968 Ford Mustang Fastback!",Easy,2,First Order Heavy Assault Walker™,4.4,Star Wars™,https://images.brickset.com/sets/images/75189-1.jpg,2017,149.99
+75886,3,179,Team up with Ferrari “Scuderia Corsa” and triumph!,Easy,2,Resistance Bomber,4.6,Star Wars™,https://images.brickset.com/sets/images/75188-1.jpg,2017,109.99
+75881,12,366,Race your friends to win a 24-hour race!,Easy,2,BB-8™,4.8,Star Wars™,https://images.brickset.com/sets/images/75187-1.jpg,2017,99.99
+75887,3,163,Race to win a 24-hour race with the Porsche 919 Hybrid!,Easy,2,Krennic's Imperial Shuttle,4.4,Star Wars™,https://images.brickset.com/sets/images/75156-1.jpg,2016,89.99
+75877,12,196,Customize the awesome AMG GT3 to race!,Easy,2,The Arrowhead,4.8,Star Wars™,https://images.brickset.com/sets/images/75186-1.jpg,2017,89.99
+75880,10,161,"Design, build and race an incredible McLaren supercar!",Easy,2,Defense of Crait™,4.3,Star Wars™,https://images.brickset.com/sets/images/75202-1.jpg,2018,84.99
+75879,11,184,Speed into race action with the awesome Scuderia Ferrari SF16-H!,Easy,2,Kylo Ren's TIE Fighter™,4.6,Star Wars™,https://images.brickset.com/sets/images/75179-1.jpg,2017,79.99
+75878,19,181,Build and drive the ultimate hyper car!,Easy,2,Poe's X-Wing Fighter™,4.7,Star Wars™,https://images.brickset.com/sets/images/75102-1.jpg,2015,79.99
+75871,28,185,Break records in this American dream car!,Easy,2,Rebel U-Wing Fighter™,4.6,Star Wars™,https://images.brickset.com/sets/images/75155-1.jpg,2016,79.99
+75210,2,464,Go on the hunt with Moloch!,Easy,2,Rathtar™ Escape,4.7,Star Wars™,https://images.brickset.com/sets/images/75180-1.jpg,2017,79.99
+75208,5,229,Train with Luke at Yoda’s Dagobah hideout!,Easy,2,Tracker I,4.3,Star Wars™,https://images.brickset.com/sets/images/75185-1.jpg,2017,69.99
+75209,4,345,Escape to safety with Han Solo’s Landspeeder!,Easy,2,Y-Wing Starfighter™,4.7,Star Wars™,https://images.brickset.com/sets/images/75172-1.jpg,2017,59.99
+75202,4,746,Join the battle at the Resistance base!,Easy,2,Jakku Quadjumper™,4.3,Star Wars™,https://images.brickset.com/sets/images/75178-1.jpg,2017,49.99
+75178,12,457,Escape Jakku in the powerful Quadjumper!,Easy,2,First Order Heavy Scout Walker™,4,Star Wars™,https://images.brickset.com/sets/images/75177-1.jpg,2017,49.99
+75205,14,376,Stop by at Tatooine’s Mos Eisley Cantina!,Easy,2,Mos Eisley Cantina™,3.5,Star Wars™,https://images.brickset.com/sets/images/75205-1.jpg,2018,39.99
+75201,37,370,Seize control of the First Order AT-ST!,Easy,2,First Order AT-ST™,1.8,Star Wars™,https://images.brickset.com/sets/images/75201-1.jpg,2018,39.99
+75200,25,241,Learn the Jedi way at the Ahch-To Island mountainside hut!,Easy,2,Ahch-To Island™ Training,4.5,Star Wars™,https://images.brickset.com/sets/images/75200-1.jpg,2018,29.99
+75204,13,278,Speed into action with the Sandspeeder!,Easy,2,Sandspeeder™,4.5,Star Wars™,https://images.brickset.com/sets/images/75204-1.jpg,2018,29.99
+75199,19,157,Chase down the Jedi with General Grievous’ Combat Speeder!,Easy,2,General Grievous' Combat Speeder,2.6,Star Wars™,https://images.brickset.com/sets/images/75199-1.jpg,2018,29.99
+75176,14,294,Jettison to safety in the Resistance Transport Pod!,Easy,2,Resistance Transport Pod™,4.7,Star Wars™,https://images.brickset.com/sets/images/75176-1.jpg,2017,29.99
+75183,38,282,Bring Darth Vader to life at the medical bay!,Easy,2,Darth Vader™ Transformation,4.7,Star Wars™,https://images.brickset.com/sets/images/75183-1.jpg,2017,24.99
+75168,37,262,Journey to the stars aboard Yoda’s starship!,Easy,2,Yoda's Jedi Starfighter™,4.5,Star Wars™,https://images.brickset.com/sets/images/75168-1.jpg,2017,24.99
+75182,27,305,Pack a punch with the Republic Fighter Tank!,Easy,2,Republic Fighter Tank™,4.6,Star Wars™,https://images.brickset.com/sets/images/75182-1.jpg,2017,24.99
+75169,32,208,Battle it out at the generator core!,Easy,2,Duel on Naboo™,4.4,Star Wars™,https://images.brickset.com/sets/images/75169-1.jpg,2017,24.99
+75529,7,92,Protect the First Order with the Elite Praetorian Guard!,Easy,2,Elite Praetorian Guard,4.7,Star Wars™,https://images.brickset.com/sets/images/75529-1.jpg,2017,24.99
+75117,12,86,Go on the hunt for Resistance forces with the fierce Kylo Ren™!,Easy,2,Kylo Ren™,4.5,Star Wars™,https://images.brickset.com/sets/images/75117-1.jpg,2016,24.99
+75196,3,188,Intercept Kylo Ren in a deep space microfighter duel!,Easy,2,Stormtrooper™ Commander,4,Star Wars™,https://images.brickset.com/sets/images/75531-1.jpg,2017,24.99
+75195,4,216,Pit First Order against Resistance in a micro planetside battle!,Easy,2,A-Wing™ vs. TIE Silencer™ Microfighters,4.3,Star Wars™,https://images.brickset.com/sets/images/75196-1.jpg,2018,19.99
+75198,14,97,Keep the Jawas busy on desert planet Tatooine!,Easy,2,Ski Speeder™ vs. First Order Walker™ Microfighters,4.5,Star Wars™,https://images.brickset.com/sets/images/75195-1.jpg,2018,19.99
+75193,9,92,Play at micro lightspeed with the Millennium Falcon!,Easy,2,Tatooine™ Battle Pack,4.1,Star Wars™,https://images.brickset.com/sets/images/75198-1.jpg,2018,14.99
+75194,3,91,Take on the Resistance in a micro-scale TIE Fighter!,Easy,2,First Order Specialists Battle Pack,4.1,Star Wars™,https://images.brickset.com/sets/images/75197-1.jpg,2018,14.99
+75160,6,109,Enter miniature battle with the amazing U-Wing Microfighter!,Easy,2,Bounty Hunter Speeder Bike™ Battle Pack,4.7,Star Wars™,https://images.brickset.com/sets/images/75167-1.jpg,2017,14.99
+75161,4,88,Engage the Rebels with the tough TIE Striker Microfighter!,Easy,2,First Order Transport Speeder Battle Pack,4.6,Star Wars™,https://images.brickset.com/sets/images/75166-1.jpg,2017,14.99
+41602,3,119,Feel the Force with a LEGO® BrickHeadz construction character featuring Rey!,Easy,2,Millennium Falcon™ Microfighter,4.7,Star Wars™,https://images.brickset.com/sets/images/75193-1.jpg,2018,9.99
+75173,27,149,Go in search of Ben Kenobi in Luke’s Landspeeder!,Easy,2,First Order TIE Fighter™ Microfighter,4.3,Star Wars™,https://images.brickset.com/sets/images/75194-1.jpg,2018,9.99
+75524,1,87,Jump into action with warrior monk Chirrut Îmwe!,Easy,2,U-Wing™ Microfighter,4.8,Star Wars™,https://images.brickset.com/sets/images/75160-1.jpg,2017,9.99
+75165,36,112,Track down those Rebels!,Easy,2,TIE Striker™ Microfighter,4.5,Star Wars™,https://images.brickset.com/sets/images/75161-1.jpg,2017,9.99
+75139,47,409,Defeat Kylo Ren at the forest castle!,Easy,2,Rey,5,BrickHeadz,https://images.brickset.com/sets/images/41602-1.jpg,2018,9.99
+75171,19,419,Uncover the Death Star plans at the beach bunker!,Easy,2,Snowspeeder™,4.3,Star Wars™,https://images.brickset.com/sets/images/75144-1.jpg,2017,199.99
+75147,12,558,Join StarScavenger on dangerous salvage missions!,Easy,2,Jedi Starfighter™ With Hyperdrive,4.7,Star Wars™,https://images.brickset.com/sets/images/75191-1.jpg,2017,99.99
+75184,26,309,Launch into the holidays with the LEGO® Star Wars Advent Calendar!,Easy,2,Darth Vader™,5,Star Wars™,https://images.brickset.com/sets/images/75534-1.jpg,2018,39.99
+75170,25,269,Join the Rebel battle aboard The Phantom!,Easy,2,Boba Fett™,4.8,Star Wars™,https://images.brickset.com/sets/images/75533-1.jpg,2018,29.99
+75120,12,169,Go behind enemy lines with K-2SO!,Easy,2,Luke's Landspeeder™,4.5,Star Wars™,https://images.brickset.com/sets/images/75173-1.jpg,2017,19.99
+75118,10,82,Command the troops with Captain Phasma™!,Easy,2,Y-Wing Starfighter™,5,Star Wars™,https://images.brickset.com/sets/images/75181-1.jpg,2018,199.99
+75121,4,106,Enforce Imperial rule with the Empire’s elite Death Trooper!,Easy,2,Millennium Falcon™,4.8,Star Wars™,https://images.brickset.com/sets/images/75192-1.jpg,2017,799.99
+75099,70,193,Speed into action on Rey's Speeder!™,Easy,2,Sergeant Jyn Erso™,3.7,Star Wars™,https://images.brickset.com/sets/images/75119-1.jpg,2016,24.99
+75523,1,89,Patrol the Scarif coastline with the armored Stormtrooper!,Easy,2,Chirrut Îmwe™,4,Star Wars™,https://images.brickset.com/sets/images/75524-1.jpg,2017,24.99
+75107,10,85,Battle the Jedi with posable Jango Fett!™,Easy,2,Baze Malbus™,5,Star Wars™,https://images.brickset.com/sets/images/75525-1.jpg,2017,24.99
+75125,9,87,Blast off on miniature X-Wing Fighter adventures!,Easy,2,Imperial Trooper Battle Pack,4,Star Wars™,https://images.brickset.com/sets/images/75165-1.jpg,2017,14.99
+75128,11,93,Go on the hunt for microfighter rebels!,Easy,2,TIE Fighter™,4.7,Star Wars™,https://images.brickset.com/sets/images/75095-1.jpg,2015,199.99
+75126,11,91,Speed across distant planets in the micro First Order Snowspeeder™!,Easy,2,Kylo Ren’s Command Shuttle™,4.1,Star Wars™,https://images.brickset.com/sets/images/75104-1.jpg,2015,119.99
+42065,28,370,Travel over the toughest terrain with the RC Tracked Racer!,Easy,2,TIE Striker™,4.6,Star Wars™,https://images.brickset.com/sets/images/75154-1.jpg,2016,69.99
+42062,8,631,"Grab, lift, load and deliver at the Container Yard!",Easy,2,Battle on Takodana™,4.1,Star Wars™,https://images.brickset.com/sets/images/75139-1.jpg,2016,59.99
+42075,1,513,Explore iconic vehicle design with the First Responder!,Easy,2,Battle on Scarif,3.8,Star Wars™,https://images.brickset.com/sets/images/75171-1.jpg,2017,49.99
+42060,10,365,Call in the Roadwork Crew!,Easy,2,StarScavenger™,3.6,Star Wars™,https://images.brickset.com/sets/images/75147-1.jpg,2016,49.99
+8293,57,10,Motorize your LEGO® Technic creations with the Power Functions Motor Set!,Easy,2,Encounter on Jakku™,3.6,Star Wars™,https://images.brickset.com/sets/images/75148-1.jpg,2016,59.99
+42059,7,142,Fly off the ramp at high speed with the super-fast Stunt Truck!,Easy,2,LEGO® Star Wars™ Advent Calendar,3.2,Star Wars™,https://images.brickset.com/sets/images/75184-1.jpg,2017,39.99
+42057,9,199,Take to the skies with the Ultralight Helicopter!,Easy,2,The Phantom,3.8,Star Wars™,https://images.brickset.com/sets/images/75170-1.jpg,2017,29.99
+42058,2,140,Hit the ramp at high speed with the awesome Stunt Bike!,Easy,2,Darth Vader™,4.7,Star Wars™,https://images.brickset.com/sets/images/75111-1.jpg,2015,29.99
+42084,2,176,Collect and transport heavy cargo with the Hook Loader!,Easy,2,K-2SO™,4.1,Star Wars™,https://images.brickset.com/sets/images/75120-1.jpg,2016,24.99
+42033,8,125,Smash land speed records with the LEGO® Technic Record Breaker!,Easy,2,Captain Phasma™,4.1,Star Wars™,https://images.brickset.com/sets/images/75118-1.jpg,2016,24.99
+42045,5,180,Thunder over the ocean with the Hydroplane Racer!,Easy,2,Imperial Death Trooper™,4.8,Star Wars™,https://images.brickset.com/sets/images/75121-1.jpg,2016,24.99
+42031,4,155,Reach dizzying heights with the awesome LEGO® Technic Cherry Picker!,Easy,2,Rey's Speeder™,4.4,Star Wars™,https://images.brickset.com/sets/images/75099-1.jpg,2015,19.99
+70919,5,267,Party on with Superman™ and friends!,Easy,2,Scarif Stormtrooper™,5,Star Wars™,https://images.brickset.com/sets/images/75523-1.jpg,2017,24.99
+70911,24,305,Put the heat on The Penguin™ Arctic Roller with Batman™!,Easy,2,Jango Fett™,3.7,Star Wars™,https://images.brickset.com/sets/images/75107-1.jpg,2015,19.99
+70903,18,254,Battle with Batman™ against The Riddler™ and his allies!,Easy,2,Rebel Trooper Battle Pack,4.7,Star Wars™,https://images.brickset.com/sets/images/75164-1.jpg,2017,14.99
+70901,19,201,Protect the power plant from Mr. Freeze’s ice attack!,Easy,2,Resistance Trooper Battle Pack,4.5,Star Wars™,https://images.brickset.com/sets/images/75131-1.jpg,2016,12.99
+70913,7,141,Power into the sky to stop Scarecrow’s fear gas attacks!,Easy,2,First Order Battle Pack,3.9,Star Wars™,https://images.brickset.com/sets/images/75132-1.jpg,2016,12.99
+70900,18,124,Help Batman™ stop The Joker™ escaping!,Easy,2,Captain Phasma™,4.7,BrickHeadz,https://images.brickset.com/sets/images/41486-1.jpg,2017,9.99
+70907,10,460,Speed after Killer Croc’s Tail-Gator on Batman’s Batski!,Easy,2,Y-Wing™ Microfighter,4.7,Star Wars™,https://images.brickset.com/sets/images/75162-1.jpg,2017,9.99
+71264,2,156,Fight crime with Batgirl™ and Robin™ in THE LEGO® BATMAN MOVIE!,Easy,2,Resistance X-Wing Fighter™,4.3,Star Wars™,https://images.brickset.com/sets/images/75125-1.jpg,2016,9.99
+70902,27,139,Stop Catwoman™ escaping with the diamonds!,Easy,2,TIE Advanced Prototype™,4.6,Star Wars™,https://images.brickset.com/sets/images/75128-1.jpg,2016,9.99
+41588,12,151,Show off the evil trickster with LEGO® BrickHeadz The Joker™!,Easy,2,Krennic's Imperial Shuttle™ Microfighter,4.3,Star Wars™,https://images.brickset.com/sets/images/75163-1.jpg,2017,9.99
+70608,10,312,Battle against evil Jungle Garmadon on the jungle bridge!,Easy,2,First Order Snowspeeder™,4.5,Star Wars™,https://images.brickset.com/sets/images/75126-1.jpg,2016,9.99
+70609,6,341,Protect NINJAGO® City from flying Manta Ray Bomber attack!,Easy,2,6x6 All Terrain Tow Truck,3.5,Technic,https://images.brickset.com/sets/images/42070-1.jpg,2017,289.99
+70629,8,217,Stop a Piranha Attack with Kai and Misako!,Easy,2,Porsche 911 GT3 RS,4.7,Technic,https://images.brickset.com/sets/images/42056-1.jpg,2016,299.99
+70607,18,233,Stop a crime in the NINJAGO® City street market!,Easy,2,Bucket Wheel Excavator,4.6,Technic,https://images.brickset.com/sets/images/42055-1.jpg,2016,279.99
+70606,11,109,Practice your Spinjitzu skills with Kai and Zane!,Easy,2,Mack Anthem,4.7,Technic,https://images.brickset.com/sets/images/42078-1.jpg,2018,179.99
+41607,1,136,Master the skills of a green-skinned assassin with LEGO® BrickHeadz Gamora!,Challenging,4,Extreme Adventure,4.9,Technic,https://images.brickset.com/sets/images/42069-1.jpg,2017,179.99
+60188,1,883,Head to the LEGO® City mine and dig up some gold!,Challenging,4,Air Race Jet,4.9,Technic,https://images.brickset.com/sets/images/42066-1.jpg,2017,159.99
+60171,2,88,Arrest the crooks and recover the hidden loot!,Challenging,4,Rally Car,4.4,Technic,https://images.brickset.com/sets/images/42077-1.jpg,2018,109.99
+70918,2,198,Bring down Captain Boomerang™ with Batman’s Bat-Dune Buggy!,Challenging,4,RC Tracked Racer,4.5,Technic,https://images.brickset.com/sets/images/42065-1.jpg,2017,99.99
+10734,2,175,Tear it down and build it again!,Challenging,4,Airport Rescue Vehicle,4.8,Technic,https://images.brickset.com/sets/images/42068-1.jpg,2017,99.99
+10754,1,125,Swing into action with Spider-Man and catch the Scorpion!,Challenging,4,Hovercraft,4.2,Technic,https://images.brickset.com/sets/images/42076-1.jpg,2018,89.99
+75929,1,577,Escape from the rampaging Carnotaurus!,Challenging,4,BMW R 1200 GS Adventure,4.7,Technic,https://images.brickset.com/sets/images/42063-1.jpg,2017,59.99
+41607,1,136,Master the skills of a green-skinned assassin with LEGO® BrickHeadz Gamora!,Challenging,4,Container Yard,4.8,Technic,https://images.brickset.com/sets/images/42062-1.jpg,2017,59.99
+10754,1,125,Swing into action with Spider-Man and catch the Scorpion!,Challenging,4,First Responder,5,Technic,https://images.brickset.com/sets/images/42075-1.jpg,2018,49.99
+70365,2,88,Watch Axl become unstoppable on the battlefield!,Challenging,4,Racing Yacht,4.8,Technic,https://images.brickset.com/sets/images/42074-1.jpg,2018,39.99
+70347,1,98,Stop the Stone stomper with the King’s Guard battle vehicle!,Challenging,4,Roadwork Crew,4.8,Technic,https://images.brickset.com/sets/images/42060-1.jpg,2017,29.99
+70354,1,393,Keep trouble at bay with Axl’s 3-in-1 Rumble Maker!,Challenging,4,LEGO® Power Functions Motor Set,4.5,Power Functions,https://images.brickset.com/sets/images/8293-1.jpg,2008,29.99
+70918,2,198,Bring down Captain Boomerang™ with Batman’s Bat-Dune Buggy!,Challenging,4,Stunt Truck,4.7,Technic,https://images.brickset.com/sets/images/42059-1.jpg,2017,19.99
+75181,1,1966,Collect the ultimate long-range Rebel starfighter!,Very Challenging,5,Ultralight Helicopter,4.7,Technic,https://images.brickset.com/sets/images/42057-1.jpg,2017,19.99
+41609,1,149,Growl like a Wookiee with a LEGO® BrickHeadz™ construction character featuring Chewbacca!,Very Easy,1,Stunt Bike,4,Technic,https://images.brickset.com/sets/images/42058-1.jpg,2017,19.99
+41598,3,122,Live life in the fast lane with LEGO® BrickHeadz The Flash™!,Very Easy,1,Dozer Compactor,5,Technic,https://images.brickset.com/sets/images/42071-1.jpg,2018,19.99
+41594,6,118,Lead a LEGO® BrickHeadz ghost crew featuring Disney’s Captain Armando Salazar!,Very Easy,1,Hook Loader,4.5,Technic,https://images.brickset.com/sets/images/42084-1.jpg,2018,14.99
+41486,3,127,Lead the First Order with a LEGO® BrickHeadz construction character featuring Captain Phasma™,Very Easy,1,CLAAS XERION 5000 TRAC VC,4.8,Technic,https://images.brickset.com/sets/images/42054-1.jpg,2016,179.99
+41585,11,91,Celebrate THE LEGO® BATMAN MOVIE with a LEGO BrickHeadz Batman!,Very Easy,1,Heavy Lift Helicopter,4.3,Technic,https://images.brickset.com/sets/images/42052-1.jpg,2016,139.99
+41587,10,101,Showcase the Boy Wonder with LEGO® BrickHeadz Robin™!,Very Easy,1,24 Hours Race Car,4.8,Technic,https://images.brickset.com/sets/images/42039-1.jpg,2015,129.99
+60153,10,169,Pack your city with a bunch of new people!,Very Easy,1,Volvo EW160E,4.8,Technic,https://images.brickset.com/sets/images/42053-1.jpg,2016,119.99
+60165,2,347,Race to the rescue on land and sea!,Very Easy,1,Formula Off-Roader,4.6,Technic,https://images.brickset.com/sets/images/42037-1.jpg,2015,59.99
+7895,47,8,"Switch tracks – build a bigger, more exciting railway track.",Very Easy,1,Mine Loader,4.3,Technic,https://images.brickset.com/sets/images/42049-1.jpg,2016,49.99
+7280,85,2,Add roads to your LEGO® town!,Very Easy,1,Street Motorcycle,4.9,Technic,https://images.brickset.com/sets/images/42036-1.jpg,2015,39.99
+7281,40,2,Roads for your LEGO® layout!,Very Easy,1,Telehandler,4.8,Technic,https://images.brickset.com/sets/images/42061-1.jpg,2017,39.99
+60163,4,76,Rescue the surfer and be a coast guard hero!,Very Easy,1,Compact Tracked Loader,4.6,Technic,https://images.brickset.com/sets/images/42032-1.jpg,2015,19.99
+60184,2,82,Blow up the rock pile and discover gold!,Very Easy,1,Record Breaker,4.6,Technic,https://images.brickset.com/sets/images/42033-1.jpg,2015,19.99
+60170,2,37,Catch the crook before he escapes with the loot!,Very Easy,1,Hydroplane Racer,4.8,Technic,https://images.brickset.com/sets/images/42045-1.jpg,2016,19.99
+60134,30,157,Fill up your city with people!,Very Easy,1,Cherry Picker,4.8,Technic,https://images.brickset.com/sets/images/42031-1.jpg,2015,12.99
+60145,7,81,Start your engine and race through the dunes!,Very Easy,1,Display Team Jet,4.6,Technic,https://images.brickset.com/sets/images/42044-1.jpg,2016,12.99
+60100,10,81,Help get LEGO® City's mail on the helicopter!,Very Easy,1,The Joker™ Manor,5,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70922-1.jpg,2017,269.99
+60135,5,47,Chase down the crook with the ATV!,Very Easy,1,Arkham Asylum,3.8,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70912-1.jpg,2017,149.99
+10713,2,213,Bring along a world of creativity in your own LEGO® Creative Suitcase!,Very Easy,1,The Ultimate Batmobile,4.6,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70917-1.jpg,2017,139.99
+10701,24,1,Add another useful piece to your LEGO® collection with this Gray Baseplate!,Very Easy,1,Batcave Break-in,4.7,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70909-1.jpg,2017,99.99
+10714,6,1,Create your own world on a Blue LEGO® Baseplate!,Very Easy,1,The Batwing,4,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70916-1.jpg,2017,89.99
+10700,46,1,Add another useful piece to your LEGO® collection with this Bright Green Baseplate!,Very Easy,1,The Bat-Space Shuttle,4.8,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70923-1.jpg,2018,79.99
+10706,8,78,Unleash your imagination with the LEGO® Blue Creativity Box!,Very Easy,1,The Batmobile,4.8,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70905-1.jpg,2017,59.99
+630,180,1,Everyone needs one!,Very Easy,1,The Joker™ Notorious Lowrider,4.7,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70906-1.jpg,2017,49.99
+10699,24,1,Add another useful piece to your LEGO® collection with this Sand Baseplate!,Very Easy,1,Harley Quinn™ Cannonball Attack,3.2,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70921-1.jpg,2018,49.99
+41598,3,122,Live life in the fast lane with LEGO® BrickHeadz The Flash™!,Very Easy,1,Bane™ Toxic Truck Attack,4,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70914-1.jpg,2017,49.99
+41585,11,91,Celebrate THE LEGO® BATMAN MOVIE with a LEGO BrickHeadz Batman!,Very Easy,1,The Justice League™ Anniversary Party,3.2,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70919-1.jpg,2018,29.99
+41587,10,101,Showcase the Boy Wonder with LEGO® BrickHeadz Robin™!,Very Easy,1,The Penguin™ Arctic Roller,4.8,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70911-1.jpg,2017,29.99
+71348,1,64,Continue your wizarding adventures in LEGO® DIMENSIONS™ with your very own Harry Potter™ Fun Pack featuring Hermione Granger.,Very Easy,1,Egghead™ Mech Food Fight,4.7,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70920-1.jpg,2018,29.99
+41594,6,118,Lead a LEGO® BrickHeadz ghost crew featuring Disney’s Captain Armando Salazar!,Very Easy,1,The Riddler™ Riddle Racer,4.2,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70903-1.jpg,2017,29.99
+10838,2,15,Play all day with the cute LEGO® DUPLO® Family Pets!,Very Easy,1,The Bat-Dune Buggy,4.5,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70918-1.jpg,2018,19.99
+76029,25,92,Take down the Ultron jet with super-jumping Iron Man!,Very Easy,1,Scarecrow™ Special Delivery,4.4,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70910-1.jpg,2017,19.99
+76072,10,94,Thrust Iron Man into battle against evil Thanos!,Very Easy,1,Mr. Freeze™ Ice Attack,4.6,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70901-1.jpg,2017,19.99
+71021,14,7,Get the party started with LEGO® Minifigures!,Very Easy,1,Scarecrow™ Fearful Face-off,4.1,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70913-1.jpg,2017,14.99
+60153,10,169,Pack your city with a bunch of new people!,Very Easy,1,The Joker™ Balloon Escape,4.7,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70900-1.jpg,2017,14.99
+71020,13,8,Discover new heroes and villains in LEGO® Minifigures—THE LEGO BATMAN MOVIE Series 2.,Very Easy,1,THE LEGO® BATMAN MOVIE Series 2,4.8,Minifigures,https://images.brickset.com/sets/images/71020-12.jpg,2018,3.99
+71019,22,8,Bring the NINJAGO® world to life with LEGO® Minifigures!,Very Easy,1,The Scuttler,4.7,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70908-1.jpg,2017,79.99
+71018,26,7,"Collect the LEGO® Minifigures, Series 17—A story in every bag!",Very Easy,1,Killer Croc™ Tail-Gator,3.8,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70907-1.jpg,2017,69.99
+70348,1,216,Hunt the Rogul with Lance’s four-in-one Twin Jouster!,Very Easy,1,Two-Face™ Double Demolition,4.8,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70915-1.jpg,2017,59.99
+70364,1,80,Grab a battle suit and help Aaron defend Knighton!,Very Easy,1,Clayface™ Splat Attack,4.4,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70904-1.jpg,2017,34.99
+70339,2,67,Hammer the enemy into defeat with Ultimate Flama!,Very Easy,1,THE LEGO® BATMAN MOVIE Story Pack,4.5,DIMENSIONS™,https://images.brickset.com/sets/images/71264-1.jpg,2017,44.99
+70338,1,64,Fire up Ultimate General Magmar to defeat the opponents!,Very Easy,1,Catwoman™ Catcycle Chase,4.5,THE LEGO® BATMAN MOVIE,https://images.brickset.com/sets/images/70902-1.jpg,2017,19.99
+70372,8,10,Collect and combine the NEXO Powers to defeat Monstrox!,Very Easy,1,Batman™,4.9,BrickHeadz,https://images.brickset.com/sets/images/41585-1.jpg,2017,9.99
+71019,22,8,Bring the NINJAGO® world to life with LEGO® Minifigures!,Very Easy,1,The Joker™,4.8,BrickHeadz,https://images.brickset.com/sets/images/41588-1.jpg,2017,9.99
+75206,3,102,Take on the Separatists with the Jedi and Clone Troopers!,Very Easy,1,Robin™,4.8,BrickHeadz,https://images.brickset.com/sets/images/41587-1.jpg,2017,9.99
+75207,4,99,Patrol the Empire and enforce the rule of law!,Very Easy,1,Destiny's Bounty,4.9,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70618-1.jpg,2017,159.99
+41609,1,149,Growl like a Wookiee with a LEGO® BrickHeadz™ construction character featuring Chewbacca!,Very Easy,1,NINJAGO® City,4.9,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70620-1.jpg,2017,299.99
+75531,3,100,Join the battle with the 2-in-1 Stormtrooper Commander!,Very Easy,1,Temple of The Ultimate Ultimate Weapon,4.8,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70617-1.jpg,2017,99.99
+75197,15,108,Advance on the Resistance with the First Order Specialists Battle Pack!,Very Easy,1,Quake Mech,4.5,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70632-1.jpg,2017,89.99
+75167,40,125,Go bounty hunting with the super-fast speeder bike!,Very Easy,1,"garmadon, Garmadon, GARMADON!",4.9,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70656-1.jpg,2017,79.99
+75166,25,117,Send in reinforcements with the First Order Transport Speeder!,Very Easy,1,Ice Tank,4.8,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70616-1.jpg,2017,79.99
+75525,1,148,Blast the enemy with tough Baze Malbus!,Very Easy,1,Lightning Jet,5,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70614-1.jpg,2017,59.99
+75164,10,120,Patrol and defend Rebel territory!,Very Easy,1,Garmadon's Volcano Lair,4.3,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70631-1.jpg,2017,49.99
+75131,16,112,Speed into battle against the First Order forces!,Very Easy,1,Green Ninja Mech Dragon,4.7,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70612-1.jpg,2017,49.99
+75132,38,88,Blast the Resistance with the powerful turbolaser!,Very Easy,1,Water Strider,4.5,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70611-1.jpg,2017,29.99
+41486,3,127,Lead the First Order with a LEGO® BrickHeadz construction character featuring Captain Phasma™,Very Easy,1,Master Falls,4,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70608-1.jpg,2017,29.99
+75162,7,90,Shoot for the stars with the Y-Wing Microfighter!,Very Easy,1,Manta Ray Bomber,4.3,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70609-1.jpg,2017,29.99
+75163,4,78,Fly in style with Krennic’s miniature Imperial Shuttle!,Very Easy,1,Flying Jelly Sub,4.6,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70610-1.jpg,2017,29.99
+71020,13,8,Discover new heroes and villains in LEGO® Minifigures—THE LEGO BATMAN MOVIE Series 2.,Very Easy,1,Piranha Attack,3.6,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70629-1.jpg,2017,19.99
+41585,11,91,Celebrate THE LEGO® BATMAN MOVIE with a LEGO BrickHeadz Batman!,Very Easy,1,NINJAGO® City Chase,4.6,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70607-1.jpg,2017,19.99
+41587,10,101,Showcase the Boy Wonder with LEGO® BrickHeadz Robin™!,Very Easy,1,Spinjitzu Training,4.7,THE LEGO® NINJAGO® MOVIE™,https://images.brickset.com/sets/images/70606-1.jpg,2017,9.99
+71019,22,8,Bring the NINJAGO® world to life with LEGO® Minifigures!,Very Easy,1,THE LEGO® NINJAGO® MOVIE™,4.3,Minifigures,https://images.brickset.com/sets/images/71019-13.jpg,2017,3.99

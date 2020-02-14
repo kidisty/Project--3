@@ -1,0 +1,187 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>LEGO Set Decider by TripleK</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="static/css/main.css" />
+	</head>
+	<body class="is-preload homepage">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper">
+					<!--img src="images/pick-a-brick-banner-background-large (1).jpg" alt="" width="100%"/-->
+					<header id="header" class="container">
+
+						<!-- Logo -->
+							<div id="logo">
+								<h1><a href="{{url_for('index')}}">LEGO Set Decider</a></h1>
+								<br>
+								<span>by TripleK</span>
+							</div>
+
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+									<li class="current"><a href="{{url_for('index')}}">Welcome</a></li>
+									<!--li>
+										<a href="#">Dropdown</a>
+										<ul>
+											<li><a href="#">Lorem ipsum dolor</a></li>
+											<li><a href="#">Magna phasellus</a></li>
+											<li>
+												<a href="#">Phasellus consequat</a>
+												<ul>
+													<li><a href="#">Lorem ipsum dolor</a></li>
+													<li><a href="#">Phasellus consequat</a></li>
+													<li><a href="#">Magna phasellus</a></li>
+													<li><a href="#">Etiam dolore nisl</a></li>
+												</ul>
+											</li>
+											<li><a href="#">Veroeros feugiat</a></li>
+										</ul>
+									</li -->
+									<li><a href="{{url_for('user_input')}}">Set Decider</a></li>
+									<li><a href="{{url_for('about')}}">About</a></li>
+								</ul>
+							</nav>
+
+					</header>
+				</div>
+
+			<!-- Main -->
+				<div id="main-wrapper">
+					<div class="container">
+						<div class="row gtr-200">
+							<div class="col-4 col-12-medium">
+								<div id="sidebar">
+
+									<!-- Sidebar -->
+										<section>
+											<h3>How to Use:</h3>
+											<p>Enter some information about the type of sets that you like or are interested in. Piece Count, Difficulty, Rating, Year, and Price.</p>
+											<footer>
+												<a href="{{url_for('about')}}" class="button icon solid fa-info-circle">About the Tool</a>
+											</footer>
+										</section>
+								</div>
+							</div>
+							<div class="col-8 col-12-medium imp-medium">
+								<div id="content">
+										<body> 
+											<h3>Lego Set Decider (L.S.D.)</h3> 
+										
+										<div> 
+										<form action="" method="post" novalidate>
+											{{ form.hidden_tag() }}
+											<p>
+												{{ form.piece_count.label }}<br>
+												{{ form.piece_count(size=32) }}
+											</p>
+											<p>
+												{{ form.difficulty.label }}<br>
+												{{ form.difficulty(size=32) }}
+											</p>
+											<p>
+												{{ form.star_rating.label }}<br>
+												{{ form.star_rating(size=32) }}
+											</p>
+											<p>
+												{{ form.year.label }}<br>
+												{{ form.year(size=32) }}
+											</p>
+											<p>
+												{{ form.price.label }}<br>
+												{{ form.price(size=32) }}
+											</p>
+												<p>{{ form.submit() }}</p>
+										</form> 
+										</div> 
+										</body> 
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+<!-- Footer -->
+			<div id="footer-wrapper">
+				<footer id="footer" class="container">
+					<div class="row">
+						<div class="col-3 col-6-medium col-12-small">
+
+							<!-- Contact -->
+								<section class="widget contact last">
+									<h3>Contact Us</h3>
+									<ul>
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-pinterest"><span class="label">Pinterest</span></a></li>
+									</ul>
+									<p>San Francisco, CA</p>
+								</section>
+
+						</div>
+						<div class="col-3 col-6-medium col-12-small">
+
+							<!-- Links -->
+								<section class="widget links">
+									<h3>Kate Wu</h3>
+									<ul class="style2">
+										<li><a href="https://github.com/katetywu">GitHub</a></li>
+										</ul>
+								</section>
+
+						</div>
+						<div class="col-3 col-6-medium col-12-small">
+
+							<!-- Links -->
+								<section class="widget links">
+									<h3>Kidist Yohannes</h3>
+									<ul class="style2">
+										<li><a href="https://github.com/kidisty">GitHub</a></li>
+										</ul>
+								</section>
+
+						</div>
+						<div class="col-3 col-6-medium col-12-small">
+
+							<!-- Links -->
+								<section class="widget links">
+									<h3>Kasey Geist</h3>
+									<ul class="style2">
+										<li><a href="https://github.com/00geist00">GitHub</a></li>
+									</ul>
+								</section>
+
+						</div>
+
+					</div>
+					<br>
+					<div class="row">
+						<div class="col-12">
+							<div id="copyright">
+								<ul class="menu">
+									<li>&copy; TripleK. All rights reserved</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</footer>
+			</div>
+
+		</div>
+
+<!-- Scripts -->
+
+<script src="static/js/jquery.min.js"></script>
+<script src="static/js/jquery.dropotron.min.js"></script>
+<script src="static/js/browser.min.js"></script>
+<script src="static/js/breakpoints.min.js"></script>
+<script src="static/js/util.js"></script>
+<script src="static/js/main.js"></script>
+
+</body>
+</html>
